@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:"http://schemas.android.com/apk/res/android" android:versionCode="2003" android:versionName="2.2" android:windowSoftInputMode="20" android:installLocation="internalOnly" package="com.moodle.moodlemobile">
+    <supports-screens android:anyDensity="true" android:smallScreens="true" android:normalScreens="true" android:largeScreens="true" android:resizeable="true" android:xlargeScreens="true" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <application android:label="@string/app_name" android:icon="@drawable/icon" android:debuggable="false" android:hardwareAccelerated="true">
+        <activity android:label="@string/app_name" android:name=".MoodleMobile" android:screenOrientation="unspecified" android:configChanges="locale|keyboard|keyboardHidden|orientation|screenSize" android:windowSoftInputMode="0">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <data android:scheme="moodlemobile" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+        </activity>
+        <receiver android:name="de.appplant.cordova.plugin.localnotification.TriggerReceiver" android:exported="false" />
+        <receiver android:name="de.appplant.cordova.plugin.localnotification.ClearReceiver" android:exported="false" />
+        <activity android:theme="@*android:style/Theme.NoDisplay" android:name="de.appplant.cordova.plugin.localnotification.ClickActivity" android:exported="false" android:launchMode="singleInstance" />
+        <receiver android:name="de.appplant.cordova.plugin.notification.TriggerReceiver" android:exported="false" />
+        <receiver android:name="de.appplant.cordova.plugin.notification.ClearReceiver" android:exported="false" />
+        <receiver android:name="de.appplant.cordova.plugin.localnotification.RestoreReceiver" android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <activity android:theme="@*android:style/Theme.NoDisplay" android:name="de.appplant.cordova.plugin.notification.ClickActivity" android:exported="false" android:launchMode="singleInstance" />
+        <activity android:name="com.plugin.gcm.PushHandlerActivity" android:exported="true" />
+        <receiver android:name="com.plugin.gcm.CordovaGCMBroadcastReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+                <category android:name="com.moodle.moodlemobile" />
+            </intent-filter>
+        </receiver>
+        <service android:name="com.plugin.gcm.GCMIntentService" />
+    </application>
+    <uses-sdk android:minSdkVersion="14" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.RECORD_VIDEO" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <permission android:name="com.moodle.moodlemobile.permission.C2D_MESSAGE" android:protectionLevel="signature|signatureOrSystem" />
+    <uses-permission android:name="com.moodle.moodlemobile.permission.C2D_MESSAGE" />
+</manifest>

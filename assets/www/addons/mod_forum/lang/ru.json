@@ -1,0 +1,6 @@
+{
+    "errorgetforum": "Ошибка при получении данных форума",
+    "forumnodiscussionsyet": "В этом форуме ещё нет тем для обсуждения",
+    "numdiscussions": "Обсуждений - {{numdiscussions}}",
+    "numreplies": "Ответов - {{numreplies}}"
+}

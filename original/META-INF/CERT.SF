@@ -1,0 +1,5024 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: Qk7f76ffVKhQBXU6owcb7IwtuZI=
+Created-By: 1.0 (Android SignApk)
+
+Name: assets/www/addons/frontpage/lang/he.json
+SHA1-Digest: kmBp7+RfvCxQpX4lqErCpLcUd+4=
+
+Name: assets/www/core/components/user/lang/he.json
+SHA1-Digest: iDrpiZlvLQh/8AtjCBNKDHyio3I=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/sql/req/idb_query.js
+SHA1-Digest: NtYoBubd/ntadpGPU72rhiIruko=
+
+Name: assets/www/addons/mod_imscp/services/imscp.js
+SHA1-Digest: x1eJOEKlEeu7nK2gD0owKAlvFX0=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_1_idb_test.html
+SHA1-Digest: bQTWEymHuBZFZ85iTKXgUcnoZAk=
+
+Name: assets/www/core/components/sidemenu/lang/pl.json
+SHA1-Digest: 4lBF2yVVzNZFif4nRaBJsMQFSow=
+
+Name: res/drawable-xhdpi/ic_action_next_item.png
+SHA1-Digest: J5ioYUI6PjZhWQvua1C/PgOQ9OM=
+
+Name: assets/www/core/directives/noinputvalidation.js
+SHA1-Digest: lKx69Wq9au4cGEuK2ldmF28TTeM=
+
+Name: assets/www/lib/ydn.db/test/core/index_ls_test.html
+SHA1-Digest: Poqk62JgKQjjo0aWt9LZ4Vy6SOM=
+
+Name: assets/www/addons/files/templates/upload.html
+SHA1-Digest: VfMCHE1M0h+NO/tJpM1/Irm6s38=
+
+Name: assets/www/lib/ionic/scss/_menu.scss
+SHA1-Digest: zMoEjWMU3vETEynf3ZbXooBtBz8=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/utils/reader.js
+SHA1-Digest: mCYYjR835NOOiZjoALeD99o4TAU=
+
+Name: assets/www/core/components/user/lang/es-mx.json
+SHA1-Digest: mmzkq6DVaY/klmYx5jUE+kUZHD4=
+
+Name: assets/www/lib/angular-ui-router/CHANGELOG.md
+SHA1-Digest: ods3qJmyHvaGREoLkNA5R+1Jo6o=
+
+Name: assets/www/addons/calendar/img/userevent.svg
+SHA1-Digest: 78WcUCN+PiYXVWFy1vXFXdIQudA=
+
+Name: assets/www/lib/ydn.db/test/storage/con_idb_test.html
+SHA1-Digest: BEQkaXXimixNBduRonAjVbp/CVM=
+
+Name: assets/www/img/files/wav-64.png
+SHA1-Digest: WeVGHnQMediUQmQQ/chARTYnN5E=
+
+Name: assets/www/lib/ydn.db/test/qunit/test_qunit.js
+SHA1-Digest: 8EAilAZnXpLfEWy/rI4nJGunIQc=
+
+Name: assets/www/addons/files/lang/cs.json
+SHA1-Digest: hvYircXfUP9mkCYnyabDniiEpdo=
+
+Name: assets/www/addons/mod_label/lang/zh-tw.json
+SHA1-Digest: +D5TGqQ7Kl13uFOES/o6GsZ8WRI=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/query/basic-query.js
+SHA1-Digest: LoLA1g90m/jjAUXQnMi/uFoVmWo=
+
+Name: assets/www/addons/mod_label/lang/he.json
+SHA1-Digest: IiLFKaT9GbyeirFWoprut6orOiU=
+
+Name: assets/www/addons/mod_page/services/course_content_handler.js
+SHA1-Digest: lHF67dLAiXOF1QNBuxo82/d0mcM=
+
+Name: assets/www/addons/mod_url/lang/ru.json
+SHA1-Digest: IoGMO21qSPazuF7kVQg5fQJInpc=
+
+Name: assets/www/addons/mod_choice/lang/ca.json
+SHA1-Digest: GCJZuuy2ljAWR3/a3hwyo6V6VUo=
+
+Name: assets/www/lib/ionic/scss/_items.scss
+SHA1-Digest: C0SeJ0WJF/TxeAA7rHY+gg9amQM=
+
+Name: assets/www/core/components/course/lang/es_mx.json
+SHA1-Digest: 1dQrYq+ruaeLZlHDndyXpXg9CEY=
+
+Name: assets/www/img/files/draw-64.png
+SHA1-Digest: CIM/WikF+a/hQC+aYay5Woo1dTk=
+
+Name: assets/www/addons/mod_folder/lang/pt_br.json
+SHA1-Digest: xR5Ko0nlaqXMUhY0EKEyhT83gcU=
+
+Name: assets/www/build/empty
+SHA1-Digest: CfOkowirlyK2OxyqTXkOYC5kROk=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/req/cached_websql_cursor.j
+ s
+SHA1-Digest: w/lCBgqRogR/avWYmu/J9lLNtrE=
+
+Name: assets/www/lib/angular/angular.js
+SHA1-Digest: JetILvRZx/EYzkEuAtR2jPu7zis=
+
+Name: assets/www/lib/ydn.db/test/storage/tr_test.js
+SHA1-Digest: PLBkU+6CmF/sIindyGBBMoIZFy0=
+
+Name: assets/www/core/components/courses/services/courses.js
+SHA1-Digest: nThWkK00NixYspzzhkogqk4ggBM=
+
+Name: assets/www/addons/participants/lang/zh_tw.json
+SHA1-Digest: upJDfyq9EGc1wkAiyb05ONV7NAM=
+
+Name: assets/www/lib/ydn.db/test/storage/StorageJstest.js
+SHA1-Digest: MGdubh9Tt9D6hUFukBKKjOlYZ6E=
+
+Name: assets/www/addons/notifications/lang/ca.json
+SHA1-Digest: hzYxvJrA/cMzWjHTtJm/MRvJP1g=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_11_idb_test.html
+SHA1-Digest: ZD+IBWUaj1AZu0Mv438kDlqQYsE=
+
+Name: assets/www/core/components/login/controllers/credentials.js
+SHA1-Digest: EWPJ6UQ72lrb7CrRCP2znKmAf+w=
+
+Name: assets/www/img/mod/chat.svg
+SHA1-Digest: gkiheI/V4m6/wEegI2J8gu6sRSs=
+
+Name: assets/www/addons/participants/lang/hu.json
+SHA1-Digest: CEUF46p5LTajqi4YX7dJtnUwwbw=
+
+Name: assets/www/core/directives/iframe.js
+SHA1-Digest: J8nltTZiz4B2YWlKtqBrWM61eS8=
+
+Name: res/drawable-hdpi/ic_action_next_item.png
+SHA1-Digest: Xgf4c99Ps/m5enTNEm4FCzPsT/k=
+
+Name: assets/www/core/components/login/lang/bg.json
+SHA1-Digest: btYjhIZMACG0WMOaPKPT+0ZPUgk=
+
+Name: assets/www/addons/mod_url/lang/it.json
+SHA1-Digest: oPyTeW9BRdVE8BvU1z6MFbw+gYI=
+
+Name: assets/www/lib/ydn.db/test/aat/acl.xml
+SHA1-Digest: P7mb0DN9NX+2um+VJFA0qKvDKEs=
+
+Name: assets/www/addons/mod_label/templates/index.html
+SHA1-Digest: 2Lxqcvuo/L3i9hk3/EWy2rvhQl8=
+
+Name: assets/www/img/mod/choice.svg
+SHA1-Digest: EYi8Y34Kpzo/dbqpqV/4u0X1yFs=
+
+Name: assets/www/config.json
+SHA1-Digest: I5E0nNDnwmERK1Y+PzZuAoMHzcU=
+
+Name: assets/www/core/components/user/main.js
+SHA1-Digest: x8jYBQ7SuOyBK/+jCfFkVflfT2Y=
+
+Name: assets/www/core/components/course/lang/ja.json
+SHA1-Digest: gLkNdkGSYqTQLH9Ex6eKXwMbays=
+
+Name: assets/www/addons/coursecompletion/lang/fr.json
+SHA1-Digest: bCSrakfCN+km2Kp6NMkTOSZLAf0=
+
+Name: assets/www/addons/mod_url/lang/hu.json
+SHA1-Digest: UkB0LP/cUWUIj83G7xyZzWs5xmI=
+
+Name: assets/www/core/filters/notags.js
+SHA1-Digest: 0Q4mywLg9ZVmeR4To9aESykxfUU=
+
+Name: assets/www/core/components/course/services/course.js
+SHA1-Digest: grtfJGojCY5O8Lr6N83raMdOQMs=
+
+Name: res/drawable-xxhdpi/icon.png
+SHA1-Digest: voGh/fH05G0S81S1JVuuunjVcg4=
+
+Name: assets/www/addons/mod_assign/lang/en.json
+SHA1-Digest: TqydVNhwfbj8FJtsthLTCRtof6w=
+
+Name: assets/www/core/components/courses/lang/fa.json
+SHA1-Digest: xVoCwIsRJ6LRBFmhMwI1zXsUXAw=
+
+Name: assets/www/img/files/folder-open-64.png
+SHA1-Digest: ZhzMPiTu2k2gDYY5sZbLbWq+lJE=
+
+Name: assets/www/addons/participants/lang/ru.json
+SHA1-Digest: FPWiPU7XsJhewgGKvqtTHLQVb/k=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/error.js
+SHA1-Digest: Q9YKuz96kxaWbXeViZnLntiZhKM=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_2_idb_test.html
+SHA1-Digest: C6fMeWP1aYAAU2bfhGN+F8JlL+k=
+
+Name: assets/www/addons/mod_label/lang/zh_cn.json
+SHA1-Digest: Iuu/TIvCGvEeydwCH81ZSxpcOMU=
+
+Name: assets/www/core/components/course/lang/cs.json
+SHA1-Digest: OPQLVUXt1YgiVynVdCe/RdIkITU=
+
+Name: assets/www/addons/mod_page/lang/es-mx.json
+SHA1-Digest: Mj07CvoCk4RnWiFcTTmvykBMXbs=
+
+Name: assets/www/addons/mod_resource/lang/bg.json
+SHA1-Digest: rZ35AJCh/NDN4cJODfkQ+7X8uKk=
+
+Name: assets/www/core/components/courses/lang/bg.json
+SHA1-Digest: lBvZvvFRi/Otdhhb7Yykd9sB0Sk=
+
+Name: assets/www/lib/ionic/scss/_mixins.scss
+SHA1-Digest: PVAcgsnYPlfba2QWu4qOn+mt5BM=
+
+Name: assets/www/img/files/document-64.png
+SHA1-Digest: Te3CfKkV0wtub8eGTrLuyeBjpto=
+
+Name: assets/www/core/components/user/services/user.js
+SHA1-Digest: o7MkQurYjeQDY6LcUEeCZI5E9iA=
+
+Name: assets/www/addons/mod_forum/lang/pl.json
+SHA1-Digest: GLLDAdaFXJMI1nlHAmC5FzfL/dM=
+
+Name: assets/www/lib/ydn.db/test/qunit/test_qunit.html
+SHA1-Digest: 9dGjHxwFTQPkrsBWVy1r0CzDnRM=
+
+Name: assets/www/lib/ydn.db/misc/ydn.db-1.0.ts
+SHA1-Digest: opPJBgozh5XPCR7lWzIQqNRRmh0=
+
+Name: assets/www/lib/angular-aria/package.json
+SHA1-Digest: o9sNUs1YCLxk7qK8YykZgAvweg0=
+
+Name: assets/www/lib/ionic/scss/_button.scss
+SHA1-Digest: IQyG9Ofi+AqVmLaBq2ZsPQWB6PI=
+
+Name: assets/www/lib/ionic/scss/_toggle.scss
+SHA1-Digest: AZNtTkFc8+RohOQasiMqCrZLCdw=
+
+Name: assets/www/addons/calendar/lang/zh-tw.json
+SHA1-Digest: TaSkTBqBt63kNALRg/91Js47Tec=
+
+Name: assets/www/addons/mod_chat/lang/zh_cn.json
+SHA1-Digest: WzrtLvTTLwsudcwb1MZ7uNJKGwk=
+
+Name: assets/www/lib/ydn.db/test/base/KeyJstest.js
+SHA1-Digest: IEtdIEryp/ctwyGYz5VhxbsMNSc=
+
+Name: assets/www/addons/mod_chat/lang/ca.json
+SHA1-Digest: 5ZZdHsKLCBgmmBGBbOuG+ZHoy+M=
+
+Name: assets/www/addons/mod_resource/lang/es-mx.json
+SHA1-Digest: bZyb+WngKmOQbh6l+Jp36/i8fi8=
+
+Name: assets/www/core/components/login/lang/fa.json
+SHA1-Digest: Kki1LN+w1fb4MBeyZS9z/xa3La0=
+
+Name: assets/www/addons/coursecompletion/lang/es-mx.json
+SHA1-Digest: UgWsdQ/hy2A9zE4miyIxsicYrfI=
+
+Name: assets/www/core/lib/log.js
+SHA1-Digest: IXbrBCJE19GpU8b71WwjvR6fwT8=
+
+Name: assets/www/addons/grades/lang/zh_tw.json
+SHA1-Digest: LkNDJlMQQMjKUI2Q3XHObohU+pI=
+
+Name: assets/www/core/directives/file.js
+SHA1-Digest: +1Io0Qtj7KC7TWq1F7A7LCE9ICM=
+
+Name: assets/www/addons/files/lang/he.json
+SHA1-Digest: +6/h438FUFoTcaHooKFxcfI2OEQ=
+
+Name: assets/www/lib/ydn.db/test/core/iteration_3_test.js
+SHA1-Digest: VTlt2W7rwGJbV9wYFuTfnJ+zkw4=
+
+Name: assets/www/addons/mod_forum/lang/zh-tw.json
+SHA1-Digest: zIiuxbXhAfExyhPp19eNyALfTBI=
+
+Name: assets/www/core/components/sidemenu/lang/es-mx.json
+SHA1-Digest: 6jFOKLsn+mZtACux7nLHuDDaBhQ=
+
+Name: assets/www/lib/ionic/scss/_variables.scss
+SHA1-Digest: VOMmn8ZEiP3pwMeDN6lV8tOKRfs=
+
+Name: assets/www/plugins/org.apache.cordova.network-information/www/ne
+ twork.js
+SHA1-Digest: sFvS6jXxHDt52T8rwicnOU1HzyE=
+
+Name: assets/www/lib/ydn.db/test/storage/default_store_test.js
+SHA1-Digest: 7dC16ek6MhAmEubDhzQ1UImMBa8=
+
+Name: assets/www/addons/mod_forum/lang/zh_cn.json
+SHA1-Digest: fHih+EsyjJTEpac//MOZk3Gq6/4=
+
+Name: assets/www/core/components/login/lang/pt-br.json
+SHA1-Digest: zmWDazW2DJHkcPuv1+Z7pTpO14E=
+
+Name: assets/www/addons/notes/lang/ja.json
+SHA1-Digest: XLXe0I2qUWb5/MCxgreAeN4pV1g=
+
+Name: assets/www/addons/frontpage/services/handlers.js
+SHA1-Digest: PCVXSpPpopMA+eHoTSXYcghK2Jc=
+
+Name: assets/www/addons/coursecompletion/lang/es.json
+SHA1-Digest: n2lMEg5HmboANc4MqHrVNlIzDNY=
+
+Name: assets/www/addons/notes/lang/cs.json
+SHA1-Digest: SQPYajNqKy3j7rwdsFzP0wIDspQ=
+
+Name: assets/www/addons/participants/lang/es.json
+SHA1-Digest: 5ZmPLyYDBm4zY4uVJIXxi87LLso=
+
+Name: assets/www/addons/mod_imscp/controllers/index.js
+SHA1-Digest: 5vUw542ZIejs+7M4fzHS8ETiWVc=
+
+Name: assets/www/core/assets/countries/sv.json
+SHA1-Digest: fBlZOqESrIPj8I+AJSlydjXoSe0=
+
+Name: assets/www/core/components/settings/templates/about.html
+SHA1-Digest: LfyTJvjv4YGQxCE0OhBaLeBqCu4=
+
+Name: assets/www/addons/notes/lang/zh_cn.json
+SHA1-Digest: Ly3CvdiCc65J4FChlbJEb6KXjto=
+
+Name: assets/www/core/components/login/templates/base.html
+SHA1-Digest: H6YMEnXwJlm/ZBGUwaNr67WoJD8=
+
+Name: assets/www/core/components/user/lang/cs.json
+SHA1-Digest: Zl3bzmGDtGls/KhMTbUJl7uOd0M=
+
+Name: assets/www/core/main.js
+SHA1-Digest: /gVVkTvsjQwJ5AZ4ArlC0+w3slI=
+
+Name: assets/www/core/assets/countries/ar.json
+SHA1-Digest: ufxPk8ubI/myS8e+tj5id3KXJME=
+
+Name: assets/www/core/components/user/lang/ja.json
+SHA1-Digest: TpiRtMDH8W9e2r8RW3EttseRYew=
+
+Name: assets/www/addons/messages/lang/zh_cn.json
+SHA1-Digest: 3eDCibLlO8V5Vs6y1nKBSBA5SDM=
+
+Name: assets/www/lib/ydn.db/test/algo/sorted_merge_idb_test.html
+SHA1-Digest: d2Ki70Gsr97/OMn5cbxjrAFfUxU=
+
+Name: assets/www/addons/mod_folder/lang/zh-cn.json
+SHA1-Digest: Jp67dxGdMIsgzwe44/5XwB+HQ3g=
+
+Name: assets/www/lib/angular-translate/angular-translate.js
+SHA1-Digest: cJg+oRWZi+JYEYQF9CBUPVt4RUE=
+
+Name: assets/www/addons/frontpage/lang/ja.json
+SHA1-Digest: vUn56wefj6j3AKIN8qVCmWRu8cY=
+
+Name: assets/www/core/components/settings/lang/sv.json
+SHA1-Digest: chLv2sykzlIQsI6Axk4Tn5pJih0=
+
+Name: assets/www/core/components/login/lang/tr.json
+SHA1-Digest: uBmTmvBk/FIzzCqv2Gya74mUJR0=
+
+Name: assets/www/lib/ydn.db/test/storage/cor_test.js
+SHA1-Digest: xAiGXTA2nmcEi5ehW4hMGuFSXvc=
+
+Name: assets/www/core/components/courses/lang/zh-tw.json
+SHA1-Digest: CuWuza31coZ7Phbd8VNHVzY0HZI=
+
+Name: assets/www/addons/mod_label/lang/ja.json
+SHA1-Digest: hKOnc1n4mDSvsMuzO4h7My/Pc8I=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/schema/index.js
+SHA1-Digest: mmOWmX0kw+kUPtBsajK46vK3inM=
+
+Name: assets/www/lib/ionic/scss/ionicons/ionicons.scss
+SHA1-Digest: CczuSD9VLH3UG+mlrlyvwWYQmVY=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/query/iterator.js
+SHA1-Digest: +81iTBpwDEXU7DcT6mKySmE0u4g=
+
+Name: assets/www/img/mod/folder.svg
+SHA1-Digest: sNtni5sF5pVJ98GLWLy2PYEK5zg=
+
+Name: assets/www/addons/participants/lang/he.json
+SHA1-Digest: JQ3w9sDRhbE7wgwflRydm19mtlA=
+
+Name: assets/www/addons/mod_forum/lang/ca.json
+SHA1-Digest: rL/eV7iVS5DJWJhMbNEduwkHCMM=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_2_websql_test.html
+SHA1-Digest: GBAQ4nDx+Adbw0SWV9GcXgJlN8c=
+
+Name: assets/www/addons/notifications/lang/pt_br.json
+SHA1-Digest: TeqgICmjkE9JTIOY6ig2fEOrJ8I=
+
+Name: assets/www/addons/mod_url/lang/zh_cn.json
+SHA1-Digest: kjrEbC2titpgz5hjv7iFDRxe/jY=
+
+Name: assets/www/addons/mod_url/lang/ar.json
+SHA1-Digest: dnf57lI0PW9SB58pJi2Ne8EFCdc=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/crud/req/request_executor.js
+SHA1-Digest: Z2krtnm+yvth7NlisPfUMfpFJw4=
+
+Name: assets/www/core/components/sidemenu/lang/pt_br.json
+SHA1-Digest: lypXekackgMjHJzLPBiNkel12wI=
+
+Name: assets/www/addons/notifications/lang/es-mx.json
+SHA1-Digest: KXl6Ye/04d1ZFWC7NCczZmOFkLg=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/algo/exports.js
+SHA1-Digest: Xa2cyeqtKoQkjUBhPogYZbojOQo=
+
+Name: assets/www/lib/ydn.db/test/storage/con_websql_test.html
+SHA1-Digest: XnYZWRZ4srV3Xx0lc3xI2pYZWiI=
+
+Name: assets/www/addons/mod_assign/controllers/index.js
+SHA1-Digest: 0f+i2EZNIw/KSHr22MdKEfD5ZMM=
+
+Name: assets/www/lib/angular/angular.min.js.gzip
+SHA1-Digest: /LWHyuaIYXEufOb3Oz0osWb3i+k=
+
+Name: assets/www/core/assets/countries/zh-tw.json
+SHA1-Digest: upk8azsJwW8Jib+lJOA2k/48DT8=
+
+Name: assets/www/lib/ydn.db/config/test.js
+SHA1-Digest: 6+O6/7nhrg2pgrg8YtZF63T5RyI=
+
+Name: assets/www/lib/ydn.db/test/storage/cor_test.html
+SHA1-Digest: pWFPHyg75qEVIUUm1KXPzmYT/uo=
+
+Name: assets/www/core/components/settings/lang/zh_tw.json
+SHA1-Digest: RpHueH1Vv3CQ3TuoAnWgl6fMgrA=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/req/websql.js
+SHA1-Digest: 1IVJmKk0NJ5mpQPP332h/BKaO8o=
+
+Name: assets/www/addons/mod_assign/lang/es-mx.json
+SHA1-Digest: yLbgozuyUgmypJrZld+VvOhj50E=
+
+Name: assets/www/core/components/login/lang/es_mx.json
+SHA1-Digest: LOdLubXq5jQpmKzif2jr7Y0F0is=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/streamer.js
+SHA1-Digest: 0eIp+N1Fxs6Gz0zlCnluMY1uhAU=
+
+Name: assets/www/addons/participants/lang/it.json
+SHA1-Digest: fb2TI5q+YLybbmBKurzjPkSlzCo=
+
+Name: assets/www/core/filters/tolocalestring.js
+SHA1-Digest: 6umT6RZEsGsE0HjR/pEgJiUERfU=
+
+Name: assets/www/core/lang/ca.json
+SHA1-Digest: GNZsSeeDvooDAup8/8fb8oxBJE8=
+
+Name: assets/www/core/components/course/lang/he.json
+SHA1-Digest: Ty11AFfsD7//UylXwMApozY9d5w=
+
+Name: assets/www/lib/ionic/README.md
+SHA1-Digest: WGoEN6fL7xYvJ6i0tztoYIxaO4s=
+
+Name: assets/www/addons/mod_folder/templates/index.html
+SHA1-Digest: JC8y4QgZn8xB8pr3z4e2B9gwNsc=
+
+Name: assets/www/plugins/org.apache.cordova.device/www/device.js
+SHA1-Digest: zb64XC0pcWmF36ykhdU7oz+G2Zw=
+
+Name: res/drawable-mdpi/ic_action_next_item.png
+SHA1-Digest: 61LRlFqE1mWIK7DzviRxDcyCBF0=
+
+Name: assets/www/lib/ydn.db/externs/storage.js
+SHA1-Digest: /4DEa6/nE5VruScwBZuTHmNfeMo=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/algo/sorted_merge.js
+SHA1-Digest: kN8vaWow7DyRPedAsIlWGDfvbUM=
+
+Name: assets/www/addons/calendar/lang/bg.json
+SHA1-Digest: 5iFwHa1rSYeKw+vV9QMJxtR4Px0=
+
+Name: assets/www/addons/mod_book/lang/pt-br.json
+SHA1-Digest: ZlUEok5En0yK9zGpdH8nhr2M3q0=
+
+Name: assets/www/addons/mod_folder/lang/fa.json
+SHA1-Digest: MXNCp7Fz6TZzY6WI//Y4VMYd4TM=
+
+Name: assets/www/addons/mod_forum/scss/styles.scss
+SHA1-Digest: ptHvYaqhnZzC6rIFFhtewagyvY0=
+
+Name: assets/www/addons/coursecompletion/lang/ru.json
+SHA1-Digest: P0ciEviieZXQCd9wKRaJ42U+skA=
+
+Name: assets/www/lib/ionic/scss/_badge.scss
+SHA1-Digest: EzEoFDV56Rfi8nzbSshkA9J9O7k=
+
+Name: assets/www/core/components/course/templates/modcontent.html
+SHA1-Digest: Rn/GB3LQIhe5eq9HVNMAtW8sxe8=
+
+Name: assets/www/addons/mod_url/lang/es.json
+SHA1-Digest: +9uq7YFa/XZcgmTmSRCkIvFWcs4=
+
+Name: assets/www/core/lib/util.js
+SHA1-Digest: vGglmQatNjPlZrhx/YAL5trqx+Y=
+
+Name: assets/www/core/tests/site.js
+SHA1-Digest: pBziO/CjZMU3i/ymrJl+WXrPcxU=
+
+Name: res/drawable/icon.png
+SHA1-Digest: yTwsgwmVYedm7ZvmJgyt1cAGwvY=
+
+Name: assets/www/lib/ydn.db/test/qunit/test_transaction_dev.html
+SHA1-Digest: SioH5ILkMgU2MOs26unmlrtrsxI=
+
+Name: assets/www/addons/mod_imscp/lang/zh_tw.json
+SHA1-Digest: Vabkdf4H4QAYEEIumIuOBvlhe0E=
+
+Name: assets/www/addons/mod_assign/lang/zh-cn.json
+SHA1-Digest: t4/nj4CNNVfmKwl1YTn7HcwbDc0=
+
+Name: assets/www/addons/grades/lang/fa.json
+SHA1-Digest: RXVMRJXPrnDupE1t5bbsdsWsjjI=
+
+Name: assets/www/addons/grades/services/handlers.js
+SHA1-Digest: TftdGaRxDjLOpVmlWKIgms0bUkI=
+
+Name: assets/www/addons/remotestyles/main.js
+SHA1-Digest: tCq6ChpwVhrlPNGuIMkmCkml0Gs=
+
+Name: assets/www/core/components/course/controllers/sections.js
+SHA1-Digest: N7BtYADvpHGSGUmPh6QEcP9z2lg=
+
+Name: assets/www/addons/messages/lang/es_mx.json
+SHA1-Digest: w5sRENz0PA+NT66lMiz4JY60rhY=
+
+Name: assets/www/addons/mod_folder/services/folder.js
+SHA1-Digest: gaSpkX+ia8QrpFB7oJzfqKZTAdg=
+
+Name: assets/www/addons/mod_page/lang/cs.json
+SHA1-Digest: 3T4zTMQmRrkIDJGjB691Ye3aFn8=
+
+Name: assets/www/lib/ydn.db/test/players.js
+SHA1-Digest: 4ZH+P8ekEyFLPOKAJmBCJ8MmAFk=
+
+Name: assets/www/core/components/courses/lang/nl.json
+SHA1-Digest: hc0nXTXSRa1M1q3dvoaSXpSn2MQ=
+
+Name: assets/www/lib/ydn.db/test/sql/sql_ls_test.html
+SHA1-Digest: a5m59PFM0n5gwBRGxzDMzyTYTRs=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_1_test.js
+SHA1-Digest: wo/OLxYjSLVdVkuxdamTn/yfXNE=
+
+Name: assets/www/core/components/sidemenu/lang/ca.json
+SHA1-Digest: CFz+kCtBz0qv05dRsBSN/DRQjZ8=
+
+Name: res/drawable-mdpi/ic_action_previous_item.png
+SHA1-Digest: ATl0LK6UJDub1KdpGxT/FBis0GM=
+
+Name: assets/www/lib/ydn.db/config/storage.js
+SHA1-Digest: r+zGjgcQX29suFexb0OQluMUKTs=
+
+Name: assets/www/core/lang/pl.json
+SHA1-Digest: 5RZ1Jbs8ZyYzsufwYjtV8pWZg3U=
+
+Name: assets/www/addons/mod_imscp/lang/bg.json
+SHA1-Digest: 5dRAeGX0WiHQ2ECgezej8f+t2/c=
+
+Name: assets/www/addons/mod_assign/lang/pt_br.json
+SHA1-Digest: CRt+Lcf68p/fIyhfDQmA4FJaS5c=
+
+Name: assets/www/core/components/login/lang/de.json
+SHA1-Digest: uw/Xmbv2KZVgHZsnbswQaBMln4Y=
+
+Name: assets/www/core/components/login/templates/reconnect.html
+SHA1-Digest: hJ5zYksvZ7KjGlPL6S7bmhkoAu4=
+
+Name: assets/www/lib/ydn.db/test/algo/zigzag_merge_websql_test.html
+SHA1-Digest: 6IYTZG4IwAVzM/xnnEHaf2QxMxE=
+
+Name: assets/www/core/assets/countries/fr.json
+SHA1-Digest: dAP2WCy6wRhTnQpIA8vYVMHNZvE=
+
+Name: assets/www/addons/calendar/img/siteevent.svg
+SHA1-Digest: A2+Lrs8XZGcpOJfpjubq2SJhSlw=
+
+Name: assets/www/lib/ydn.db/test/qunit/test_dev_ver_1_iterator.html
+SHA1-Digest: IFASPJvAOMQWsIYX++3w6lSJATc=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/req/indexed_db.js
+SHA1-Digest: tkgvIQx8IQZiMU5Nb1HmwTLZh9c=
+
+Name: assets/www/addons/mod_page/lang/es.json
+SHA1-Digest: UnA+shctCk3xPY9vA8Oj6mtpiQs=
+
+Name: assets/www/core/components/user/lang/ru.json
+SHA1-Digest: a0VV0o6eUSekE7GPJgvpYiqMFio=
+
+Name: assets/www/core/lang/zh-tw.json
+SHA1-Digest: va948AQ/qpQlWHhyYsC5gizs7Xs=
+
+Name: assets/www/lib/ydn.db/test/query/test_logic.html
+SHA1-Digest: l/L9I2qEhOItQjl4naaZNThQ5Sk=
+
+Name: assets/www/addons/mod_label/lang/cs.json
+SHA1-Digest: kO06eN1e6nYpPD/kSXtbiigRoeg=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/conn/simple/user_data.js
+SHA1-Digest: +BqomcOXoazeHYcitEixlVptmes=
+
+Name: assets/www/lib/angular-translate/angular-translate.min.js
+SHA1-Digest: TIN0WRyijKZy7o/eoCl1I5vWdmA=
+
+Name: assets/www/addons/coursecompletion/lang/it.json
+SHA1-Digest: 5N586omZ3KyUwZxeIGmimeDRUpU=
+
+Name: assets/www/img/files/oth-64.png
+SHA1-Digest: fP0OD1wjt1vuEYtFfUDpxOTWyvw=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/tr/parallel.js
+SHA1-Digest: 4H9n9q9VLYJPHoOIUZ9w82OAW6U=
+
+Name: assets/www/addons/mod_page/lang/he.json
+SHA1-Digest: NSXwMtAwAqTw+J9aMHphJ2TSHdc=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/File.js
+SHA1-Digest: CiWogShGQFGSw6/kKjUOxHSOUwo=
+
+Name: assets/www/addons/files/lang/zh_cn.json
+SHA1-Digest: RU+ajXBtbh+dgIcGHDKK20d+wDE=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/tr/event_installer.js
+SHA1-Digest: 2yKk0tExAjS/Fmx9F3hMgi7SKlI=
+
+Name: assets/www/addons/mod_imscp/lang/sv.json
+SHA1-Digest: PGS5k8Suz/GfHg9r6mk/2GnJUr8=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/utils.html
+SHA1-Digest: z5Db8Utn9im0UVH7b+r3M9I/yh8=
+
+Name: assets/www/lib/angular-ui-router/src/viewScroll.js
+SHA1-Digest: K+et+1N2JiH4ywwdlZmMMTKC+jE=
+
+Name: assets/www/addons/mod_page/lang/ar.json
+SHA1-Digest: g2lR+OPnLY2j5O2fMsCfFC3biww=
+
+Name: assets/www/core/components/courses/lang/tr.json
+SHA1-Digest: HyUzOoeyBL/OeJ6MTdkLIzqzYL0=
+
+Name: assets/www/lib/ydn.db/test/qunit/qunit-1.11.0.js
+SHA1-Digest: UyRGeit4kc5WnaclCKKDbGtKEZI=
+
+Name: assets/www/addons/mod_label/lang/it.json
+SHA1-Digest: rnJMyLngmLkEX2KzBw6TFtHbdlI=
+
+Name: assets/www/addons/messages/lang/en.json
+SHA1-Digest: sGcm+re7Te26qLZgwlkPPngHSj4=
+
+Name: assets/www/addons/coursecompletion/lang/eu.json
+SHA1-Digest: tXUnanhKw7nPZYJ9LQ3C2SR4/II=
+
+Name: assets/www/lib/ydn.db/test/issues/test_multi_storage.html
+SHA1-Digest: s5bHt+MDsVEI0YUEU6cRHOTxiW4=
+
+Name: assets/www/core/assets/countries/hu.json
+SHA1-Digest: nrCDkl6O81X67LGOupI5hDHdKP0=
+
+Name: assets/www/addons/mod_book/services/course_content_handler.js
+SHA1-Digest: 7USviNyeGQ1CWPiL5qTeWuAVQco=
+
+Name: assets/www/addons/notifications/templates/actions.html
+SHA1-Digest: JCcVdxrnWynPL0k0noXqUvw9070=
+
+Name: assets/www/addons/mod_resource/lang/tr.json
+SHA1-Digest: tPKB5jFu36d7jozipTosL979xaw=
+
+Name: assets/www/core/components/course/lang/hu.json
+SHA1-Digest: 7XlCduULSdIntlCn3eVqgFEWcAE=
+
+Name: assets/www/lib/angular-animate/angular-animate.min.js
+SHA1-Digest: mTs7sAZOJCZIxUhPzDLLt94fUJs=
+
+Name: assets/www/img/files/folder-64.png
+SHA1-Digest: 7uHmHqnQKIbh5oxcDMR7IFszy3o=
+
+Name: assets/www/addons/notifications/lang/tr.json
+SHA1-Digest: /8pZ9Bw0FBg/2eEWbKfS7nTdf80=
+
+Name: assets/www/core/components/user/lang/pt_br.json
+SHA1-Digest: jAtXTigdg5s7cfoAQfMN7i/calM=
+
+Name: assets/www/lib/ydn.db/test/crud/key_idb_test.html
+SHA1-Digest: uXduleJ9+d7uOjLa6q2/AqQTDTE=
+
+Name: assets/www/img/mod/data.svg
+SHA1-Digest: Sz5rhGy3yeLjZQ2VaL668syORP4=
+
+Name: assets/www/addons/mod_chat/main.js
+SHA1-Digest: HO+qzbjJWOqXZWhfndTGihM/+HY=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_13_test.js
+SHA1-Digest: JgwQAvwJHocjiLBkKNI1rnI63+M=
+
+Name: AndroidManifest.xml
+SHA1-Digest: SfWgCV+QrL6CyNnNUc+n+uEDaE4=
+
+Name: assets/www/addons/calendar/lang/es-mx.json
+SHA1-Digest: QfUdYglfo7QvrvRxpC+3SqUNz1g=
+
+Name: assets/www/addons/participants/lang/pt-br.json
+SHA1-Digest: Jt4APl1XgMvO8F/e7oT469UAvwU=
+
+Name: assets/www/lib/ydn.db/test/sql/sql_websql_test.html
+SHA1-Digest: PU45YkTDZQMjbxQLn5G090cb/N4=
+
+Name: assets/www/addons/frontpage/lang/ru.json
+SHA1-Digest: 8SY7WSSJ0/oW72kzvVaN5iKMbVE=
+
+Name: assets/www/addons/mod_folder/lang/sv.json
+SHA1-Digest: VUm1/m+j8liMyPYswRoA/KerrAY=
+
+Name: assets/www/lib/ydn.db/test/qunit/test_transaction.html
+SHA1-Digest: Bgz0+Zbs7WJmv68u1XOl5xypMG0=
+
+Name: assets/www/lib/ngCordova/dist/ng-cordova-mocks.js
+SHA1-Digest: l9gR/qfXdDlN21tvITuQQZV0ID8=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/conn/simple/simple_storage_serv
+ ice.js
+SHA1-Digest: OkYlTDNGZyeqN36nd+SnI1gtfyw=
+
+Name: assets/www/core/components/user/templates/profile.html
+SHA1-Digest: Dncg3t2mDJa1uANk4Vbsg4xud9M=
+
+Name: assets/www/addons/calendar/lang/de.json
+SHA1-Digest: Ist74TLkDxkjxJh2vUUqxwWKOyo=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/abstract-iterator.js
+SHA1-Digest: QAqQNP3kELu2FgJgqan0vmf4a2Y=
+
+Name: assets/www/addons/mod_page/lang/zh-tw.json
+SHA1-Digest: sjfPFF7TGH/yXL2jxKCNCI87evQ=
+
+Name: assets/www/addons/mod_book/lang/ru.json
+SHA1-Digest: TM/pZnJUu0n1sSEX8KLjDYedzzs=
+
+Name: assets/www/addons/messages/main.js
+SHA1-Digest: dG+hKmE3Fh7h8Z4ieZZ75JfQZiA=
+
+Name: assets/www/core/lang/ja.json
+SHA1-Digest: Bua5S1XvFEUx34R8H1saMCRCMwk=
+
+Name: assets/www/addons/mod_imscp/templates/description.html
+SHA1-Digest: 0SDfdaFRVHXcLHyMTT5DTakciD4=
+
+Name: assets/www/addons/mod_url/lang/he.json
+SHA1-Digest: s/Z0d+VvTQfABcGsu3BVyLTinTw=
+
+Name: assets/www/lib/ionic/fonts/ionicons.ttf
+SHA1-Digest: 4N8ZcikRufBkLWw63l8S6gQH2SU=
+
+Name: assets/www/addons/grades/lang/nl.json
+SHA1-Digest: glAvO4mg143Xu4Hf23/3jkK/iM0=
+
+Name: assets/www/addons/mod_assign/lang/fr.json
+SHA1-Digest: PhNQqxCOeHklrjD9fCdtOcNFbEM=
+
+Name: assets/www/lib/ydn.db/test/crud/key_test.js
+SHA1-Digest: Wl3DVgvE1P0Xx07ki0iXrykfowM=
+
+Name: assets/www/cordova.js
+SHA1-Digest: tpFWx0ucLQ1OeQN1itbJ8XinS8E=
+
+Name: assets/www/addons/mod_folder/lang/de.json
+SHA1-Digest: tnqjWGx/7nty2zHULwuOmUn6III=
+
+Name: assets/www/img/files/powerpoint-64.png
+SHA1-Digest: FZUaskJhZ8ttq3UqV1x873OUtZw=
+
+Name: assets/www/lib/angular-ui-router/api/angular-ui-router.d.ts
+SHA1-Digest: nckiduGwuTEBP2X3oZ2dKocJIK8=
+
+Name: assets/www/addons/grades/lang/de.json
+SHA1-Digest: MI8PEsMYIZxBDOwJYsliSkVEzag=
+
+Name: assets/www/addons/grades/lang/sv.json
+SHA1-Digest: EmxCDnA3D2fhUJfUXUPHHYBu1QA=
+
+Name: assets/www/core/components/course/templates/sections.html
+SHA1-Digest: kbTr4TasOhV7F2UApVmxp6T7Dk8=
+
+Name: assets/www/addons/messages/lang/eu.json
+SHA1-Digest: uTKtVa8fsk4VN209cEsqjabuRLI=
+
+Name: assets/www/addons/mod_imscp/lang/pt-br.json
+SHA1-Digest: HrUncjCUPoF9sAtBVJqL+M/CGoY=
+
+Name: assets/www/addons/coursecompletion/lang/en.json
+SHA1-Digest: I9WuWFZcZYaIEwiM3ajGjBFJEnA=
+
+Name: assets/www/addons/mod_forum/controllers/discussions.js
+SHA1-Digest: m1wxdybSd88w3+9V6tLZ1FeLk2U=
+
+Name: assets/www/lib/ydn.db/test/crud/list_idb_test.html
+SHA1-Digest: k5Hn+DuV+Iw8Sv8NxiMrvWPNpk8=
+
+Name: assets/www/addons/mod_book/controllers/index.js
+SHA1-Digest: 128N8+LqFolXkXZXoGLhBLeUNzM=
+
+Name: assets/www/addons/participants/services/courses_nav_handler.js
+SHA1-Digest: da/8gNtW5iO98m9b3WUOOO3mkX4=
+
+Name: assets/www/addons/mod_page/lang/ru.json
+SHA1-Digest: zJVgmhSBcT7zWTUxx5+oW5/4VKE=
+
+Name: assets/www/addons/mod_chat/controllers/chat.js
+SHA1-Digest: G0oTzd8IHXt/MRMV5YawLJZFMHg=
+
+Name: assets/www/addons/mod_assign/services/assign.js
+SHA1-Digest: WwFvnBL6p3GZQPKnRm8GczGgZNk=
+
+Name: assets/www/core/components/settings/main.js
+SHA1-Digest: hZXrKhpMC7QDrhUmPhKm3Hy+8KQ=
+
+Name: assets/www/lib/angular-mocks/README.md
+SHA1-Digest: 2w6JOK3EpqTzy9PbWQourFb3S/g=
+
+Name: assets/www/addons/frontpage/lang/pt_br.json
+SHA1-Digest: u8my6BuGkhbKOi3I5bsIWA2Y9IA=
+
+Name: assets/www/core/components/user/lang/es.json
+SHA1-Digest: 0+H2PGJkC5knOiCi+anwOwE3QzM=
+
+Name: assets/www/addons/mod_forum/lang/de.json
+SHA1-Digest: Rkc5HTrFuvf50UvduMX3AK4upec=
+
+Name: assets/www/addons/mod_forum/lang/ja.json
+SHA1-Digest: JNIQON8R2Eg3Selptfwr+wUl2qk=
+
+Name: assets/www/core/components/user/lang/zh-cn.json
+SHA1-Digest: 0gMNW1VTe62rXUMYqRpoxtCLDho=
+
+Name: assets/www/addons/mod_choice/lang/nl.json
+SHA1-Digest: QN8dioOwdv1DflD6xr5yf2ZxeRs=
+
+Name: assets/www/lib/ydn.db/test/crud/key_2_test.js
+SHA1-Digest: mI1acVbZ3/jn7mP2el0ca3otfOI=
+
+Name: assets/www/lib/angular-mocks/ngAnimateMock.js
+SHA1-Digest: /AFEuTDtvSxPAB3BkjDfkBvVxAo=
+
+Name: assets/www/img/files/psd-64.png
+SHA1-Digest: +G1JakxrprlMPXiD8eLXXyaKioM=
+
+Name: assets/www/lib/angular-animate/README.md
+SHA1-Digest: xLcygj0KgL1qaEwMIaUru0Hodb0=
+
+Name: assets/www/plugins/org.apache.cordova.media-capture/www/MediaFil
+ eData.js
+SHA1-Digest: 5TxpIoZ+Sl6XStB7YS9OfIUD+/k=
+
+Name: assets/www/addons/mod_book/lang/en.json
+SHA1-Digest: YC8vmPWyCSZgX4SaZvUNgf+Gguw=
+
+Name: assets/www/addons/frontpage/lang/zh-cn.json
+SHA1-Digest: 1j0bVzuDvYeWcChPvvJVKDf3WDk=
+
+Name: assets/www/img/mod/resource.svg
+SHA1-Digest: hJjaYb+z/1ub6P5y3SDLMYML8mo=
+
+Name: assets/www/img/mod/url.svg
+SHA1-Digest: ggpFAxyh8WNlB7JT8ZalfU19Lt0=
+
+Name: assets/www/core/assets/countries/it.json
+SHA1-Digest: GHZaSS/3vmwVd6JrwFOQL5HbI+s=
+
+Name: assets/www/core/components/login/main.js
+SHA1-Digest: /u8VrfPO1/956cOFHCK2EKlDWN0=
+
+Name: assets/www/lib/ydn.db/test/aat/default-acl.xml
+SHA1-Digest: XOdT3jA3Cfbbb3b19TYrtZuRm6o=
+
+Name: assets/www/lib/ionic/js/ionic.min.js
+SHA1-Digest: 0uIEG3yXEFvLOdfV2McPnJov+ac=
+
+Name: assets/www/addons/calendar/lang/zh_cn.json
+SHA1-Digest: vmz52YgEeIQ4cvohr4NWnWrQoIw=
+
+Name: assets/www/addons/mod_forum/lang/nl.json
+SHA1-Digest: Qs6hJrEaC+VJpV61JXIFBei2BQ8=
+
+Name: assets/www/addons/mod_page/lang/ja.json
+SHA1-Digest: qeySE0Gi/sNjjjgf/G2GmFJYKdc=
+
+Name: assets/www/addons/notes/lang/pt-br.json
+SHA1-Digest: A0gYIWCMHFy2CwU186Zsg9PyZnE=
+
+Name: assets/www/addons/mod_resource/lang/de.json
+SHA1-Digest: cwORRYDSy0gea0Z6a1GJqS9/10I=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/key_range.js
+SHA1-Digest: p02z1Y/VQQ3JVA+3Ad9hed0gVOs=
+
+Name: assets/www/addons/mod_url/lang/fr.json
+SHA1-Digest: /Xzj0s5YHcwXBE9wImeSybZaiDo=
+
+Name: assets/www/addons/notifications/lang/pl.json
+SHA1-Digest: Nn1ynXvSBPaxo7zlrfncgylLuTE=
+
+Name: assets/www/core/components/settings/lang/zh-cn.json
+SHA1-Digest: z8AGwVZdaDDSTsv6Y4hDWnJUOss=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_13_idb_test.html
+SHA1-Digest: IHKCHgksbQZ+DnDg1P0UaYu9x34=
+
+Name: assets/www/img/files/wmv-64.png
+SHA1-Digest: EMMv37n57xprYKXtvOGAprM5qcM=
+
+Name: assets/www/lib/angular-ui-router/src/stateDirectives.js
+SHA1-Digest: BmtRSCvFJoZ9QwaS388AK5lK64U=
+
+Name: assets/www/lib/ydn.db/test/storage/tr_thread_idb_test.html
+SHA1-Digest: ZSvkoxqAn49xfYL7dPIaGCTWpvI=
+
+Name: assets/www/addons/mod_forum/services/forum.js
+SHA1-Digest: 3HaBT44pFv0jLa2XHqFzY+xoaBc=
+
+Name: assets/www/css/app.min.css
+SHA1-Digest: Rn8BrANOA/ppPzkhIGw5b24jdyM=
+
+Name: assets/www/lib/angular-md5/Gruntfile.js
+SHA1-Digest: 9j8kgfn2OPSWMxQM+5pW21CkQnI=
+
+Name: assets/www/addons/mod_imscp/lang/nl.json
+SHA1-Digest: uSx7ed4kLfBp16Wke1F/cN9Hku8=
+
+Name: assets/www/addons/coursecompletion/lang/hu.json
+SHA1-Digest: aRmVDBS/pABXLf9Z9Ka5ymD4lP4=
+
+Name: assets/www/addons/frontpage/lang/cs.json
+SHA1-Digest: JMFU92xrI0PF0nFMhHPCPTjcifA=
+
+Name: assets/www/addons/mod_page/templates/index.html
+SHA1-Digest: p9JoaOU8H/kGx0VBICb8/M0Wovg=
+
+Name: assets/www/addons/mod_url/lang/pt-br.json
+SHA1-Digest: wGetUJaW0J5uIWTo621jpBty8w8=
+
+Name: assets/www/img/files/impress-64.png
+SHA1-Digest: Lse6HfolgpNjed4kvPfrDt/yn+4=
+
+Name: assets/www/lib/ydn.db/test/qunit/ver_1_iterator.js
+SHA1-Digest: 8ICZnNJl3NaBqepNYEivT1K2OUc=
+
+Name: assets/www/addons/mod_book/lang/ar.json
+SHA1-Digest: SU0hBomzfo4g6pjPDTJNHg+ciEE=
+
+Name: assets/www/core/components/settings/lang/eu.json
+SHA1-Digest: ZDe+BrOllrCmULw4VN9mT3/IEMQ=
+
+Name: assets/www/addons/mod_choice/lang/pl.json
+SHA1-Digest: Or11eZD/9zh7SnBS1GWqvmcPnwE=
+
+Name: assets/www/addons/mod_label/lang/pl.json
+SHA1-Digest: lwgzdoHZWURM8RFGMUAICVDoGTA=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/req/websql_cursor.js
+SHA1-Digest: p40eGAp8cZNIPGGb2Gv7VP72zVg=
+
+Name: assets/www/addons/mod_choice/controllers/index.js
+SHA1-Digest: BpC9zxwvz4HN1b4wEzUY0yoB2MU=
+
+Name: assets/www/core/assets/countries/eu.json
+SHA1-Digest: QQ65HaZLEc0QJH8SDXeENgrfOsU=
+
+Name: assets/www/addons/mod_forum/lang/es_mx.json
+SHA1-Digest: avDzlIjhkQl79hQ+lWMX6VMcIyI=
+
+Name: assets/www/addons/mod_page/lang/hu.json
+SHA1-Digest: QxRiNrZeF5AD7puGbRnAwOpCi9M=
+
+Name: assets/www/lib/ydn.db/test/algo/sorted_merge_test.js
+SHA1-Digest: gz1CDqaMUodninr00IxnBjcnlJs=
+
+Name: assets/www/addons/mod_folder/lang/tr.json
+SHA1-Digest: E9o9an69F4qbAt2P/784ztkdEwI=
+
+Name: assets/www/addons/mod_assign/lang/eu.json
+SHA1-Digest: jGqkSWeSAxuQ7VeOFURChyGKd+U=
+
+Name: assets/www/img/mod/workshop.svg
+SHA1-Digest: IkiOlZX+tfSWSj7a2Xrp/i7hcS4=
+
+Name: assets/www/core/directives/formattext.js
+SHA1-Digest: OmKjvK/LDye54XXzCJab/AZ0C5M=
+
+Name: assets/www/lib/ydn.db/ydn.db.jquery.json
+SHA1-Digest: Uf1XApGYRXGDlR2c9tT1iPVNMnc=
+
+Name: assets/www/addons/coursecompletion/lang/zh-tw.json
+SHA1-Digest: GQC8VayvJUJO3hWVtykPhWRv+rs=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/conn/simple/tx_storage.js
+SHA1-Digest: +seMbV0tK0uzl+bHO7+1XYfDVkU=
+
+Name: assets/www/addons/mod_book/lang/eu.json
+SHA1-Digest: YFVCjtOND5FDhdf+yDYiN0jFlhk=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_14_websql_test.html
+SHA1-Digest: NR0fS8mYPXdnUumCbIxBN5zePSA=
+
+Name: assets/www/lib/ydn.db/test/query/qunit-base.js
+SHA1-Digest: LmlXS2IGYlrHnvF1JjC730KqToU=
+
+Name: assets/www/core/templates/splitview.html
+SHA1-Digest: 5FxapFJI5vwqABbtC1NHkc4raOM=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/i_cursor_stream.js
+SHA1-Digest: r/bJ9wC1b5E0tKBrkK8X4VlijWQ=
+
+Name: assets/www/core/components/course/controllers/section.js
+SHA1-Digest: i4Ui+Ds00M5XAztAWquw5MwXheA=
+
+Name: assets/www/addons/files/main.js
+SHA1-Digest: KmCyQHcRjOWezqO+w0Bojow5818=
+
+Name: assets/www/core/components/settings/lang/bg.json
+SHA1-Digest: 97o1VMgz6OoyTEzNM4vhDK+rnlI=
+
+Name: assets/www/addons/mod_forum/lang/cs.json
+SHA1-Digest: 9aFekWS7Lj2wENZ3rLXXNkWbEd0=
+
+Name: assets/www/addons/mod_label/lang/es_mx.json
+SHA1-Digest: B8ipLhKmRsXY2qH10iv9Spfqbx4=
+
+Name: assets/www/core/lang/tr.json
+SHA1-Digest: 4dfs9b3Hjn3kO89zSAmul+s76LA=
+
+Name: assets/www/addons/participants/lang/sv.json
+SHA1-Digest: tq/Snh7UJ+F1ZLamujg0TJhDcuw=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_ud_test.html
+SHA1-Digest: JFKnT3hNG02Rz/vZAe3Osa8yqAU=
+
+Name: assets/www/addons/messages/lang/pt-br.json
+SHA1-Digest: k/icyIsthcmkfdTV2Pypl+MslPg=
+
+Name: assets/www/core/components/user/lang/pl.json
+SHA1-Digest: S1Cb0vdx6kW5ALovJXBvXheKHw8=
+
+Name: assets/www/addons/mod_book/lang/fr.json
+SHA1-Digest: 8hi5cJHUBR3FWdp9PBzX2iW75t8=
+
+Name: assets/www/core/components/course/lang/fr.json
+SHA1-Digest: cER4V0mTAL29fjRoEZxYkXpzO38=
+
+Name: assets/www/lib/ydn.db/test/qunit/test_ver_1_algo.html
+SHA1-Digest: yCVSoKlbUY9omx5FFnGBZmrd/S4=
+
+Name: assets/www/lib/ydn.db/test/algo/algo_test.js
+SHA1-Digest: EHvnRmTt+9kEm0EHK0PJ+RqAaqs=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/logo.png
+SHA1-Digest: EUAsHfSGtXL/MWwlyVi3ggpQjhg=
+
+Name: assets/www/plugins/org.apache.cordova.media-capture/www/capture.
+ js
+SHA1-Digest: bBXX63J26Swkvr9Wd04i69ZLIhc=
+
+Name: assets/www/core/components/settings/lang/en.json
+SHA1-Digest: qzKPhwG++FJk/Msc1eTcc9rz+4Q=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/resolveLocalFileS
+ ystemURI.js
+SHA1-Digest: IPMx9S9vBtVu1fg4426UAee8G8s=
+
+Name: assets/www/core/assets/countries/en.json
+SHA1-Digest: ponoX+iRJupI7dd88D+aOXwd9q8=
+
+Name: assets/www/addons/messages/services/handlers.js
+SHA1-Digest: NJlyOXgG4q89ZeeKun1I9cJZDsA=
+
+Name: assets/www/addons/mod_page/lang/zh_cn.json
+SHA1-Digest: aPqPa4QT06RjBR1eR13UOfji2vE=
+
+Name: assets/www/addons/calendar/lang/fa.json
+SHA1-Digest: upPLjS77g2SaZyHhE4Uw3OIhxuY=
+
+Name: assets/www/addons/calendar/services/handlers.js
+SHA1-Digest: iuFOCNWEe4Ao/JeDQvEgnu9TRfo=
+
+Name: assets/www/lib/angular-ui-router/src/common.js
+SHA1-Digest: x0Mn0M1dJRqek4vtoxMby5i2AJY=
+
+Name: assets/www/addons/mod_url/lang/ja.json
+SHA1-Digest: MGazZ4tz7rjvSyC52oPPrl/Uxvs=
+
+Name: assets/www/core/lang/he.json
+SHA1-Digest: BFaYpvJxj/Sl49AMJOb7mDZX+pk=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/conn/simple/i_web_stroage.js
+SHA1-Digest: JRUR/WSZfZqGNpGjIaJ7N7h4hFM=
+
+Name: assets/www/lib/ydn.db/test/qunit/test.js
+SHA1-Digest: MJKPHJOl6hPUmnBU+Sq5IXnA3wA=
+
+Name: assets/www/lib/ydn.db/test/algo/sorted_merge_websql_test.html
+SHA1-Digest: p7OzoFE4IpSjmAZi2FPtDRy6/5E=
+
+Name: assets/www/addons/mod_chat/templates/index.html
+SHA1-Digest: BWoQ4TJbd1vnJBox5Goph4C2Chk=
+
+Name: assets/www/addons/coursecompletion/lang/zh-cn.json
+SHA1-Digest: QhI2QQcaMvfcxOXxM5zLla+9qEY=
+
+Name: assets/www/addons/notes/lang/ca.json
+SHA1-Digest: 01HoBC8LigZPD91EFndpnHObtPk=
+
+Name: assets/www/core/components/courses/lang/zh_cn.json
+SHA1-Digest: xoKwygsycCVx5ZM4ht2dPg7RZvg=
+
+Name: assets/www/core/components/course/lang/zh_cn.json
+SHA1-Digest: ziRBmdVkqCb65p2AQILcgmlB0ck=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/algo/nested_loop.js
+SHA1-Digest: F8uLohmCH68PtmRGqHA72jiqJxY=
+
+Name: assets/www/core/components/courses/lang/de.json
+SHA1-Digest: 62s8KnKpsi12ZY85ssIMnUjIX6c=
+
+Name: assets/www/core/components/settings/lang/pt_br.json
+SHA1-Digest: T5w8fszyl5B9y7kY9dHL0HDaNgc=
+
+Name: assets/www/core/directives/loading.js
+SHA1-Digest: W7jFTQ8AHyPhw5mexBThv4q4dD8=
+
+Name: assets/www/core/lang/cs.json
+SHA1-Digest: 0CuNlVnyOwOUJ5+zEj4CmJZe8cM=
+
+Name: assets/www/lib/ydn.db/test/aat/data/article/1314547200000
+SHA1-Digest: +HbQCWpi05jwkdawzBqlmwmsf/M=
+
+Name: assets/www/addons/mod_imscp/templates/bar.html
+SHA1-Digest: iFEfTpaCITLSCk3vzdFcGlhWXfw=
+
+Name: assets/www/addons/mod_book/lang/zh_tw.json
+SHA1-Digest: 7IUaojAto2D2xNKI1YkTxD1Izp4=
+
+Name: assets/www/addons/mod_folder/lang/nl.json
+SHA1-Digest: 57ym2NK4owsHKT3Qpb9U3q37Hkw=
+
+Name: assets/www/lib/ydn.db/test/algo/scan_idb_test.html
+SHA1-Digest: Fwdn0Z+VEF7tcbj3eAaSZcizv44=
+
+Name: assets/www/addons/messages/templates/index.html
+SHA1-Digest: jWGcMc60/vgvUZncTZE2m+iDocY=
+
+Name: assets/www/core/components/course/lang/ru.json
+SHA1-Digest: G7Fh92uWNEAzeDCUHRm0OwXL2mQ=
+
+Name: assets/www/addons/calendar/controllers/list.js
+SHA1-Digest: g9d/Q9WmaooRNL6MJ4P8MSKqu2I=
+
+Name: assets/www/lib/ydn.db/test/websql/key_encoding_websql_test.html
+SHA1-Digest: nOUZNyHCX4stjA7apZfYQUJj3Oo=
+
+Name: res/drawable-land-mdpi/splash.png
+SHA1-Digest: FjIJSMS6S55A+A9W4p7oLzh723M=
+
+Name: assets/www/lib/ydn.db/test/query/query-basic.js
+SHA1-Digest: tidWcs0mEaSQS6r/1alvJkLsbMQ=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/crud/req/websql.js
+SHA1-Digest: IeLFJgb5dsJXfj9ln5l4pedQ3Ec=
+
+Name: res/drawable-port-xhdpi/splash.png
+SHA1-Digest: BBvfXrhFp0A4RNlnXVbyh2fcMmM=
+
+Name: assets/www/lib/ydn.db/externs/websql.js
+SHA1-Digest: T3cg8SsyihVnhqH0DvDxbpoE0EU=
+
+Name: assets/www/lib/angular-ui-router/release/angular-ui-router.min.j
+ s
+SHA1-Digest: 6IWw5Ehe09sInvr62LSBa+5OFQk=
+
+Name: assets/www/lib/ydn.db/test/aat/data/article/1341494331000
+SHA1-Digest: 62BTBe+CkkfDgFtu+KMIpVzZBJI=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/conn/simple/memory_storage.js
+SHA1-Digest: wlnFFlQuNZnhaAOBm5Qsh3CVyvg=
+
+Name: assets/www/lib/ydn.db/test/sql/sql_test.js
+SHA1-Digest: JD75uC2IAfdsto9wncNS7WUg1FE=
+
+Name: assets/www/addons/grades/img/manual_item.png
+SHA1-Digest: S/+a4PlkNPcneONm+wlgJfoQX+w=
+
+Name: assets/www/addons/files/lang/ru.json
+SHA1-Digest: 7OAfmMnjcWACO9cNXpe3/1Fk6rc=
+
+Name: assets/www/build/lang/es.json
+SHA1-Digest: qIuw/whSM+A4msc04410USD2B0A=
+
+Name: assets/www/lib/angular-animate/angular-animate.js
+SHA1-Digest: ASobvmpP3VqQJYflr1Kdut13Cow=
+
+Name: assets/www/addons/frontpage/lang/es.json
+SHA1-Digest: 6jHjZ1Vcet7Mz3dnCbuznTdH2go=
+
+Name: assets/www/lib/ydn.db/test/qunit/ver_1_core.js
+SHA1-Digest: Kypy8jZdAnMJE4CvO8ZBcZ4BkGA=
+
+Name: assets/www/lib/angular-ui-router/src/viewDirective.js
+SHA1-Digest: w3d7zyz/Cs+0GBYaJyACfs9Dyms=
+
+Name: assets/www/addons/grades/lang/pt_br.json
+SHA1-Digest: +jcLm0sdElRf7mdk6GFXQ4RKtF4=
+
+Name: assets/www/addons/mod_page/lang/fr.json
+SHA1-Digest: D79x3T8pPh63tTgUkP/uEXLpP5o=
+
+Name: assets/www/img/mod/file.svg
+SHA1-Digest: Ac/rCaT7/rE6ptcoElEWkHJ7yqk=
+
+Name: assets/www/img/mod/imscp.svg
+SHA1-Digest: CAttpLT+2IoAp/xKnDZVOsrxxCM=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_1_websql_test.html
+SHA1-Digest: HjjNHzpuB4XUiD7k9ALci0dsWrM=
+
+Name: assets/www/addons/coursecompletion/lang/ar.json
+SHA1-Digest: zsUqEwtwuFJCnmNuXjqXXs9m9dU=
+
+Name: assets/www/core/components/login/lang/nl.json
+SHA1-Digest: UT26y/zLQwwFzAPkomDoEcDpknU=
+
+Name: assets/www/addons/mod_assign/lang/ar.json
+SHA1-Digest: RHp3N8wV08sp9EurLq1P70oMtLM=
+
+Name: res/drawable-hdpi/ic_action_remove.png
+SHA1-Digest: a08rfmVBJ9/G8OsHNAp65yw/f8A=
+
+Name: assets/www/lib/ionic/scss/_util.scss
+SHA1-Digest: p6Hhl60eyvQ7uiXwlOoktivUjsk=
+
+Name: assets/www/addons/mod_forum/lang/tr.json
+SHA1-Digest: bn7mXZi9jik6GZD1PAqO34quaLE=
+
+Name: assets/www/addons/notifications/lang/nl.json
+SHA1-Digest: 0uo5Ad8xQ2EXbTBqysyYICbXMo4=
+
+Name: assets/www/addons/mod_book/lang/hu.json
+SHA1-Digest: qaiWpQ1ayFnOYXHaKo5ZWRQgE7w=
+
+Name: assets/www/addons/grades/lang/tr.json
+SHA1-Digest: 67uCwkxcB+eSkYYvyXfLbjWGhg0=
+
+Name: assets/www/addons/notes/templates/types.html
+SHA1-Digest: G4f1NF1OnTyXOIZyRnIGzmp4buI=
+
+Name: assets/www/addons/calendar/lang/ca.json
+SHA1-Digest: ZhIPgcwJRDbeC8PmDZl359cxneQ=
+
+Name: assets/www/core/lang/de.json
+SHA1-Digest: 45PxFn5AuAXdp7wJof9tNs8HOn0=
+
+Name: assets/www/addons/files/lang/ja.json
+SHA1-Digest: lChXbtJdqwjmBcmQAbnmgqqHfFU=
+
+Name: assets/www/addons/grades/lang/zh-cn.json
+SHA1-Digest: TaLISI/WJuJ5aEEbWE/mqjTD+ig=
+
+Name: assets/www/lib/ydn.db/test/core/iteration_ls_test.html
+SHA1-Digest: e4ct0tjsCu2DVvKDouKqPiABJMM=
+
+Name: res/drawable-xhdpi/ic_action_remove.png
+SHA1-Digest: pXFCScZRz/G6WVNuTtcTZ3OX5LM=
+
+Name: assets/www/addons/messages/lang/bg.json
+SHA1-Digest: jmwsemz1LoDTW3Ikq3FOnTmNcEk=
+
+Name: assets/www/lib/ydn.db/test/algo/algo_websql_test.html
+SHA1-Digest: PTjMbbeUnzL5SYnT9iRLhEPYJKw=
+
+Name: assets/www/core/components/course/lang/zh_tw.json
+SHA1-Digest: teDc/SU/pCv7vDl26poQ0DQRw3w=
+
+Name: classes.dex
+SHA1-Digest: PiNSw/OPqLdWjr/qRaIX5ymQYBc=
+
+Name: assets/www/addons/mod_resource/lang/fa.json
+SHA1-Digest: lzToI1l6i/YrQWNJG5+ypAFIimk=
+
+Name: assets/www/img/mod/assign.svg
+SHA1-Digest: F9svQrALW2euhRdvcQcS50mKCSY=
+
+Name: assets/www/core/components/course/lang/ca.json
+SHA1-Digest: jTPUsP5WD/01OF+6XR6nZZP4KDY=
+
+Name: assets/www/core/components/settings/lang/nl.json
+SHA1-Digest: 2n9OWnScnfycflGm3nqgW4a5/1Q=
+
+Name: assets/www/addons/mod_assign/services/course_content_handler.js
+SHA1-Digest: polenJD3V1BAoYKP9E03e7GaEMU=
+
+Name: assets/www/img/completion/completion-manual-n.svg
+SHA1-Digest: YRkhz6SOBMInaQB01IoCHbjN48c=
+
+Name: assets/www/lib/angular-mocks/ngMockE2E.js
+SHA1-Digest: RSdsLA7V2v5f7ZOVd3kv7WPld7Q=
+
+Name: assets/www/addons/mod_folder/lang/fr.json
+SHA1-Digest: AzXHD7MPDrJCfWSDS0oc2VVL8ck=
+
+Name: assets/www/addons/notes/lang/it.json
+SHA1-Digest: +hY6DwUbIr/fSFL27RzGYhIUFqc=
+
+Name: assets/www/addons/mod_forum/templates/discussion.html
+SHA1-Digest: tNGSU0RFr/GUZLqkguxYNGt2fBU=
+
+Name: assets/www/addons/notes/lang/tr.json
+SHA1-Digest: gbDVhqDrF67Q5y99M6BlrPPzPS4=
+
+Name: assets/www/lib/ydn.db/test/crud/keyrange_idb_test.html
+SHA1-Digest: JzR7xIkVI24LGKW7aDz/2XI+A+A=
+
+Name: assets/www/addons/frontpage/lang/zh-tw.json
+SHA1-Digest: VXm4lKdZCWQlE3crdUROWFUcooA=
+
+Name: assets/www/addons/mod_page/lang/eu.json
+SHA1-Digest: dna55QXc1UJLNlxlqdbMxqPuSBM=
+
+Name: assets/www/addons/calendar/lang/es_mx.json
+SHA1-Digest: 1+vAT0sAJbfcVf3ZRKqEBSNxYmc=
+
+Name: assets/www/addons/notes/lang/ru.json
+SHA1-Digest: TlV8OjBLu+4rWTaW+8SJOvpKdJo=
+
+Name: assets/www/lib/angular-ui-router/src/state.js
+SHA1-Digest: 59LQ7dTP6S3KwDvTTQD2clzsMzk=
+
+Name: assets/www/addons/mod_assign/lang/nl.json
+SHA1-Digest: JQpmJ5DPSFhRVMpc2LA/dPnPGJA=
+
+Name: assets/www/core/components/settings/lang/hu.json
+SHA1-Digest: 2+wg6V0IFNQUir6ew5KDgRnRj6E=
+
+Name: assets/www/addons/mod_assign/lang/hu.json
+SHA1-Digest: VAgK5MAMwKlwUheAf9Fae9bDvro=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: JlbgJoFxDJs+hlpv8AyHPqHI6hc=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/android/FileSyste
+ m.js
+SHA1-Digest: bDhac+AS7QuGVn1pUFDIHxkgo+M=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: zUDoeAgRfJUGGyDJ/mMzHaJCaP4=
+
+Name: assets/www/addons/messages/lang/fr.json
+SHA1-Digest: 7gGeFjhClwgGZMja2bWORlbJ9yg=
+
+Name: assets/www/lib/angular-ui-router/src/resolve.js
+SHA1-Digest: 8/XkO8ntOBKQBc7CtAYlD6gQYpM=
+
+Name: assets/www/addons/mod_page/lang/sv.json
+SHA1-Digest: nG9QcLZKhfhGxoOyCCj9Rq2B9AY=
+
+Name: assets/www/core/lang/bg.json
+SHA1-Digest: UCuTozDh78RaPKzzOX+ugP6Vtkg=
+
+Name: assets/www/lib/ydn.db/test/qunit/test_transaction_raw.html
+SHA1-Digest: +8HqzuVNpvODOONy67NQI0tzEdY=
+
+Name: assets/www/core/assets/countries/es-mx.json
+SHA1-Digest: tIsrObr/t4MnOFeX4CGNrINOn1Q=
+
+Name: assets/www/lib/ydn.db/test/crud/key_websql_test.html
+SHA1-Digest: XKEbTQSW1wbthMq3SG89wyZZKzs=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/conn/simple/index_node.js
+SHA1-Digest: mf1ERiGJU9oQ6DtRGWJok6enR5I=
+
+Name: assets/www/addons/mod_book/lang/he.json
+SHA1-Digest: 0a9Dc6cKaegJhzWqRy5d0qDOyV0=
+
+Name: assets/www/plugins/com.phonegap.plugins.PushPlugin/www/PushNotif
+ ication.js
+SHA1-Digest: p1BJ02ESwX/+RNl6izHHQLTtROA=
+
+Name: assets/www/addons/mod_folder/lang/ar.json
+SHA1-Digest: EiIR8fTX6bKJP9SNOGalzfUINc8=
+
+Name: assets/www/core/assets/countries/pt-br.json
+SHA1-Digest: YcdPwWPnHXl7s+aa6vXxaQCur5k=
+
+Name: assets/www/build/mm.bundle.scss
+SHA1-Digest: uzE8xFm+HKhqjG/ICPzYFV8Gl5A=
+
+Name: assets/www/lib/ydn.db/test/qunit/test_dev_ver_1_crud.html
+SHA1-Digest: VL7y5+xp5FGfkDMNOQg/NzqEKe4=
+
+Name: assets/www/addons/messages/lang/ar.json
+SHA1-Digest: 9FjwPHlDNuaNjPCXdOdFH9coY04=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/sql/storage.js
+SHA1-Digest: abuspGwQflTUV5eGKuLdrNheSu0=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/tr/operator.js
+SHA1-Digest: gl76gcKBeph11U9qZyihyXneSvw=
+
+Name: assets/www/addons/mod_imscp/lang/es.json
+SHA1-Digest: vCykxCWPJ+rBCvbskuX2xSuX/U8=
+
+Name: assets/www/core/components/login/lang/eu.json
+SHA1-Digest: IpwmNNLPqsPCZXgA4D5ujUkgzF4=
+
+Name: assets/www/plugins/cordova-plugin-statusbar/www/statusbar.js
+SHA1-Digest: 6d68hE3FCrbZ9rTqyrXxF82Rr98=
+
+Name: assets/www/addons/notes/lang/nl.json
+SHA1-Digest: GthV1D6i3NP/Teh0lwrW10oKYsk=
+
+Name: assets/www/lib/ydn.db/test/websql/sql_key_encoding_test.js
+SHA1-Digest: 7Pjo/QFg4Me+eNUitKGuwWe44Yc=
+
+Name: assets/www/lib/angular-sanitize/angular-sanitize.js
+SHA1-Digest: K2VZyWcabNEjrLKTYtu50P8nzFQ=
+
+Name: assets/www/addons/mod_assign/lang/tr.json
+SHA1-Digest: mJjx3dM6icxO14JAYcMZ4i53HbM=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/tr/thread.js
+SHA1-Digest: uidyqo5UPuN7Dx030C6ozFbJhA4=
+
+Name: assets/www/lib/ydn.db/test/qunit/test_ver_1_crud.html
+SHA1-Digest: F6CqkNHwowzX4mkKGpBBJ8ge+k4=
+
+Name: assets/www/addons/mod_folder/lang/ca.json
+SHA1-Digest: zx/0HHW0riUzpu2arD17k9X2U0Q=
+
+Name: assets/www/lib/ngCordova/CHANGELOG.md
+SHA1-Digest: KU3oFVlh51vqRP/ejnAxbc/fXlI=
+
+Name: assets/www/lib/ydn.db/test/issues/mobile-issue.js
+SHA1-Digest: g49GuVN0zFiWs088raD0u4cHlCk=
+
+Name: assets/www/lib/ydn.db/test/storage/tr_thread_test.js
+SHA1-Digest: k8fmTUbr810WQrV085NUoZsUAcw=
+
+Name: assets/www/addons/calendar/lang/pt_br.json
+SHA1-Digest: ljHm9CG6+roXqGEoT7nMLD4j81s=
+
+Name: assets/www/addons/coursecompletion/lang/cs.json
+SHA1-Digest: au9XQWbXx7khf9dEm+r3kplcGgU=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/sql/inject.js
+SHA1-Digest: vzl27H8PiMpp4E5zQ0BljTYAx+g=
+
+Name: assets/www/lib/ydn.db/test/perf/thread-test.html
+SHA1-Digest: v/ETD+9mNkXPtm9aBmYQg41JISU=
+
+Name: assets/www/lib/ydn.db/test/perf/crud-index.html
+SHA1-Digest: 92SuGdep8L0rdUz8OLk2cGrkDko=
+
+Name: assets/www/core/directives/external_content.js
+SHA1-Digest: Nb4VH0sB20yMESPrlN6KjQ5ALjg=
+
+Name: assets/www/core/components/sidemenu/lang/fa.json
+SHA1-Digest: pd+XGVutpXer0aPK7KYDWMbyp0o=
+
+Name: assets/www/addons/participants/controllers/list.js
+SHA1-Digest: EVGpFr+S3RibfPngYEI9sb9kpuU=
+
+Name: assets/www/lib/angular-md5/package.json
+SHA1-Digest: WrbGWlrNL0WBSaxJ+FGVtriRyZk=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/LocalFileSystem.j
+ s
+SHA1-Digest: SFV9C74DW9Wvz3Y6GlS75sio9h0=
+
+Name: assets/www/core/components/settings/lang/ru.json
+SHA1-Digest: f17x7r5DUE49SzPtRGRp7Jlf6P0=
+
+Name: assets/www/lib/ydn.db/test/crud/list_test.js
+SHA1-Digest: LcZ2tB3cGFR8IrFlxnsRKhU0dNk=
+
+Name: assets/www/lib/angular-aria/angular-aria.js
+SHA1-Digest: 3WuL0X/aIxR4kJKJbMja8pvRYl0=
+
+Name: assets/www/lib/angular-ui-router/src/templateFactory.js
+SHA1-Digest: UJM0JbpyRCzvxsEdxmfP9/JU3Co=
+
+Name: assets/www/core/components/course/controllers/modcontent.js
+SHA1-Digest: P6TQRCBs4cLKgb1ieJAqjJ6fuMU=
+
+Name: assets/www/lib/ionic/scss/_transitions.scss
+SHA1-Digest: TajbNBpZ4ZO+JY+1ja+6AgF1tC4=
+
+Name: assets/www/addons/files/lang/fr.json
+SHA1-Digest: N25+csc5H4dZfn5WxC1WlebY0aI=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/mutax.js
+SHA1-Digest: a6o3AbWX32bTisSTPl8ptoJulu8=
+
+Name: assets/www/addons/grades/lang/es_mx.json
+SHA1-Digest: 3zbISvf7rKtjD8jtEsCP6vB7Uc0=
+
+Name: assets/www/addons/mod_chat/lang/cs.json
+SHA1-Digest: DVHR4yvpchqI9mM45HaHHumdaqw=
+
+Name: assets/www/addons/participants/lang/pt_br.json
+SHA1-Digest: zrxiGUj1CGocum1r+/6MJv8leqk=
+
+Name: assets/www/lib/ydn.db/test/storage/storage_test.js
+SHA1-Digest: jlTHwbhQqS4t6jQiIYoDikIdrm0=
+
+Name: assets/www/addons/participants/lang/eu.json
+SHA1-Digest: sE5Ct9cC+w1IEhc6I/TMozB8qR4=
+
+Name: assets/www/core/lang/fa.json
+SHA1-Digest: nwzg9OY3hxFpSIfVj4Iutx1zSmw=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/req/i_request_executor.js
+SHA1-Digest: i9aQ5CQRuroEek5eg+fazmxInfQ=
+
+Name: res/drawable-xxhdpi/ic_action_remove.png
+SHA1-Digest: D4GjzR9ICyFZQ6Naiffk1wbL04Q=
+
+Name: assets/www/addons/files/lang/ca.json
+SHA1-Digest: UcLMAvNkDE7tQtMp0SoAtfjDl1g=
+
+Name: assets/www/img/files/eps-64.png
+SHA1-Digest: +sRSJtsoz8SrEG8MtMEXQioECmM=
+
+Name: assets/www/addons/mod_label/lang/eu.json
+SHA1-Digest: w377DxwgBj9R3T9LdZfC7JlnL2I=
+
+Name: assets/www/addons/mod_choice/lang/pt-br.json
+SHA1-Digest: n6ePtWqNhrfYe2FNlsqaKHXJzj8=
+
+Name: assets/www/addons/mod_chat/lang/he.json
+SHA1-Digest: qq0xUuBa0u9AkiAX+iZA6065LtY=
+
+Name: assets/www/core/components/settings/lang/es_mx.json
+SHA1-Digest: sOHJc72nwNZbgUHv5uEdLCoUwxA=
+
+Name: assets/www/addons/files/lang/es.json
+SHA1-Digest: vo9slsLk8Fz0ajoGikf2ptymums=
+
+Name: assets/www/addons/notifications/lang/fa.json
+SHA1-Digest: lf7EtPeSSmN9jphssNopUllU4Po=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/req/abstract_cursor.js
+SHA1-Digest: Si4p8Uxe4NCZAfrmFehYIH8sqUs=
+
+Name: assets/www/plugins/org.apache.cordova.file-transfer/www/FileTran
+ sferError.js
+SHA1-Digest: w6YxxPOYQOpCbn9cgfACpihuaO4=
+
+Name: assets/www/core/components/settings/templates/general.html
+SHA1-Digest: TH0m21JEBdDAXACRcC3c5My4las=
+
+Name: assets/www/lib/ydn.db/test/crud/keyrange_ls_test.html
+SHA1-Digest: 803rFMK54QQWuvgHKcr1+hqBPFI=
+
+Name: assets/www/addons/messages/controllers/discussions.js
+SHA1-Digest: 9/1B7hGItkaMUOlEAQHNRVm2S3c=
+
+Name: assets/www/img/completion/completion-auto-n.svg
+SHA1-Digest: Leu7eXICy+M/ZFzu/PAlwQOv8kw=
+
+Name: assets/www/core/components/settings/lang/it.json
+SHA1-Digest: VRJkcvpdGOlavIGDnZlSDmVGb+U=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_2_test.js
+SHA1-Digest: cPDwqEDtVZyJ35KbYiMIuiQHK58=
+
+Name: assets/www/core/components/courses/lang/pt-br.json
+SHA1-Digest: hs/InXk31wi4tBb/X4l29XgVdvY=
+
+Name: assets/www/core/components/course/lang/eu.json
+SHA1-Digest: gZ20CYESU03S6PIEUigEC4crTDk=
+
+Name: assets/www/lib/ionic/scss/_tabs.scss
+SHA1-Digest: dkJl0m72W3x+vh5x6guRHt/Cwzo=
+
+Name: assets/www/addons/calendar/lang/en.json
+SHA1-Digest: zsEMMRWRRaaQ7fKxm6UqIel/Eoc=
+
+Name: assets/www/addons/mod_assign/lang/fa.json
+SHA1-Digest: TT5OXpIEv1wYU2kFC1aL3WWXmJ0=
+
+Name: assets/www/core/lang/zh-cn.json
+SHA1-Digest: R6FT+oPKZ8Mt9EXwD+Tz/42+WqI=
+
+Name: assets/www/addons/mod_folder/lang/ru.json
+SHA1-Digest: SQIrPl2firL3Hil1HaHDmAwmgsY=
+
+Name: assets/www/lib/ionic/scss/_type.scss
+SHA1-Digest: Vmi1WTh33DsErDm7gqHGR7XrsWQ=
+
+Name: assets/www/addons/notifications/templates/list.html
+SHA1-Digest: HHYXJkszj/tBc5kke9Bw0p/6YPg=
+
+Name: assets/www/core/lib/db.js
+SHA1-Digest: yV1q9TkdrFtwh/Vs9b8ykJMS8iw=
+
+Name: assets/www/addons/mod_url/lang/zh_tw.json
+SHA1-Digest: Jd5n4eWxth52fmVvIqiVVMRxvak=
+
+Name: assets/www/core/components/settings/lang/ar.json
+SHA1-Digest: kQoBbyNXMdGapT62fMQWTml5yEw=
+
+Name: assets/www/core/templates/file.html
+SHA1-Digest: VSyfhxlIzfbPqxT3FSD15CEOdPg=
+
+Name: assets/www/core/components/settings/lang/fa.json
+SHA1-Digest: u6N5eKSmnQkcfrksMA2Nhfq4H2I=
+
+Name: assets/www/addons/mod_chat/lang/bg.json
+SHA1-Digest: AWZ1uIjjZd6HvWY/Mhy/RfW2S94=
+
+Name: assets/www/addons/mod_folder/lang/zh-tw.json
+SHA1-Digest: rA5J5cWYlCfEp0uTzxPOhCzb6Iw=
+
+Name: assets/www/img/mod/book.svg
+SHA1-Digest: Bdy/gVlHXjmhskQh7RKPpLU42os=
+
+Name: assets/www/lib/angular-md5/lib/filters/gravatar.js
+SHA1-Digest: 0oYMb5ue3IdeDiZSsuQyEPORXFg=
+
+Name: assets/www/lib/ydn.db/test/issues/file-store.js
+SHA1-Digest: aimT4gVHGMTmDNPYRJRU7X7vHSY=
+
+Name: assets/www/addons/mod_label/lang/es-mx.json
+SHA1-Digest: bZoTcE7Go1IjsB+y8ypgqSx2ub4=
+
+Name: assets/www/addons/mod_url/lang/cs.json
+SHA1-Digest: ghf1PYpbcVNip6JqHgr/r2wsvT0=
+
+Name: assets/www/core/components/course/lang/sv.json
+SHA1-Digest: CPHuOl9afAFjvu7dAzECe9sOyvc=
+
+Name: assets/www/lib/ydn.db/test/query/conj_test.js
+SHA1-Digest: gNk5zXDzQmE0ewE5rJonjYsezuc=
+
+Name: assets/www/addons/mod_imscp/main.js
+SHA1-Digest: Dfo0Ep81No2sxrrgLabRgocyK6M=
+
+Name: assets/www/addons/mod_imscp/lang/de.json
+SHA1-Digest: UGjiFDULzc656Q/hbbbO0XmNRgg=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_3_websql_test.html
+SHA1-Digest: BLSX1yNw6iBH5HvX4l3hf3Cn3pg=
+
+Name: assets/www/core/lang/hu.json
+SHA1-Digest: DpqyrEc+BmY41y3umWSiPcLnxqU=
+
+Name: assets/www/lib/ydn.db/test/issues/mobile-issue.html
+SHA1-Digest: cYDVw8GQ74y0fNv3HKSw1w6LWm4=
+
+Name: assets/www/core/components/course/lang/ar.json
+SHA1-Digest: oSEHsFK8LdSvE6LYhv3nDaamVcQ=
+
+Name: assets/www/lib/angular-aria/angular-aria.min.js.map
+SHA1-Digest: E7sWyiU7TGAoJJYS2rYoaez8EHk=
+
+Name: assets/www/addons/notes/lang/zh_tw.json
+SHA1-Digest: ZN343zyssYp2Wnw/XWHafbVzHsE=
+
+Name: assets/www/addons/calendar/lang/pt-br.json
+SHA1-Digest: 7T75bJR1aj+nbxZPO114lnwPscY=
+
+Name: assets/www/addons/frontpage/lang/pl.json
+SHA1-Digest: TkwoVCGdIOjscdRDAEk3ejS7wOw=
+
+Name: assets/www/core/components/sidemenu/lang/nl.json
+SHA1-Digest: AVZJIBXqRF2auVYStQNB6RyFk0w=
+
+Name: assets/www/addons/mod_book/lang/cs.json
+SHA1-Digest: lY6aVX6EUotZO6M46jIhQBlYjGI=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/sql/req/sql_old.js
+SHA1-Digest: 9Sc8oqnLZSU5IutGH6pKhJNzLmU=
+
+Name: assets/www/addons/notifications/lang/ja.json
+SHA1-Digest: 9xWquk2WH+3kfeuhrzbB+V97/Qc=
+
+Name: assets/www/core/components/course/lang/es.json
+SHA1-Digest: hMzICs9S4uS56BwRbwIeE18oc3w=
+
+Name: assets/www/lib/ydn.db/test/idb/IndexedDbJstest.js
+SHA1-Digest: ZFWksjiTN5HwFlQM561c+QhWh4g=
+
+Name: assets/www/core/components/settings/lang/pt-br.json
+SHA1-Digest: Zn71n9COURdSd2ZSoU/13r9ditE=
+
+Name: assets/www/plugins/com.ionic.keyboard/www/keyboard.js
+SHA1-Digest: jpjpvsptJXvBCIQmhYapVYX361Q=
+
+Name: assets/www/addons/grades/lang/pt-br.json
+SHA1-Digest: lHkN0nxEnBegVC/cVnTrqJ6Iirs=
+
+Name: assets/www/lib/ydn.db/example/todo.html
+SHA1-Digest: kvKzkJ1NQGSsEkfJNojxDLLfaVw=
+
+Name: assets/www/addons/mod_choice/lang/bg.json
+SHA1-Digest: fTTx1rq5lkW/BIc8aOG36Kc36uo=
+
+Name: assets/www/img/files/flash-64.png
+SHA1-Digest: DHqC1ihXz6QZFqIGrVinOJK3VNI=
+
+Name: assets/www/addons/mod_imscp/lang/es_mx.json
+SHA1-Digest: dGL/461/MUX15geu8PwGAhCP/1w=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/DirectoryEntry.js
+SHA1-Digest: NZXu9ZfNzHudkztfD12k+oslfmU=
+
+Name: assets/www/core/components/course/lang/zh-tw.json
+SHA1-Digest: 76EETT5PSqi3yQvAaJNtYQQwsXQ=
+
+Name: assets/www/core/components/courses/lang/en.json
+SHA1-Digest: k5axbrwXOi5oEBm/rhs79X87bjM=
+
+Name: assets/www/core/components/courses/lang/pl.json
+SHA1-Digest: Bio566YjyVs6zeHiS8XNgjRE3nc=
+
+Name: assets/www/core/components/courses/templates/list.html
+SHA1-Digest: XNoL06NEza/mKqczOxSpE6YxIG4=
+
+Name: assets/www/core/components/sidemenu/lang/hu.json
+SHA1-Digest: g03AV8LD4YolmJtpNfupzEvvDx0=
+
+Name: assets/www/addons/files/lang/zh_tw.json
+SHA1-Digest: jE7alflwrKgc+58T37gZL4Kjo8Q=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/utils.js
+SHA1-Digest: q0QVZQ6UW2d1OTwnSOR8oJdK/X8=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/operator.js
+SHA1-Digest: 4tdmXylBDJphKwlzSXa3l9wtHJ0=
+
+Name: assets/www/addons/mod_imscp/lang/it.json
+SHA1-Digest: h2VOL9G44Mn8S6tCNkgMzEqZpD8=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/schema/fulltext/catalog.js
+SHA1-Digest: NvhIt11wPDCHz36DDwfZpxETL/U=
+
+Name: assets/www/lib/ydn.db/test/core/iteration_5_test.js
+SHA1-Digest: /gtqHe6dfB6SnMiJgi7NiEruxDU=
+
+Name: assets/www/addons/calendar/templates/event.html
+SHA1-Digest: j0wWPelr6DvBMgSl02eKZ9VVbdw=
+
+Name: assets/www/addons/messages/lang/nl.json
+SHA1-Digest: KsPKwQTOYXOJqXfzTlY2wCS0j+k=
+
+Name: assets/www/addons/files/lang/ar.json
+SHA1-Digest: aqucV7nGZGuDFNLYR8GCVs+sB+0=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_websql_test.html
+SHA1-Digest: c4PpSr1HKeyBSvDTywVu6J1k4sg=
+
+Name: assets/www/lib/ngCordova/dist/ng-cordova-mocks.min.js
+SHA1-Digest: /6wlSpLmnAOJSUmr/+fdYBEGKbM=
+
+Name: assets/www/core/components/settings/templates/list.html
+SHA1-Digest: 0ibp3VnP5w03HGwjS7nhi7Eqtq4=
+
+Name: assets/www/lib/ydn.db/test/core/index_2_idb_test.html
+SHA1-Digest: BUP5ll1bUv/IRyQp8LHCqrPvomg=
+
+Name: assets/www/lib/ionic/fonts/ionicons.woff
+SHA1-Digest: VIfznJpw+29jAG1niK/tTqSoP2o=
+
+Name: assets/www/core/scss/styles.scss
+SHA1-Digest: RbvSmy9FFjCfyB1b+oTZsAW+B6Y=
+
+Name: assets/www/addons/notifications/lang/bg.json
+SHA1-Digest: QQYZTl8g3wi9FFstCe45quFZESY=
+
+Name: assets/www/addons/mod_book/lang/bg.json
+SHA1-Digest: blPVLepJi08h5thGe10GqZpLZRQ=
+
+Name: assets/www/core/components/settings/controllers/space-usage.js
+SHA1-Digest: P+wuehhCa0jmUd5AIWs9T079fAY=
+
+Name: assets/www/addons/mod_choice/lang/es-mx.json
+SHA1-Digest: Hq7rcI0395u6sJcaOQeVdqjFGB8=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/tr/atomic_parallel.js
+SHA1-Digest: ye2U6xa51UQpmHTEDlgS7cQkCns=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/conn/storage.js
+SHA1-Digest: nBe0wultO2JnTDsr6LtvA5i5JHI=
+
+Name: assets/www/lib/ydn.db/test/core/list_websql_test.html
+SHA1-Digest: Gk9MePzHkVbHYDhNE3x9V8Og/HU=
+
+Name: assets/www/addons/files/lang/sv.json
+SHA1-Digest: oaRO4O+ncZMAFEN/u/V8yC1LLtg=
+
+Name: assets/www/addons/mod_url/lang/eu.json
+SHA1-Digest: qf9h6ZJQtnNCUlyvdOysbkmFm/c=
+
+Name: assets/www/addons/calendar/controllers/event.js
+SHA1-Digest: rh4pIHIs0DK64cq/8GM3OJgkT6o=
+
+Name: assets/www/addons/messages/lang/ca.json
+SHA1-Digest: y+x7w+3jbciFCmTYT5SY6wyPqh8=
+
+Name: assets/www/addons/mod_assign/lang/zh-tw.json
+SHA1-Digest: dS4vlu4JOkVp1GHa+etGj7Qko6E=
+
+Name: assets/www/addons/files/lang/eu.json
+SHA1-Digest: y1NoJ2HDffEMDbOPT7vFwjuedZE=
+
+Name: assets/www/addons/mod_assign/lang/ru.json
+SHA1-Digest: olZEgFL4LD1d4SgK15UqBmPHZok=
+
+Name: assets/www/addons/files/lang/hu.json
+SHA1-Digest: nUFxoFQl6Y81gOJwByOnDZO8vqM=
+
+Name: assets/www/addons/mod_book/lang/de.json
+SHA1-Digest: K7+yxwjzINJzYiGm41a93AsOzVE=
+
+Name: assets/www/addons/mod_page/lang/pt_br.json
+SHA1-Digest: z59U1d5lZtDhcaEkBYqGdG/25E4=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/db.js
+SHA1-Digest: tmFcKMMuoSgyooV3lsrmTntokC0=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/tr/storage.js
+SHA1-Digest: vQ8VavNF+rN02LWUV0dJrVECZ/8=
+
+Name: assets/www/lib/ydn.db/test/core/index_idb_test.html
+SHA1-Digest: QTz4D5qt0TwEOjRbntpHKE1Skqc=
+
+Name: assets/www/core/components/login/services/helper.js
+SHA1-Digest: AreZyocLeGH6GZm6L1iYN6aaUqI=
+
+Name: assets/www/core/lang/es-mx.json
+SHA1-Digest: xtRFLK6BTRIXqmqjgm5vdNcWzFU=
+
+Name: assets/www/lib/ydn.db/test/qunit/event.js
+SHA1-Digest: fhI3Kb7BitOH1mtDknmynAF5KWI=
+
+Name: assets/www/addons/messages/lang/pl.json
+SHA1-Digest: rJgPVOviAtKoMS8jHCRmznFF5yM=
+
+Name: assets/www/lib/angular-animate/angular-animate.min.js.map
+SHA1-Digest: ApwR24h1eHG7E1QJWOCSR8ILvrQ=
+
+Name: assets/www/lib/angular-md5/README.md
+SHA1-Digest: 018Kv1N3n3fmvIEssxBrkw+8vDs=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/conn/simple/simple_storage.js
+SHA1-Digest: DuAVKzSd8x/RNlWkNSI2b0mkjhQ=
+
+Name: assets/www/core/components/courses/lang/es-mx.json
+SHA1-Digest: 3cKHM3Fg7EVmuAS5KwzE0LgyquA=
+
+Name: assets/www/core/components/settings/lang/fr.json
+SHA1-Digest: 4RkZ0+4tkoz1V4aqrERhO1r8jf0=
+
+Name: assets/www/addons/calendar/img/courseevent.svg
+SHA1-Digest: GPu6FaWuavW9mK9bclc6aiL8MPY=
+
+Name: assets/www/addons/mod_resource/lang/en.json
+SHA1-Digest: ZVgGI6mTLQM5LtrqBGEZ351BlLQ=
+
+Name: assets/www/img/files/html-64.png
+SHA1-Digest: rLrmD99v1xS110aYSf5TpeslEhQ=
+
+Name: assets/www/addons/mod_assign/lang/it.json
+SHA1-Digest: u9wN8n2kin3ySjj+AnG7pZ4PvTw=
+
+Name: assets/www/lib/ydn.db/test/query/query-1.js
+SHA1-Digest: u8RFO7GxUCe0KMOGOHkZGrBjzfw=
+
+Name: assets/www/addons/mod_label/lang/pt-br.json
+SHA1-Digest: A56MbX0bh11yFJ9YzOGzQizO3PY=
+
+Name: assets/www/lib/ydn.db/test/qunit/qunit.js
+SHA1-Digest: lTi/+sZkA1LMNsjpHJT9vxTzEY8=
+
+Name: assets/www/lib/angular-md5/example/index.html
+SHA1-Digest: aRp17Oz9YvX0nKGR+X6iYNaS6io=
+
+Name: assets/www/addons/participants/lang/es_mx.json
+SHA1-Digest: zt3c5f/FEmYLhYTa/h4vjrfM8RI=
+
+Name: assets/www/addons/files/controllers/choosesite.js
+SHA1-Digest: FfPBjJyYeN/brhvCKEym16KIFMY=
+
+Name: assets/www/core/components/course/directives/mod_description.js
+SHA1-Digest: CsZ1rF/Erajf6ZeZZ6xC1Vguf98=
+
+Name: assets/www/core/components/login/controllers/site.js
+SHA1-Digest: r60RWQdvJtZLoFAu78WnGRUb+z8=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/sql/req/simple_store.js
+SHA1-Digest: ILcucbUkKNRikCpmX2ger9l6bF0=
+
+Name: assets/www/plugins/org.apache.cordova.media-capture/www/CaptureA
+ udioOptions.js
+SHA1-Digest: mmEFTByy9Zj8uoqwqYFDvxWz8iI=
+
+Name: assets/www/core/components/courses/lang/it.json
+SHA1-Digest: tEDxBMmRIVCiq6DCGsYcmXA3Cxs=
+
+Name: assets/www/addons/mod_label/lang/ru.json
+SHA1-Digest: UoVJJscRAzI9VIaRlIicpkX/O+Y=
+
+Name: assets/www/plugins/org.apache.cordova.globalization/www/globaliz
+ ation.js
+SHA1-Digest: cxnN0jpTE20sC0UC4S+lDeymt6I=
+
+Name: assets/www/addons/calendar/templates/list.html
+SHA1-Digest: k5hcIo7H/8eBHwvmkYIRK+lcOpY=
+
+Name: assets/www/addons/notifications/lang/ru.json
+SHA1-Digest: zUP7hOw/vZrkEpMZAJih8W7D7LE=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_idb_test.html
+SHA1-Digest: vB1zIVYAndm/SzjBadPRvLqvD04=
+
+Name: assets/www/addons/mod_book/lang/pt_br.json
+SHA1-Digest: 1cnvVdBue1zsSGvqlOEaPH2qJT0=
+
+Name: assets/www/lib/ionic/scss/_spinner.scss
+SHA1-Digest: w8svjUQTtmjC8U7C3d1e0lFD48M=
+
+Name: assets/www/lib/angular-translate/README.md
+SHA1-Digest: fEF9fK6HZMm6n6k7cWfoQzOfvLI=
+
+Name: assets/www/addons/frontpage/lang/it.json
+SHA1-Digest: U0fdYyqcQ6+3g/tRn/mFK5szoLE=
+
+Name: assets/www/core/directives/completion.js
+SHA1-Digest: tIPCweP8KsLhOOu28Yw6tgInmBw=
+
+Name: assets/www/img/mod/database.svg
+SHA1-Digest: fLQY19hGvN0fv2tk/vGXoVPw8tw=
+
+Name: assets/www/addons/coursecompletion/templates/report.html
+SHA1-Digest: 4yoFxKOLw6dYSVpriOl7RWCsttQ=
+
+Name: assets/www/core/components/login/lang/ar.json
+SHA1-Digest: Yoqs1pHO5sIXhmKUJFl/cKl04R0=
+
+Name: assets/www/core/components/sidemenu/lang/fr.json
+SHA1-Digest: mcWeo3I5x0G1J2WUhe5cx3f8B5I=
+
+Name: assets/www/lib/ydn.db/test/core/iteration_idb_test.html
+SHA1-Digest: HQcXDJtq4Xe3qHmCYao1Bxh8cMY=
+
+Name: assets/www/core/assets/countries/de.json
+SHA1-Digest: 8nDvBS6ts9Bl2ggFNL2smXG2Nyg=
+
+Name: assets/www/addons/calendar/lang/it.json
+SHA1-Digest: ss6srNS0rJpnzgaSf9KTDoGlm/g=
+
+Name: assets/www/addons/grades/lang/es-mx.json
+SHA1-Digest: pWYyWCPadF3cwEb7yMUnKYf9ARI=
+
+Name: assets/www/core/components/user/lang/it.json
+SHA1-Digest: FrNwDq8f2GERtOQnSRTNJpoHXoQ=
+
+Name: assets/www/lib/ydn.db/test/query/conj_idb_test.html
+SHA1-Digest: poUxhnncGBlN3n01w0hTdZzBXFk=
+
+Name: assets/www/addons/notes/controllers/types.js
+SHA1-Digest: B9EJMisDSaK9wLzZ62iaNQADS5U=
+
+Name: assets/www/core/lib/config.js
+SHA1-Digest: f5ogCfzfMS1rPeR76msh4QL1NOA=
+
+Name: assets/www/img/files/mpeg-64.png
+SHA1-Digest: r7KiCrtgPGDaUgn9q+fs7W0l/cA=
+
+Name: assets/www/addons/mod_choice/lang/tr.json
+SHA1-Digest: lnSwKVyuEaChVOnuE68AzQufYwo=
+
+Name: assets/www/img/files/isf-64.png
+SHA1-Digest: afxKd9CZc6DwV/s0NytDTKhZeLE=
+
+Name: assets/www/addons/calendar/lang/tr.json
+SHA1-Digest: fM17V6UiGNOoYk5JzEE7wM8iRmQ=
+
+Name: assets/www/img/completion/completion-manual-y.svg
+SHA1-Digest: GSo4j6HLPesW/IMrZAzGiDkIeEA=
+
+Name: assets/www/core/lang/ar.json
+SHA1-Digest: oWOIqq9o5foSUN4qyLP7Lmu3qK0=
+
+Name: assets/www/addons/participants/lang/ca.json
+SHA1-Digest: BOvlWSosv5ialZ9WR7wFTX4QjKY=
+
+Name: assets/www/lib/ydn.db/test/qunit/text.js
+SHA1-Digest: YPhBd7DzVuqXOcRubs/7Ymruokc=
+
+Name: assets/www/lib/angular-ui-router/LICENSE
+SHA1-Digest: EIPQaXbYJAwIFXu/yd5vOJrrF0o=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/sql/req/nosql/reduce_node.js
+SHA1-Digest: TW1hFDmWNY7L4r4vTIMySTf05ps=
+
+Name: assets/www/img/mod/page.svg
+SHA1-Digest: gM7awfRNFTNbpkjzDTTWErZtk2I=
+
+Name: assets/www/core/components/courses/lang/es_mx.json
+SHA1-Digest: XUgIA3M6swasJWHS/Yh0iu2YDB0=
+
+Name: assets/www/addons/mod_resource/lang/it.json
+SHA1-Digest: lrq3jiqAxmtMkERGlHcnMhDueD8=
+
+Name: assets/www/core/components/sidemenu/lang/ja.json
+SHA1-Digest: YPVAUzzaN2h/YhziaeIFY+9EUbY=
+
+Name: assets/www/lib/ionic/scss/_range.scss
+SHA1-Digest: jroOphuuppX3BK5MG7aZDbWBaHE=
+
+Name: assets/www/addons/mod_chat/templates/users.html
+SHA1-Digest: y8pYoqSEq9waYIQzG0qA2HB1siQ=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/Entry.js
+SHA1-Digest: dkMhdkZh8PRyvkLlNpZ5AcbEYX0=
+
+Name: assets/www/core/components/courses/lang/pt_br.json
+SHA1-Digest: BNkVPoQUj54jHZX7vowmmG1gC2o=
+
+Name: assets/www/errorreport.js
+SHA1-Digest: RVg0eDMr/fWlGM2bRX8sjQuam08=
+
+Name: assets/www/addons/mod_resource/lang/es_mx.json
+SHA1-Digest: f+jvfuSpTFPhytifVQzUtsu+2bk=
+
+Name: assets/www/addons/mod_page/lang/es_mx.json
+SHA1-Digest: 69I6w5CbjcbGpzwwU/ZSS60OZkU=
+
+Name: assets/www/addons/mod_label/lang/zh_tw.json
+SHA1-Digest: uYADaPGlVXN+VMAHwYf69UdLYYw=
+
+Name: assets/www/addons/mod_chat/lang/de.json
+SHA1-Digest: mjaWV40wPhGzzIdOKiA3WnemTI8=
+
+Name: assets/www/core/components/login/lang/ja.json
+SHA1-Digest: /PUpUrjsEwovBA0iTZht1tOLH3I=
+
+Name: assets/www/addons/participants/lang/ja.json
+SHA1-Digest: L17DPOfvH/JZ9Pjp8fAWx2/5u30=
+
+Name: assets/www/core/components/login/lang/fr.json
+SHA1-Digest: zGzPKOnWPvSXAGNJ23KCH4Wgsz8=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/algo/algo.js
+SHA1-Digest: Zjy1wbKtbTM8q8pGNr89m00KEow=
+
+Name: assets/www/addons/mod_resource/services/resource.js
+SHA1-Digest: nKAr8oYIxv+GCFGyffdmDyggs7M=
+
+Name: assets/www/addons/remotestyles/services/remotestyles.js
+SHA1-Digest: ZKYjTT453BYp/n5GzYMH+Ll3Lns=
+
+Name: assets/www/addons/messages/controllers/discussion.js
+SHA1-Digest: 0LneHvXgZJx0jINdZaleyCF2A/M=
+
+Name: assets/www/lib/angular-mocks/angular-mocks.js
+SHA1-Digest: DanwZK9m7GzpVBufYk1l4j1ENRg=
+
+Name: assets/www/addons/mod_choice/lang/ru.json
+SHA1-Digest: qqfKxx1uj2S8t71SJf1R3wqB4FI=
+
+Name: assets/www/addons/grades/lang/en.json
+SHA1-Digest: 2WZZ991vXP8Jx+F1pdQm6ai/dfg=
+
+Name: assets/www/lib/ydn.db/test/issues/websql-unique-index.js
+SHA1-Digest: cVvlzPXyMj6x1bgyAT9SE0TKhfY=
+
+Name: assets/www/img/files/chart-64.png
+SHA1-Digest: 28rbvkcvv9bji40ORJS/EwXJ0ks=
+
+Name: assets/www/addons/mod_label/lang/hu.json
+SHA1-Digest: Peom/QOpxedoTWX+Wi/cPVRaztM=
+
+Name: assets/www/core/components/settings/lang/es-mx.json
+SHA1-Digest: H7jfN4ttgAxZl2VKfHWiLG0dZsE=
+
+Name: assets/www/addons/mod_url/templates/index.html
+SHA1-Digest: LFPY7zWw+qE/y3oMM4zv6i9pofs=
+
+Name: assets/www/lib/ydn.db/test/perf/perf.css
+SHA1-Digest: aQ+E/00qNygaX0Vc07FOdG6V274=
+
+Name: assets/www/lib/angular-md5/lib/filters/md5.js
+SHA1-Digest: 0O/9ohlpNnhylFqU+OTtaCY4c5I=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_ls_test.html
+SHA1-Digest: a57jXrUfWnNbFEQ2u9Cbr5GNvZE=
+
+Name: assets/www/lib/ionic/scss/ionicons/_ionicons-icons.scss
+SHA1-Digest: /8Vnzz3lLn9G6J2oEzbr5fHffgg=
+
+Name: assets/www/addons/notifications/controllers/list.js
+SHA1-Digest: SsDD9lr8zjal3LDLxwaOGmqWOu4=
+
+Name: assets/www/core/components/settings/lang/ja.json
+SHA1-Digest: 1xTemsgXFf6DsJXgZvHzAnzBYu8=
+
+Name: assets/www/lib/ydn.db/test/storage/storage_test.html
+SHA1-Digest: HYmL8r0FUBnbRjCtvXnwKjshm4U=
+
+Name: assets/www/addons/mod_folder/lang/bg.json
+SHA1-Digest: ViuPgBSDH6bECECS568LD6YA4b4=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/conn/simple/store.js
+SHA1-Digest: 6227l84JPPQwJNMJosJBb22YCX4=
+
+Name: assets/www/img/files/video-64.png
+SHA1-Digest: HWqQJUs2SzXIZ3HzULbkRZBFgsQ=
+
+Name: assets/www/lib/ydn.db/test/core/list_2_websql_test.html
+SHA1-Digest: Bjxb394SDUP78/1cVbm3papsCUg=
+
+Name: assets/www/lib/ydn.db/test/aat/setup.sh
+SHA1-Digest: ljRuzzmHchKGkcvrt6YLLs/jhZU=
+
+Name: assets/www/lib/ionic/scss/_popup.scss
+SHA1-Digest: x0vjMAfkwa+7nNQns9keWfdzCwE=
+
+Name: assets/www/addons/notifications/filters/format.js
+SHA1-Digest: tHekR0uRGej3FHiHl/j9XSfUqM4=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/idb_cursor_stream.js
+SHA1-Digest: gQfrooMy9mUmnBN7lNWk392eUO0=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_14_idb_test.html
+SHA1-Digest: TVfIIg+PHw8f2+Sf6grHOxA99VQ=
+
+Name: assets/www/addons/calendar/lang/nl.json
+SHA1-Digest: dz7TDVphUUEsyvw5OVCgMDwgJCQ=
+
+Name: assets/www/addons/messages/lang/fa.json
+SHA1-Digest: vWvu6ceUZ7xScP0etSmSRPIFNM4=
+
+Name: assets/www/addons/mod_url/lang/bg.json
+SHA1-Digest: vC2GwQMD/fBrEdoRFTBIajShbwo=
+
+Name: assets/www/img/files/writer-64.png
+SHA1-Digest: MpghMowiP/ncctXkV07/iUa9MVY=
+
+Name: assets/www/addons/mod_book/lang/es.json
+SHA1-Digest: COc5iZqMqx99X0T0qOcg9a1JL4s=
+
+Name: assets/www/addons/mod_chat/lang/zh-tw.json
+SHA1-Digest: TePJR9kCbHeFMuA7S5pPRRHkfLs=
+
+Name: assets/www/addons/coursecompletion/services/handlers.js
+SHA1-Digest: BW1ZZUaKvEhgHjwYo9yMO1j6w8c=
+
+Name: assets/www/addons/mod_url/lang/sv.json
+SHA1-Digest: ESZFCKKdsxAdT/i7CYWoz6fpqTk=
+
+Name: assets/www/addons/mod_imscp/lang/en.json
+SHA1-Digest: APtXBLhGo4FlyVy3uk9r8vIYlOE=
+
+Name: assets/www/core/lib/text.js
+SHA1-Digest: DcP/U5Y1V1sALh4QXPSh43/LyX8=
+
+Name: assets/www/lib/ydn.db/test/core/iteration_websql_test.html
+SHA1-Digest: lBqsBzojl6Uye/PV6864u58/2oU=
+
+Name: assets/www/addons/files/controllers/index.js
+SHA1-Digest: 6E10zt8aJ2LU+9VW58defmCHMTs=
+
+Name: assets/www/phonegap.js
+SHA1-Digest: 4wQuFJXWB6t43Q0od+nVfk5EwLo=
+
+Name: assets/www/addons/mod_forum/lang/it.json
+SHA1-Digest: 1i1ME9Vp2e2zLifGUIL2txCR8Jw=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/schema/fulltext/engine.js
+SHA1-Digest: GnglGhRFrdUO/9xwH1xpqC/SiUg=
+
+Name: assets/www/lib/ydn.db/test/core/iteration_test.js
+SHA1-Digest: kod/6ejGud3iCgGsL6mSwSJMUmg=
+
+Name: assets/www/addons/mod_resource/lang/nl.json
+SHA1-Digest: 9muX/cWdnpDmIFSoxAv86v5ntW0=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/storage.js
+SHA1-Digest: cAERsV1KRYjde9pugnYfvdAdWac=
+
+Name: assets/www/addons/coursecompletion/lang/he.json
+SHA1-Digest: +Bs2BhPs+HhNIShioKYI0+GRVk8=
+
+Name: assets/www/core/templates/completion.html
+SHA1-Digest: bd+NI/4G7gmMpqRQXR/9N2jUZSE=
+
+Name: assets/www/plugins/org.apache.cordova.media-capture/www/CaptureI
+ mageOptions.js
+SHA1-Digest: 47klmghSDVQ0P0zJo3kcazJtpKY=
+
+Name: assets/www/lib/ydn.db/config/conn.js
+SHA1-Digest: lR9XQS+seIm0eAW6G6I3ZQ5UJoM=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/sql/req/sql_query.js
+SHA1-Digest: 1T/3xh4kReV20/kgjNqHetxE+10=
+
+Name: assets/www/core/components/sidemenu/lang/ru.json
+SHA1-Digest: z3+tKBGNsllyP88dK3xUDFSYwhk=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/tr/inject.js
+SHA1-Digest: iCUzDXddfTuPgvczFZ8TAjjaIz8=
+
+Name: assets/www/addons/messages/lang/pt_br.json
+SHA1-Digest: X08VplXleR6VLVD5wzuWFvWxsWI=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/schema/fulltext/invindex.j
+ s
+SHA1-Digest: 4bCHFL+2dttYq8kXWOkHCYL1JZM=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/where.js
+SHA1-Digest: l/IOvfcA3vH4Jawaf0s4WIuSYlQ=
+
+Name: assets/www/lib/ydn.db/test/storage/schema_websql_test.html
+SHA1-Digest: ud3FmtMD1BmsMR8MkkZCN1se3Oc=
+
+Name: assets/www/addons/messages/lang/ru.json
+SHA1-Digest: StheGNrrzngdzMfexH/o21oBwj4=
+
+Name: assets/www/core/filters/createlinks.js
+SHA1-Digest: tK4lSn+aos+pI5SbaxokvCgbYeA=
+
+Name: assets/www/lib/ydn.db/test/core/list_idb_test.html
+SHA1-Digest: 8ia+opIOvw6VRPw58wDQb3+WuRE=
+
+Name: assets/www/addons/mod_choice/lang/hu.json
+SHA1-Digest: l6Dwn+ewE8JKnXgrRA6NrZHHLoo=
+
+Name: assets/www/addons/grades/lang/it.json
+SHA1-Digest: DPsguTWFvPJYSU8TWQFEqw3rsY4=
+
+Name: assets/www/addons/coursecompletion/controllers/report.js
+SHA1-Digest: AXfU0QKpLidx2TJwbG1qN3WEY/c=
+
+Name: assets/www/lib/ydn.db/test/crud/list_websql_test.html
+SHA1-Digest: luqc53Q2BTE40SK2iYqj8QXgVRE=
+
+Name: assets/www/addons/mod_choice/img/row.png
+SHA1-Digest: Vimz8GyJRERBIkaqI+0d4jDBB8s=
+
+Name: assets/www/img/files/tiff-64.png
+SHA1-Digest: JXLqCfhityYfJ02jlrX0K17BCqg=
+
+Name: assets/www/addons/files/lang/zh-cn.json
+SHA1-Digest: OhXXWg7ZV+UdrTgca2qeHl0surU=
+
+Name: assets/www/addons/mod_label/lang/fr.json
+SHA1-Digest: f/XgJKPOq/XJS1r9IIr2GZOlNQ0=
+
+Name: assets/www/addons/mod_page/main.js
+SHA1-Digest: qje5kqIWmcJud906W5iQkybQ6SY=
+
+Name: assets/www/addons/mod_chat/services/chat.js
+SHA1-Digest: qMbock5VKvQ9eizaysHWKVJdRLY=
+
+Name: assets/www/addons/notes/templates/list.html
+SHA1-Digest: X1oa4Hytlb+S6tiX1MhX9DwsOAI=
+
+Name: assets/www/addons/calendar/lang/pl.json
+SHA1-Digest: sgBWlvfKODjWMplcT8ZMKyy+Y8I=
+
+Name: assets/www/lib/ionic/js/ionic.js
+SHA1-Digest: ZXooXj9svcw+zjigme55lYVBFbs=
+
+Name: assets/www/addons/mod_resource/lang/pl.json
+SHA1-Digest: 66rHk29/aLnVbZYv9FkCCkOwKlQ=
+
+Name: assets/www/addons/notifications/lang/fr.json
+SHA1-Digest: Uv9svOQquLJnoz8QoCwvt0UTjfc=
+
+Name: assets/www/index.html
+SHA1-Digest: p9CFMibjczpMFqQRvDv+UiNE5q0=
+
+Name: assets/www/lib/ionic/scss/_action-sheet.scss
+SHA1-Digest: Nj1t3HCw/1/EHMVVpXGcsEdh0GU=
+
+Name: assets/www/addons/mod_choice/lang/fr.json
+SHA1-Digest: fqjg3YnRuV6XTjFmWCaFzCO0JmM=
+
+Name: assets/www/lib/angular-mocks/package.json
+SHA1-Digest: NZQ6vqxzWpXqtGziKTUIyJ0Qx8w=
+
+Name: assets/www/addons/mod_chat/lang/zh-cn.json
+SHA1-Digest: DZXnxu6QdlZzeTet5ZgS0xnOc/0=
+
+Name: assets/www/addons/mod_chat/lang/es.json
+SHA1-Digest: f/2nsKUf4VAHfO+F9LFpUdFAEzU=
+
+Name: assets/www/addons/mod_url/lang/zh-cn.json
+SHA1-Digest: aYd7H9hlhG9s1GR7d8YrHyZx0K4=
+
+Name: assets/www/addons/mod_resource/lang/pt_br.json
+SHA1-Digest: 8fZnBou2kzpj1I2zhXVSNASLPZk=
+
+Name: assets/www/addons/files/lang/bg.json
+SHA1-Digest: h0cj2BOoB6TyCFL4O9jsrO1cvUY=
+
+Name: assets/www/addons/mod_assign/lang/zh_tw.json
+SHA1-Digest: 3NxPQvvnTNpcVyVjDO7NxzzWOaI=
+
+Name: assets/www/addons/frontpage/lang/en.json
+SHA1-Digest: e1Mle1ZWvgoeq6ebmRBdY1svx/M=
+
+Name: assets/www/addons/mod_assign/lang/zh_cn.json
+SHA1-Digest: C2ECVM5oArK6tR/ELktT8and3dk=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_3_test.js
+SHA1-Digest: 3jQrORPJrLTnMIZdMOcQ+X3wAGg=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_3_idb_test.html
+SHA1-Digest: w0A/UmenwIprm5XNYITyeCRnxtU=
+
+Name: assets/www/lib/ydn.db/test/storage/schema_ls_test.html
+SHA1-Digest: NbE0080LH/9ppLnV0vgIDntdP8c=
+
+Name: assets/www/plugins/org.apache.cordova.media-capture/www/MediaFil
+ e.js
+SHA1-Digest: G987A8cda4MRX2ezOLbklsptC0Y=
+
+Name: assets/www/addons/mod_page/lang/pt-br.json
+SHA1-Digest: wTSRbpR0dOjlCI6XI7PefBICh9U=
+
+Name: assets/www/addons/participants/lang/fa.json
+SHA1-Digest: cyDWz9K5Rhw+8M8MEV5+HSXnz2M=
+
+Name: assets/www/core/lib/groups.js
+SHA1-Digest: nn9eDWLOpphdeOv12Mebiili3xw=
+
+Name: assets/www/lib/ydn.db/test/sql/sql_old_test.js
+SHA1-Digest: Ez1MmiAKctpWEIxScrVODGyiatE=
+
+Name: assets/www/lib/ydn.db/test/storage/abort_idb_test.html
+SHA1-Digest: JqEXZ5ie/Li48rfmm6rBbyenH/g=
+
+Name: assets/www/addons/mod_label/lang/ar.json
+SHA1-Digest: rGD3dWhKXohOGymcXJPHuPQObKw=
+
+Name: assets/www/addons/mod_choice/lang/ja.json
+SHA1-Digest: uDh+HwZjn+tU3QkGf3FOUDV+O5g=
+
+Name: res/drawable-port-xxxhdpi/splash.png
+SHA1-Digest: pFVnhJvWiFntyAFKBAuYPo1cnUk=
+
+Name: assets/www/core/directives/browser.js
+SHA1-Digest: 7N7bfGrixqAWAOo/t/mOKptOBfY=
+
+Name: assets/www/lib/ngCordova/dist/ng-cordova.js
+SHA1-Digest: JygPR9gaYbWmVL2AR9Y0KSW/8Gg=
+
+Name: assets/www/core/components/user/lang/en.json
+SHA1-Digest: vO11OPAicoBxF93g2cI41pXE8cs=
+
+Name: assets/www/core/components/login/lang/ca.json
+SHA1-Digest: Vy646zw7fjHUYLZ+0bxOrVgBpPs=
+
+Name: assets/www/addons/files/services/handlers.js
+SHA1-Digest: D2IiMfG6NJiEwqsxUS0eT2qpu6Y=
+
+Name: assets/www/plugins/org.apache.cordova.camera/www/Camera.js
+SHA1-Digest: Pe9OR++bxKDWd//+Se7rVrf8m5Q=
+
+Name: assets/www/addons/mod_imscp/lang/pt_br.json
+SHA1-Digest: 9LSXtCVrop2vEQZ0bBw4iaamocI=
+
+Name: assets/www/addons/pushnotifications/services/pushnotifications.j
+ s
+SHA1-Digest: sg6Lwi3AefdPn5DKdNouOIDcgIk=
+
+Name: assets/www/core/components/login/lang/pt_br.json
+SHA1-Digest: ABVEtxLaOLGru3fWullT4OaLTQg=
+
+Name: assets/www/lib/ionic/scss/_select.scss
+SHA1-Digest: 1wSLwtjrj6dJ/YjCdb76e6k1ZS0=
+
+Name: assets/www/addons/messages/lang/tr.json
+SHA1-Digest: DZH2B3qCr85vz9uRwigU6/5kQf8=
+
+Name: assets/www/addons/notifications/lang/eu.json
+SHA1-Digest: cG26/q/SwGnAij8SD/p8REnl0DI=
+
+Name: assets/www/addons/participants/lang/ar.json
+SHA1-Digest: 4sdcRnVt/EvdzN0/b8GvFAYckKk=
+
+Name: assets/www/core/components/sidemenu/lang/tr.json
+SHA1-Digest: mCP4uzoEuiLBHxED5QSxxoVsUT0=
+
+Name: assets/www/addons/notes/lang/pl.json
+SHA1-Digest: PF8kMQ32QEJsS0LJvFhZF7b0XJE=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/sql/i_storage.js
+SHA1-Digest: ntDdsi6HN/urThiV8o8yvsw1/bY=
+
+Name: assets/www/addons/mod_assign/lang/pl.json
+SHA1-Digest: fcNwg2bYlBMNMY+DDEbsXUraqbc=
+
+Name: assets/www/addons/mod_folder/lang/hu.json
+SHA1-Digest: jTeXf732fPBquhwbU8ByXMtpVO4=
+
+Name: assets/www/core/assets/countries/he.json
+SHA1-Digest: ptR1UoX4OMz2nyH2M06zQowqGyI=
+
+Name: assets/www/lib/ionic/scss/_animations.scss
+SHA1-Digest: wmBwh9FUHZgZhVh5eZIa++SY8G4=
+
+Name: assets/www/addons/messages/templates/contacts.html
+SHA1-Digest: I5awEPGwWQ2+PFMMwFy0Q8Y8lNY=
+
+Name: assets/www/addons/mod_resource/controllers/index.js
+SHA1-Digest: 8avhsiyOH87/IpapajVpCaoq3aI=
+
+Name: assets/www/core/lib/lang.js
+SHA1-Digest: Y2haYtu0Ps3Ph8fYjQFsx1hxkXU=
+
+Name: assets/www/lib/angular-ui-router/src/stateFilters.js
+SHA1-Digest: Sx9tiTaPMY72Bdw48OC10Pd0kJY=
+
+Name: assets/www/addons/mod_folder/lang/eu.json
+SHA1-Digest: oFuMthWBT5iwJa0m4kBusoRfbwc=
+
+Name: assets/www/lib/angular/index.js
+SHA1-Digest: OLLghZ1RCe6gDzHg2xZaS+lYfiw=
+
+Name: assets/www/addons/participants/lang/fr.json
+SHA1-Digest: 7MRvpemOZga52v5o/6wyghPTuD4=
+
+Name: assets/www/addons/mod_url/lang/zh-tw.json
+SHA1-Digest: ykI/i+LwMKZFKtnCQEiwzXEGrtg=
+
+Name: assets/www/css/app.css
+SHA1-Digest: 0rV8DECFAZ9KJjBwOuGk/VX26dM=
+
+Name: assets/www/core/components/login/templates/sites.html
+SHA1-Digest: KCNrUHRvm6kUpGc5wCiam7K0szc=
+
+Name: assets/www/lib/angular-animate/package.json
+SHA1-Digest: +guiK3FkpRGFc82bMbWQIFcFUtY=
+
+Name: assets/www/lib/ionic/scss/_popover.scss
+SHA1-Digest: lpNiDEFOdz7NqvtnjOAyFtoYxjI=
+
+Name: assets/www/core/lib/moduleactionsdelegate.js
+SHA1-Digest: S6BVCt1qzOE6fVyjOS5ypm+obgk=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/query/secondary-key-conj-cursor
+ .js
+SHA1-Digest: h1Jfdut1R52TkvdbYR8ZtuadsAQ=
+
+Name: assets/www/addons/notes/lang/zh-tw.json
+SHA1-Digest: weM1ImHJxbu9kaFv/hvVSauTLo8=
+
+Name: assets/www/core/components/login/controllers/init.js
+SHA1-Digest: eVRGmQeccRceOVJL3CMRF8yWS0I=
+
+Name: assets/www/addons/messages/services/messages.js
+SHA1-Digest: GKbWmP40qfbInjKBKjcBJsO1Zq8=
+
+Name: assets/www/addons/mod_chat/lang/sv.json
+SHA1-Digest: JaAbfOtnqFh67TPxsDsN8YQNFto=
+
+Name: assets/www/addons/mod_label/lang/ca.json
+SHA1-Digest: 9W/uBzS9dOE7DvhejJbVRbc2ZVs=
+
+Name: assets/www/core/assets/countries/cs.json
+SHA1-Digest: wOKoZhm65BIMXhRJQgyqeUBuisw=
+
+Name: assets/www/core/components/sidemenu/controllers/menu.js
+SHA1-Digest: AKsEOZVvdZ0KCJZr6NsEOWdgfyQ=
+
+Name: res/drawable-land-hdpi/splash.png
+SHA1-Digest: yabuYOimFc4jKJv4R+7UbzlmHxg=
+
+Name: assets/www/addons/mod_forum/lang/en.json
+SHA1-Digest: zfyhn73DZ5LwMZGzCBz+E98/pVE=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_11_websql_test.html
+SHA1-Digest: ae2T6eQ4uCGtCPr0lg7d079NR0Y=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: YQVAvct/QTcPz6h2i2BRJk3Zgd4=
+
+Name: assets/www/lib/angular-md5/angular-md5.min.js
+SHA1-Digest: c4Z6jntcUKh7TRYGNPVyfqpphJU=
+
+Name: assets/www/lib/ydn.db/test/algo/algo_idb_test.html
+SHA1-Digest: vz/Zo6FY8O43sJQPluSKco8mQIY=
+
+Name: assets/www/img/files/base-64.png
+SHA1-Digest: uM5pxE5ZXhOo8JyhqRYg5N+m82g=
+
+Name: res/drawable-land-ldpi/splash.png
+SHA1-Digest: hxeQc0Lc7ljnEJize7+pG5a/2rs=
+
+Name: assets/www/core/assets/countries/es.json
+SHA1-Digest: 0izfavVfjai9lK+lRYP+egePHbE=
+
+Name: assets/www/addons/files/lang/zh-tw.json
+SHA1-Digest: yh8i7DP+3jwbaUG67Tv2WL5Sp8k=
+
+Name: assets/www/core/components/login/lang/hu.json
+SHA1-Digest: GoqUkI7ke8Opi7MgaR5OvgaxSAU=
+
+Name: assets/www/addons/mod_choice/lang/fa.json
+SHA1-Digest: m8Gu30+opLcnxM68HH5zd2ru+n4=
+
+Name: assets/www/addons/notifications/lang/ar.json
+SHA1-Digest: lnaWlwiXjryDIgkPRoM+odjHTpg=
+
+Name: assets/www/lib/ydn.db/test/qunit/test_all.html
+SHA1-Digest: DjNir8lxv8CSZLvlMfN4FFy5ZcI=
+
+Name: assets/www/addons/mod_book/lang/sv.json
+SHA1-Digest: n9o99VzfIvpwZ7UZV4o0y3Bzddg=
+
+Name: assets/www/addons/coursecompletion/lang/sv.json
+SHA1-Digest: uUjAk141HgL1ifZQ/mYMxVHfxhw=
+
+Name: assets/www/lib/ydn.db/externs/misc.js
+SHA1-Digest: a6Z9hl8eKxb6QX1NplQEzPFHNgE=
+
+Name: assets/www/lib/ydn.db/test/issues/issue_38.js
+SHA1-Digest: ol6gF7//1AJC973auF/LjPcRcMU=
+
+Name: assets/www/core/components/settings/lang/tr.json
+SHA1-Digest: TWTlLkZNPZLKTJtDdGEbWltFeCc=
+
+Name: assets/www/addons/notifications/lang/hu.json
+SHA1-Digest: R4I2eeZy1TFDtpF/7toZawLKnlc=
+
+Name: assets/www/lib/angular-translate-loader-partial/angular-translat
+ e-loader-partial.min.js
+SHA1-Digest: XOPZS2wofIfG51SPjYHc7UZPB9c=
+
+Name: assets/www/lib/ionic/scss/_reset.scss
+SHA1-Digest: F0HoY7GRW5C4C8wqXtgvLOu1fhE=
+
+Name: assets/www/addons/mod_book/lang/es_mx.json
+SHA1-Digest: Jo2U6IGkng2+1qeBaTOvO+kFWCc=
+
+Name: assets/www/lib/angular/bower.json
+SHA1-Digest: +KiLEcfdzkTFL8goko2QaHDVvkE=
+
+Name: assets/www/lib/ydn.db/test/qunit/qunit-base.js
+SHA1-Digest: YaFctNxyDx7qZy83IdYh2Hg6/go=
+
+Name: assets/www/addons/messages/lang/cs.json
+SHA1-Digest: sjVOxLS20DqOAstiyr3PSRBh6mA=
+
+Name: assets/www/addons/frontpage/main.js
+SHA1-Digest: TSSsRZ8+8eJ+eYFdaNPFQHpNM6Q=
+
+Name: assets/www/addons/mod_url/lang/tr.json
+SHA1-Digest: NchOk82nw6C+BlgPRO32PbdQjso=
+
+Name: assets/www/core/components/sidemenu/templates/menu.html
+SHA1-Digest: SJto8tFVNQaI/dZKhowzLu1Xl7w=
+
+Name: assets/www/addons/grades/lang/ja.json
+SHA1-Digest: fItGB+fFHc6g1whIkJE80CWBhoY=
+
+Name: assets/www/img/mod/label.svg
+SHA1-Digest: 96l/tPnzXavgTQ+Tj6JdogOzYMo=
+
+Name: assets/www/addons/messages/lang/ja.json
+SHA1-Digest: 65fDcQ4m+/QdBe/H4rl4BQub5IE=
+
+Name: assets/www/lib/ydn.db/test/core/list_2_test.js
+SHA1-Digest: Upw+i0SB/YDBfuOaZDoOTI5jlEs=
+
+Name: assets/www/lib/ydn.db/test/aat/data/author/bolinfest@gmail.com
+SHA1-Digest: Luk3uye5qa4+saul9JytdJGnknI=
+
+Name: assets/www/lib/angular-animate/index.js
+SHA1-Digest: Q6qT1ALjybJqwRiYhtQMinKTsYc=
+
+Name: assets/www/addons/mod_folder/lang/ja.json
+SHA1-Digest: U+sTEzXCQN39BWTabXf4P3Lplv8=
+
+Name: assets/www/core/assets/countries/ca.json
+SHA1-Digest: Ry5jLcUxo6Z1Vogke2njuN2cAaQ=
+
+Name: assets/www/img/files/database-64.png
+SHA1-Digest: P54jh6PupNJZk43iW0HMh0W5RII=
+
+Name: assets/www/core/components/sidemenu/lang/en.json
+SHA1-Digest: cWXNLl0Ty/1uz1xixunYCFb+wNo=
+
+Name: assets/www/lib/angular-ui-router/CONTRIBUTING.md
+SHA1-Digest: lA0zE3YkxE8w8ihYe6NSrMRMwDE=
+
+Name: assets/www/lib/angular-sanitize/angular-sanitize.min.js.map
+SHA1-Digest: T5HSnew4P4s7HoxmUw+97dWIN8E=
+
+Name: assets/www/core/lang/eu.json
+SHA1-Digest: bcpo+0M0KfUn4/atU9+UFATqEw8=
+
+Name: assets/www/lib/ionic/scss/_backdrop.scss
+SHA1-Digest: m07hEvSWLEogySDspWPT4LAatOE=
+
+Name: assets/www/lib/angular-aria/index.js
+SHA1-Digest: 0+5tQRpogkBpjJsyrMZW5sJvGdk=
+
+Name: assets/www/lib/angular-sanitize/index.js
+SHA1-Digest: VdQoSa6DZh4XnREo+6kByGycVz4=
+
+Name: assets/www/core/lang/sv.json
+SHA1-Digest: 6PdU1yI5SkniTxWgNw0R1rRihfU=
+
+Name: assets/www/addons/grades/lang/cs.json
+SHA1-Digest: /riiaR5u6NUfP78msqb8j+R2K7M=
+
+Name: assets/www/addons/participants/lang/de.json
+SHA1-Digest: +3lvMQQE0eFYT2vIJ2PI6iaEnFs=
+
+Name: assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverOp
+ tions.js
+SHA1-Digest: GC8Rb7mW+L90XJr10TQdVRbckLU=
+
+Name: assets/www/addons/mod_page/lang/bg.json
+SHA1-Digest: /wRuwrSCvM6XdOdD5jWCqpvbAh8=
+
+Name: assets/www/lib/ydn.db/test/algo/zigzag_merge_idb_test.html
+SHA1-Digest: ttJpbcgskVQ9cZKLXNsF2tHE1MU=
+
+Name: assets/www/addons/participants/lang/nl.json
+SHA1-Digest: fQi+q9Etsn5zI2xlo/uR/70KIZw=
+
+Name: assets/www/addons/mod_book/lang/ca.json
+SHA1-Digest: e31qOgGVnKQPQSwmMqL9E/98UD4=
+
+Name: assets/www/addons/mod_forum/lang/eu.json
+SHA1-Digest: WELJBmxXixXjF/zGh2vJGPzF1wc=
+
+Name: assets/www/addons/mod_folder/lang/es_mx.json
+SHA1-Digest: /JlDRGWQpx6dPOayPkaWWJtJkoc=
+
+Name: assets/www/addons/mod_resource/lang/he.json
+SHA1-Digest: f/3h8wDh5EA7a9jOimAsmSqDxME=
+
+Name: assets/www/addons/mod_page/lang/fa.json
+SHA1-Digest: LYUie3NteTqZqIpDMOh9YjcP+9g=
+
+Name: assets/www/plugins/org.apache.cordova.camera/www/CameraConstants
+ .js
+SHA1-Digest: ROkdY2ZIoMOrXJKdRA/ir7fo7NQ=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/req/idb_cursor.js
+SHA1-Digest: 8JL0qXoPWtuNzBshqZTt00AYtu4=
+
+Name: assets/www/lib/ionic/scss/ionicons/_ionicons-variables.scss
+SHA1-Digest: BltFMSeoISfXfVgNOaF5rJhh5FQ=
+
+Name: assets/www/lib/ydn.db/test/issues/nosql-demo.html
+SHA1-Digest: CamFzXDLwh1tQrhwoK6K8c84ON4=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/DirectoryReader.j
+ s
+SHA1-Digest: zwF8Zc/5T0HWFzd7KFvMsNbZu/Y=
+
+Name: assets/www/addons/mod_imscp/lang/ja.json
+SHA1-Digest: Oa0Xc/gKNCPu87FWFD+2V8t42Qc=
+
+Name: assets/www/addons/grades/img/folder.png
+SHA1-Digest: 3wErCBUVp84XUo7G6Afd8j80YMg=
+
+Name: assets/www/core/components/sidemenu/lang/sv.json
+SHA1-Digest: MYPcWOWo5XPqmZojfNTLIh85SAQ=
+
+Name: assets/www/lib/angular-sanitize/angular-sanitize.min.js
+SHA1-Digest: mGHj3n0hjHJpf9gSM9t3LuYe3Z0=
+
+Name: assets/www/addons/frontpage/lang/pt-br.json
+SHA1-Digest: s1f7OIJfF2NwH3NkFPUUZHCINzA=
+
+Name: assets/www/lib/ydn.db/test/qunit/test_dev_ver_1_workflow.html
+SHA1-Digest: PyVSJruD7IjJqqfZM7N1mKgWsYI=
+
+Name: assets/www/lib/ionic/js/ionic-angular.js
+SHA1-Digest: +mhXGOJLlP/domAGI+GlZoTuoHE=
+
+Name: assets/www/img/files/archive-64.png
+SHA1-Digest: gV6pW81tSzee3nPtNnOC9/keGl4=
+
+Name: assets/www/lib/ydn.db/test/query/query-logic.js
+SHA1-Digest: VaZ8PkJHBVY+PvTC+actKuLKIxE=
+
+Name: res/drawable-xhdpi/ic_action_previous_item.png
+SHA1-Digest: BLaV0P00VXt5sCk4EfDSiISbCkU=
+
+Name: assets/www/addons/frontpage/lang/bg.json
+SHA1-Digest: ombQ665W3Q3+LH1yB+9w36cs22c=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/tr/exports.js
+SHA1-Digest: Acu+iZrhxoEoamrpFKQdglTPqrE=
+
+Name: assets/www/addons/grades/services/grades.js
+SHA1-Digest: QaHlGlLkQ85vm9SeF3xWS6ZrdJQ=
+
+Name: assets/www/core/components/user/lang/fa.json
+SHA1-Digest: Dr9JN3Op7N/U3K6l1aaszeRyAqY=
+
+Name: assets/www/addons/mod_book/lang/es-mx.json
+SHA1-Digest: KKiNHuaxIHIESIw94jH56En7vDA=
+
+Name: assets/www/lib/ydn.db/test/qunit/test_ver_1_iteration.html
+SHA1-Digest: +DxxMyJetXpHaTrPpZtz+dJT8oY=
+
+Name: assets/www/lib/ydn.db/test/core/iteration_5_idb_test.html
+SHA1-Digest: LJKAaju6U71DYqnH/aYAI8QcMtk=
+
+Name: assets/www/lib/ionic/scss/ionicons/_ionicons-animation.scss
+SHA1-Digest: rXfMMiV3KYXi9197kn492pEzgeg=
+
+Name: assets/www/addons/messages/lang/zh-cn.json
+SHA1-Digest: eDipSaLbp+W1ow589ornP2f9/ik=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/tr/serial.js
+SHA1-Digest: y6ZrR09ig16EGlvY4spZtuJTxZk=
+
+Name: assets/www/lib/angular-translate-loader-partial/README.md
+SHA1-Digest: dj6SSdDaTV3Y1npZ3M5hDsz/+HQ=
+
+Name: assets/www/lib/ydn.db/config/crud.js
+SHA1-Digest: x+UNPTgNEAyHGlXRCzXxF0wZ5eI=
+
+Name: assets/www/addons/mod_label/lang/fa.json
+SHA1-Digest: iXXFWIKQ+lKyTQpAHz2dgJZwU8I=
+
+Name: assets/www/addons/mod_url/lang/de.json
+SHA1-Digest: nOl7HQUPjZcMUkwIQstzLMKrQFQ=
+
+Name: assets/www/img/files/unknown-64.png
+SHA1-Digest: SWMtG0v/Ia2L8ZUs2bH/GoACEMw=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/crud/req/simple_store.js
+SHA1-Digest: qSxyns2rMH0bLb1mMZBbrvUzDn8=
+
+Name: assets/www/plugins/net.tunts.webintent/www/webintent.js
+SHA1-Digest: hGtUApIFBYJfKcS1D/rVY9mEpV4=
+
+Name: assets/www/lib/ydn.db/test/qunit/test-abort.js
+SHA1-Digest: A8TFhlIRJfLpHybhUiWpv/iXKcM=
+
+Name: assets/www/addons/mod_url/lang/nl.json
+SHA1-Digest: A51/rhHSHrA50I84OIbyI9RqZbw=
+
+Name: assets/www/addons/mod_book/main.js
+SHA1-Digest: 0C+sS2unkpTQ5hW6GmocCQu6Lao=
+
+Name: assets/www/addons/notes/lang/zh-cn.json
+SHA1-Digest: BC+z0GaUw+e9Lk2xnWy5UkhFOOA=
+
+Name: assets/www/addons/mod_assign/templates/submission.html
+SHA1-Digest: dWCVsVGhWbMWaL3gYurh5M6JDiE=
+
+Name: assets/www/lib/ydn.db/test/qunit/test_dev_ver_1_sql.html
+SHA1-Digest: d+lt1XPxdukhdm3Hqqhr7nyna1Y=
+
+Name: assets/www/core/components/login/lang/he.json
+SHA1-Digest: nZ03IRl/GXzDsuhJcqDW8MFUlBA=
+
+Name: assets/www/core/components/user/lang/pt-br.json
+SHA1-Digest: IQB7qOk3PEvGZwKToFVP51BfhJI=
+
+Name: assets/www/lib/ydn.db/test/core/list_ls_test.html
+SHA1-Digest: ECB3fsF9HyGdMmpzoXZWd9n772A=
+
+Name: assets/www/addons/notifications/lang/pt-br.json
+SHA1-Digest: gH6hb7Gg4wnZW3XIpKF8RuLeAyQ=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/sql/req/websql/node.js
+SHA1-Digest: yviVBELpC8F5zcpw17rMH9AJu4k=
+
+Name: assets/www/addons/files/directives/onchange.js
+SHA1-Digest: 1XZg0pRLC1uVEY9VjQij+maic6c=
+
+Name: assets/www/lib/ionic/scss/_form.scss
+SHA1-Digest: tqZIK40P8wExK3TYjBS++vhowXw=
+
+Name: assets/www/addons/notifications/lang/es_mx.json
+SHA1-Digest: eJP53scarzbMPFC/PJ3WXCWtFo8=
+
+Name: assets/www/addons/mod_resource/lang/zh_tw.json
+SHA1-Digest: LBo1lxrKQnd0xq+a3ZZFSg6QPA4=
+
+Name: assets/www/core/components/course/lang/pt_br.json
+SHA1-Digest: wzALspbQhazJwHUWCMrKQ4Py62o=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_11_test.js
+SHA1-Digest: /Ih1A7+5qGX7Njr8eEEX2iPualo=
+
+Name: assets/www/addons/mod_assign/lang/es_mx.json
+SHA1-Digest: PzemyCJqCLK2znClCUuqRYj0scg=
+
+Name: assets/www/lib/ydn.db/test/perf/pref.js
+SHA1-Digest: ntPl3xfnaAUHOzcZZc9F+u46TT0=
+
+Name: assets/www/core/components/course/main.js
+SHA1-Digest: qqffgjNcSyXZMilDOHR3M4giOuI=
+
+Name: assets/www/core/components/user/lang/bg.json
+SHA1-Digest: xfo4YmxqaNBSh5leQWl6BJSphZI=
+
+Name: assets/www/addons/mod_assign/templates/index.html
+SHA1-Digest: HqIB0JUpcqXpKe15QV8V97YwmcY=
+
+Name: assets/www/core/components/sidemenu/lang/eu.json
+SHA1-Digest: K9R5GMiGNwM6hmoxdh7rZ7S5uXk=
+
+Name: assets/www/addons/mod_choice/lang/sv.json
+SHA1-Digest: hMNEI+ueFj4BNuTVo5/qwEXko3M=
+
+Name: assets/www/core/components/course/lang/zh-cn.json
+SHA1-Digest: jjLAjtPRE4jvjuqjbcZ/qfGS+3I=
+
+Name: assets/www/img/mod/assignment.svg
+SHA1-Digest: Q6HH+uatUkPQbQhV+w1zKLVCg2M=
+
+Name: assets/www/lib/ionic/js/ionic-angular.min.js
+SHA1-Digest: LI2+NNeSePoMCtrV/G8dBMkfzxI=
+
+Name: assets/www/addons/mod_forum/lang/sv.json
+SHA1-Digest: 70WrwBVbVY5oAkX+ZELHEiYWeYU=
+
+Name: assets/www/addons/calendar/lang/ja.json
+SHA1-Digest: nFuxrKfGG3I6hKXkUj3wREWlfuM=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/conn/indexed_db.js
+SHA1-Digest: 4y7m6fckz4gHRgIALB6smCCOZ04=
+
+Name: assets/www/core/components/courses/lang/he.json
+SHA1-Digest: uvZj5LkcoLmyNe7SeJy4MRGTZ/Q=
+
+Name: assets/www/addons/mod_label/controllers/index.js
+SHA1-Digest: uDm86F81J5hysoV8O/E5TLge7zI=
+
+Name: assets/www/core/lang/en.json
+SHA1-Digest: RXf3xi4PCCYLK+kNnIwuryYuiiY=
+
+Name: assets/www/addons/mod_page/lang/zh_tw.json
+SHA1-Digest: WZiO5CcetKZ98TQWrMgTLZ3KpmQ=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/requestFileSystem
+ .js
+SHA1-Digest: op6dZfJewfKi9C763w9IsvLDUe4=
+
+Name: assets/www/addons/coursecompletion/lang/tr.json
+SHA1-Digest: zC8g8kOKdw/48LN9pujk2kK+R9I=
+
+Name: assets/www/addons/mod_folder/lang/cs.json
+SHA1-Digest: 3FScgisAtX+FGdDYG4tcYXtChrY=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/tr/atomic_serial.js
+SHA1-Digest: XpQtIusY426GiINH9dKz5uyp/uQ=
+
+Name: assets/www/lib/ionic/scss/_refresher.scss
+SHA1-Digest: ztaUXLkpF2orpIz41T1X+uvCTjk=
+
+Name: assets/www/plugins/org.apache.cordova.media-capture/www/CaptureE
+ rror.js
+SHA1-Digest: 5/6wPimb+uynuVifr/9ZK27Dgq8=
+
+Name: assets/www/addons/mod_chat/lang/fr.json
+SHA1-Digest: HQVp6afPWbc9gzYUbISc6/mcaO0=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_14_test.js
+SHA1-Digest: jhYJpMBbVJe+lhJCfARVYWp0qU0=
+
+Name: assets/www/lib/ydn.db/test/issues/full-text-saerch.html
+SHA1-Digest: 5ArmkzNLAlE5lf+OLk2TNjXa0bc=
+
+Name: assets/www/lib/ionic/js/ionic.bundle.min.js
+SHA1-Digest: fTEIrPheK1pegJapWT9GUUH5Gvg=
+
+Name: assets/www/lib/ionic/scss/_split-pane.scss
+SHA1-Digest: NDNNJwf74lZK58I3yVYtWP9615A=
+
+Name: assets/www/addons/mod_choice/scss/styles.scss
+SHA1-Digest: jpZ9f/zRUq4HLgAcmhvBrzcJhKE=
+
+Name: assets/www/addons/participants/lang/bg.json
+SHA1-Digest: uh2TTOV0ICM9tzE5kyf0XiSdhqw=
+
+Name: assets/www/lib/ydn.db/test/core/iteration_4_idb_test.html
+SHA1-Digest: SLXTlE49x0jKAunXvjRyKwpGFAQ=
+
+Name: assets/www/addons/pushnotifications/services/delegate.js
+SHA1-Digest: Q94lHc5Z63Ik5LYShtgCyvAMuX0=
+
+Name: assets/www/lib/ydn.db/test/core/list_2_idb_test.html
+SHA1-Digest: pfpneXdZOJSSgd4HWPpxGZMOQwE=
+
+Name: assets/www/lib/ydn.db/test/crud/key_ls_test.html
+SHA1-Digest: PnRmDhYAnwKnNPtavYg6Pe76nBs=
+
+Name: assets/www/addons/mod_choice/lang/ar.json
+SHA1-Digest: eVuOvBPTJ7kAOp1xw0HOt5j0NEU=
+
+Name: assets/www/addons/mod_resource/services/course_content_handler.j
+ s
+SHA1-Digest: dHESRrBBQkO+VZz3Bt7rw2131gU=
+
+Name: assets/www/addons/mod_page/lang/de.json
+SHA1-Digest: VA4VsO6deOnEK47wFm5sFNSiOzg=
+
+Name: assets/www/lib/angular/angular-csp.css
+SHA1-Digest: vhUFqsvr1+UczpvpxC1PNpn4RTU=
+
+Name: assets/www/icon.png
+SHA1-Digest: DFTzz70K9wTOGSMJCV12fn7DRg8=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/sql/sql.js
+SHA1-Digest: 7exBc2VGi+cFHQetgfRDtlfkIeo=
+
+Name: assets/www/core/components/course/lang/bg.json
+SHA1-Digest: oTvXtOvGi2YsOCjGqVumVnXviNA=
+
+Name: assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverHa
+ ndle.js
+SHA1-Digest: DaiTOkmuEYcHWmuPgAkXCQGzuF8=
+
+Name: assets/www/addons/mod_choice/lang/en.json
+SHA1-Digest: 47KIDj9s3ySLK2yM0SRsNivWdXM=
+
+Name: assets/www/core/components/courses/lang/zh-cn.json
+SHA1-Digest: tO2bOk/07Dl1LgqSTxlMoDYvwhM=
+
+Name: assets/www/addons/frontpage/services/frontpage.js
+SHA1-Digest: Oir6jLUNBZj9xaiwrRWNFRmMqao=
+
+Name: assets/www/addons/notes/templates/add.html
+SHA1-Digest: O+yCLCjbaSDuRm+2fsYdWea3Y7E=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/req/simple_store.js
+SHA1-Digest: KtrkDWXZlbsaZ7HC2vXSeEQVSbQ=
+
+Name: assets/www/addons/messages/filters/format.js
+SHA1-Digest: eHvCqGIxaGQ+vlA19pA672mPXkI=
+
+Name: assets/www/core/templates/loading.html
+SHA1-Digest: jM+H0TGqW+sPAgX+fDsgxjmVg6k=
+
+Name: assets/www/addons/coursecompletion/main.js
+SHA1-Digest: /ktOyd6umGriTUgLGs4BZr4WFHs=
+
+Name: assets/www/addons/grades/main.js
+SHA1-Digest: i/a1aSX3Og0gkm+OqiCRWwyE284=
+
+Name: assets/www/addons/files/controllers/upload.js
+SHA1-Digest: ty5KziLd3OXed5YjLoiCnb/eIqE=
+
+Name: assets/www/addons/coursecompletion/lang/de.json
+SHA1-Digest: P0jdMUJJcFtRXZPh+AHwW5/u9zg=
+
+Name: assets/www/addons/mod_choice/lang/eu.json
+SHA1-Digest: LHKPTRf7El2eY0fAcAv6l1XeGis=
+
+Name: assets/www/img/mod/forum.svg
+SHA1-Digest: iFGgeoPLVjUkutp0mpMA4nNvG44=
+
+Name: assets/www/core/assets/countries/pl.json
+SHA1-Digest: +tgtlTo7BeHhQSS/+xlpD/pa5xQ=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/req/simple_cursor.js
+SHA1-Digest: ZREIcQgERH4ZbjDEklDaAnmZXZc=
+
+Name: assets/www/lib/ydn.db/test/core/index_3_test.js
+SHA1-Digest: Hd9TcmsrNEuKlQe2A3iD46GQD8w=
+
+Name: assets/www/core/components/course/templates/mod_description.html
+SHA1-Digest: yCuLQAI059LIWnJvjBrglGb2uZI=
+
+Name: assets/www/core/components/settings/lang/pl.json
+SHA1-Digest: pf6MZAbMObfP1dhF6qKeOnFSq20=
+
+Name: assets/www/img/files/gif-64.png
+SHA1-Digest: bUB5aqeRlv2DRqKsmF+lxJFDRYM=
+
+Name: assets/www/addons/mod_resource/lang/cs.json
+SHA1-Digest: Q4Iq7UvWdhmOszbvhtn2uGnbtPQ=
+
+Name: assets/www/addons/notes/services/handlers.js
+SHA1-Digest: GBlog40nMjaoO0fyUOQfXeHNrwE=
+
+Name: assets/www/lib/ydn.db/test/crud/keyrange_websql_test.html
+SHA1-Digest: 2VYttMjePfILCtEn0M3qgcjplcc=
+
+Name: assets/www/lib/ionic/scss/_loaders.scss
+SHA1-Digest: 4orgXYmC6ZYLaaFjq/LpoB/s0oQ=
+
+Name: assets/www/img/files/pdf-64.png
+SHA1-Digest: 50sWZOwcqEukkVBuh1mKDBp1TH0=
+
+Name: assets/www/addons/participants/lang/tr.json
+SHA1-Digest: ovN4V9U0c3mBtYJi+i9a5A4E6u0=
+
+Name: res/drawable-xxhdpi/ic_action_previous_item.png
+SHA1-Digest: 9Fw8UmBkgJ1mDHeCAY4G2HplXy0=
+
+Name: assets/www/core/components/sidemenu/lang/es_mx.json
+SHA1-Digest: 81CrqVX3JdlvAEKebZJ04DSA2Cs=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/i_operator.js
+SHA1-Digest: 5WJAoCQdFG8FzvjWJ7K8ie/84Z8=
+
+Name: assets/www/addons/mod_imscp/lang/he.json
+SHA1-Digest: rUJZlvEbQYjlE72ZF7xSaIfRaU4=
+
+Name: assets/www/core/components/user/directives/userlink.js
+SHA1-Digest: Kc4SMxHz+wtLpyv80MUiEzBgJts=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/schema/editable_schema.js
+SHA1-Digest: JRaIiE/xDS/gdwgsrmCrcHD4Cd0=
+
+Name: assets/www/core/components/login/lang/ru.json
+SHA1-Digest: /ZCycWAOcDvnNWAYMkLCNncv4OY=
+
+Name: assets/www/core/components/user/lang/de.json
+SHA1-Digest: 8ioUBSvRCeY/k0ZR7olRpGg53hM=
+
+Name: assets/www/core/lib/events.js
+SHA1-Digest: i2wXDrg4MbzJN+Wr1JSSFvAEjyQ=
+
+Name: assets/www/addons/notes/lang/en.json
+SHA1-Digest: 4mos4q4uGx9uj2y+yyToZC/vSnI=
+
+Name: assets/www/img/files/markup-64.png
+SHA1-Digest: NGGMZDjpOhKhrvFKzcWr95cSjdM=
+
+Name: assets/www/core/assets/countries/zh-cn.json
+SHA1-Digest: bbwdiD1CNGefQorv4IClkJxaRrU=
+
+Name: assets/www/addons/grades/img/outcomes.png
+SHA1-Digest: Z9OgM7Ev0ohN/hr5r8LzY37BIsE=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/query/query.js
+SHA1-Digest: NrPlBCJ9ga76/IrqA+2+M54GAu0=
+
+Name: assets/www/lib/ydn.db/test/core/iteration_2_websql_test.html
+SHA1-Digest: X1wdJYqLqoCvS4KOUex3UMOMvJk=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/sql/req/indexed_db.js
+SHA1-Digest: WfaF7ZAR37PoJZRebx5U57Byt3Y=
+
+Name: assets/www/addons/mod_choice/lang/es.json
+SHA1-Digest: qhsp292vwV4L/1vFJoOc+Iq3AsQ=
+
+Name: res/drawable-mdpi/ic_action_remove.png
+SHA1-Digest: 3T+70ftuDHbK7Du5twtj/itSm9Y=
+
+Name: assets/www/addons/grades/lang/zh_cn.json
+SHA1-Digest: AxCag+mhMbq78K2AfnAm7fflVq8=
+
+Name: assets/www/addons/mod_forum/templates/discussions.html
+SHA1-Digest: HPScodpuRqxhKJu5iC8ewQsq8l4=
+
+Name: assets/www/img/mod/ims.svg
+SHA1-Digest: MuWphwfY7h1TpjnGgg0YnvZioE8=
+
+Name: assets/www/core/lib/localnotif.js
+SHA1-Digest: ZyoWWMwGfpLDwY/niM2d69sPsQk=
+
+Name: assets/www/addons/mod_choice/lang/zh-tw.json
+SHA1-Digest: 4dHitm/gyKuvSK98pi9SYXZYBBQ=
+
+Name: assets/www/img/files/spreadsheet-64.png
+SHA1-Digest: GNpgBmzsyEZ9+KpkeHCAJRf0cls=
+
+Name: assets/www/addons/notes/controllers/list.js
+SHA1-Digest: LwPETYHD0KpuDhpdhDOTiAnML2w=
+
+Name: assets/www/addons/mod_forum/lang/fr.json
+SHA1-Digest: YD+0m4gKVNavRzWYClgElH92WAE=
+
+Name: assets/www/addons/mod_label/lang/de.json
+SHA1-Digest: t4Y6lIWP85abufwX7ewS5ZOnSUs=
+
+Name: assets/www/core/components/settings/lang/zh_cn.json
+SHA1-Digest: uvPfYSROSKp89tCjsdBfKuYuLTc=
+
+Name: assets/www/addons/mod_chat/lang/ru.json
+SHA1-Digest: UfnjngGJcOd0VWhC2rXH6zDIAX8=
+
+Name: assets/www/addons/frontpage/lang/fa.json
+SHA1-Digest: KUxUMBUp4aVitV1mjXvcspNYRHE=
+
+Name: assets/www/core/components/courses/lang/hu.json
+SHA1-Digest: mKBs7QPT2OpyR1dOfeDN5m8BebU=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/fileSystems.js
+SHA1-Digest: ZPOwoEQgJ/4y5Zh+8D4GQFz1wrU=
+
+Name: assets/www/lib/angular-aria/README.md
+SHA1-Digest: Tx/GwuJRvlR3SyHRH7Ow7EMdFfY=
+
+Name: assets/www/core/components/login/lang/it.json
+SHA1-Digest: WUcNgAW+sUYt6xFWZYwKLicHlps=
+
+Name: assets/www/addons/mod_chat/controllers/index.js
+SHA1-Digest: uAgJc37eQ/Lu3JiAgwYwRj622VY=
+
+Name: assets/www/lib/ydn.db/test/all-test.html
+SHA1-Digest: 9OU71b/eS4EYRHQXEHpaxP82IZE=
+
+Name: assets/www/addons/mod_imscp/lang/cs.json
+SHA1-Digest: 0ex10cXy3+ZtZ2NtYAO2Uy8yaF0=
+
+Name: assets/www/addons/mod_imscp/scss/styles.scss
+SHA1-Digest: 0OxbE82rDbJvyJJHwD5N21NdM74=
+
+Name: assets/www/addons/mod_resource/lang/pt-br.json
+SHA1-Digest: GgOBz2B6JIhmyiJwWFh5Np1m1B8=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/conn/i_database.js
+SHA1-Digest: 3rS6WE8VdkN+KMh7a09O4iewd9A=
+
+Name: assets/www/lib/ngCordova/bower.json
+SHA1-Digest: E0FYWYPJuGU+heSgfbIWydc9ztA=
+
+Name: assets/www/addons/mod_book/directives/arrows.js
+SHA1-Digest: lgcrqRmrYM/nOldG7+OCW54cFO0=
+
+Name: assets/www/addons/coursecompletion/lang/pt-br.json
+SHA1-Digest: fIh7m2txZyYGAynakdIktPmQk3A=
+
+Name: assets/www/lib/ydn.db/test/crud/keyrange_test.js
+SHA1-Digest: VhpAOV9HIR9n8N7irS+rwbxsUjg=
+
+Name: assets/www/lib/ydn.db/test/storage/abort_test.js
+SHA1-Digest: dar+njYHZSTiP5S9b9cRL9SdGzo=
+
+Name: assets/www/addons/calendar/lang/cs.json
+SHA1-Digest: +iru0K7J7Do1FOvoUVEXszjfAZY=
+
+Name: assets/www/addons/mod_page/lang/tr.json
+SHA1-Digest: RQMoh18oeRlDR56LKrPzkgjWiIM=
+
+Name: assets/www/addons/calendar/lang/he.json
+SHA1-Digest: 1aaxe3HeyzVb8TGyDXIbRvi9/jM=
+
+Name: assets/www/core/components/course/lang/es-mx.json
+SHA1-Digest: Ld2bsO/zMUxVm3tLnnumPTP0Sqc=
+
+Name: assets/www/addons/mod_chat/lang/it.json
+SHA1-Digest: AjgiTVU84/W8C2eaCVGf8I6YBPQ=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/conn/websql.js
+SHA1-Digest: 9d5gP43OSA5U7VgSZRW0iH7fap0=
+
+Name: assets/www/addons/frontpage/lang/es_mx.json
+SHA1-Digest: dzIV/vvDUtNf7QvKXmIvPWyq0N0=
+
+Name: assets/www/lib/ydn.db/test/storage/abort_websql_test.html
+SHA1-Digest: oe3B45wGJPQMvDD+q7VR7eI+9Ac=
+
+Name: assets/www/plugins/org.apache.cordova.file-transfer/www/FileTran
+ sfer.js
+SHA1-Digest: Fn1mORe9pP8S5iuHeiskeX0Ej9c=
+
+Name: assets/www/addons/mod_assign/lang/ja.json
+SHA1-Digest: GCNnDk7pAGrDLBHBwOIzYUlyG4A=
+
+Name: assets/www/addons/notifications/directives/actions.js
+SHA1-Digest: wcFukTQKU+7+or8WOffefmBjhpA=
+
+Name: assets/www/addons/files/services/helper.js
+SHA1-Digest: uKns0VbHjVlpq2zZpFVnKIlfk5c=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/crud/exports.js
+SHA1-Digest: iRNC60vnAkelmdxR0v/Q5SbcQ6g=
+
+Name: assets/www/addons/messages/templates/discussions.html
+SHA1-Digest: OUEtYuA9dPH/5/v7etk+1hj0o8g=
+
+Name: assets/www/addons/messages/controllers/contacts.js
+SHA1-Digest: rQM7E14oAgIWimO3mVZvTKErZz8=
+
+Name: assets/www/addons/mod_label/lang/bg.json
+SHA1-Digest: 9UcC2bdo0uRV2dylXc0MuMdX1Z0=
+
+Name: assets/www/core/components/sidemenu/main.js
+SHA1-Digest: goavREw6b/AHaxh8A5GRZLdtckc=
+
+Name: assets/www/lib/angular-animate/bower.json
+SHA1-Digest: hxmXUYRTTPELRTiXQ82lY/wOS10=
+
+Name: assets/www/lib/ydn.db/test/base/QueryJstest.js
+SHA1-Digest: O255oltXW5iImtMo0nwrz1aNYcY=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/exports.js
+SHA1-Digest: dzcl1AUbhA5thJhv2f0imL/RjQ0=
+
+Name: assets/www/core/components/course/lang/de.json
+SHA1-Digest: liMJI8pSB201McW9y/2a6jcGQ2w=
+
+Name: assets/www/lib/ionic/js/ionic.bundle.js
+SHA1-Digest: 6t0ibwGfZJT4ZgGX9CVnDx1Cjj4=
+
+Name: assets/www/addons/mod_label/lang/tr.json
+SHA1-Digest: +PzY+cwqa4p3NNafXKIUKott3O0=
+
+Name: assets/www/lib/ydn.db/test/crud/key_2_idb_test.html
+SHA1-Digest: Hn9dHm3LuXcZ4l90hqK31G3A7Co=
+
+Name: assets/www/plugins/cordova-plugin-inappbrowser/www/inappbrowser.
+ js
+SHA1-Digest: P6BJrOG1TYXQJG36iDgNYw6bmSs=
+
+Name: assets/www/addons/mod_forum/lang/es.json
+SHA1-Digest: W6Oppq0Dv43IhML82zbLBYP52/I=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileEntry.js
+SHA1-Digest: PjMYGH/AACkIWygWFjCK+b48wG8=
+
+Name: assets/www/addons/calendar/lang/ru.json
+SHA1-Digest: bA83CzyunyhEy78ogONbs7kV31M=
+
+Name: assets/www/lib/ydn.db/test/storage/con_test.js
+SHA1-Digest: gk26suoIlA0MPoN1KczSRnYK3Os=
+
+Name: assets/www/addons/coursecompletion/lang/bg.json
+SHA1-Digest: ERSQUdzVyha4/c5X6GsKCmf1bo0=
+
+Name: assets/www/core/components/settings/lang/ca.json
+SHA1-Digest: xAR5QGXLmN1bbit+FrVvW/pEamE=
+
+Name: assets/www/addons/mod_folder/lang/pl.json
+SHA1-Digest: lcO3pqT974C4G6jtHNe3aeqEObQ=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/query/join.js
+SHA1-Digest: /SZ/qMiMmxNkqNQZCRSZPPieBSY=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileUploadResult.
+ js
+SHA1-Digest: f/EJIMxUKsIMl3uInn7MpsBxEQM=
+
+Name: assets/www/core/components/courses/lang/ru.json
+SHA1-Digest: 4A/s5eMZ1/fm/uodI++nzCQMYQ8=
+
+Name: assets/www/core/components/user/lang/tr.json
+SHA1-Digest: 4KY61RK5BJlfM0V+Itl/eo0tMmU=
+
+Name: assets/www/addons/mod_label/main.js
+SHA1-Digest: x2O3onX5EtDdDMoVa939zHLYBKw=
+
+Name: assets/www/addons/coursecompletion/lang/fa.json
+SHA1-Digest: 2OzwuqQ+fr/IG6soX9c1n4NPJzQ=
+
+Name: assets/www/addons/mod_chat/lang/hu.json
+SHA1-Digest: rXCeppVBGP7laQ03VB7pJoHjtzg=
+
+Name: assets/www/addons/notifications/lang/it.json
+SHA1-Digest: /uyvXXEQaivTe44gNJ2UmufZOFM=
+
+Name: assets/www/lib/ydn.db/test/qunit/qunit-1.11.0.css
+SHA1-Digest: +TYmxMNqpZwRcBpoaqvGhrUpUSU=
+
+Name: assets/www/lib/angular-ui-router/src/urlMatcherFactory.js
+SHA1-Digest: VFttyIXr7Y0+8FrOmIxFvnzgBqI=
+
+Name: assets/www/lib/ydn.db/test/perf/crud-multi.js
+SHA1-Digest: BSYiqtmpzp4TlBJXvylLZ3wUt0E=
+
+Name: assets/www/core/tests/config.js
+SHA1-Digest: qIgNU/Ro6IoRVMs7PoVXal8GoD4=
+
+Name: assets/www/addons/notifications/lang/zh_tw.json
+SHA1-Digest: aAvnXpUGGBqQvvi09kCiOYPQx5c=
+
+Name: assets/www/core/lang/es.json
+SHA1-Digest: tRXxrKY4gX/ix6gk6paNdF8J+OU=
+
+Name: assets/www/addons/mod_forum/lang/pt_br.json
+SHA1-Digest: 7tCKiFdVCK/UN+a4OCDhakNk4nU=
+
+Name: assets/www/img/completion/completion-auto-pass.svg
+SHA1-Digest: EFpqNVGoXYIOywuj5k8awPoFfzg=
+
+Name: assets/www/addons/calendar/services/calendar.js
+SHA1-Digest: mWpR7ZhRSbesxkuBtD+YICAmNfo=
+
+Name: assets/www/addons/grades/lang/pl.json
+SHA1-Digest: xzz7IJ0xZNQwie1n+wl797oMGYI=
+
+Name: assets/www/core/components/settings/controllers/synchronization.
+ js
+SHA1-Digest: zPB8GZTfX74t3XhhwBCjGks/SNQ=
+
+Name: assets/www/addons/files/lang/de.json
+SHA1-Digest: 4V/fjp0kPosYHbaf9BNDuqIiGT8=
+
+Name: assets/www/addons/messages/templates/discussion.html
+SHA1-Digest: HXxoZtfYUFXir32NnWxRHyIotyI=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_13_websql_test.html
+SHA1-Digest: +ZH8QRvkw80TtthG44JC86ZY/BE=
+
+Name: assets/www/lib/ydn.db/test/sql/parse_sql.js
+SHA1-Digest: UnihS6JCYOZK5+du3LrJsowCkw0=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/conn/simple/web_storage.js
+SHA1-Digest: LMYqLHuMSGCYlC7adIlJ4bVmAtI=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/crud/inject.js
+SHA1-Digest: lk3imw1S+zZ5c4oXy7i1dX78Nlc=
+
+Name: assets/www/addons/mod_resource/lang/ru.json
+SHA1-Digest: dqWjXqWP2pQKdbQRM6U5aLwt51g=
+
+Name: assets/www/lib/ydn.db/test/aat/cors.xml
+SHA1-Digest: 0HQ4jxxcpKrN9yqpLVg2W2bMhJE=
+
+Name: assets/www/build/mm.bundle.min.css
+SHA1-Digest: CEtTqqDsoHvJZ3xGRJWF/pDvwhE=
+
+Name: assets/www/lib/angular-aria/bower.json
+SHA1-Digest: b62xMclPCXFKhDs6QvqimSTi1wM=
+
+Name: assets/www/img/files/avi-64.png
+SHA1-Digest: +FlKxXV2u8m//2yZx9NJWtJn49s=
+
+Name: assets/www/addons/participants/templates/list.html
+SHA1-Digest: vDXtOWMLg/Wr+TuueqWRh4GLvfg=
+
+Name: assets/www/addons/mod_label/lang/zh-cn.json
+SHA1-Digest: zMWtfC/q3tdn1B7o4LjO025PHXY=
+
+Name: assets/www/addons/mod_assign/controllers/submission.js
+SHA1-Digest: yMd9p3gaMPPEZtD9dwK+yRBFnjA=
+
+Name: assets/www/addons/mod_forum/lang/zh-cn.json
+SHA1-Digest: kWsnxSV226p1oCToun7bP/cPmYI=
+
+Name: assets/www/core/components/sidemenu/lang/ar.json
+SHA1-Digest: 933NYMG7rkM0XgexpjEPbPEDIlM=
+
+Name: assets/www/addons/notes/lang/fa.json
+SHA1-Digest: 6RxgXBVG5ht9iAjLMpSL5BfK/i4=
+
+Name: assets/www/addons/messages/lang/hu.json
+SHA1-Digest: /SgdMxHy/3nHIHyiPiIDDCN8Wxo=
+
+Name: assets/www/addons/mod_forum/lang/ru.json
+SHA1-Digest: LiigJ0Yyvl2IGZ5dQfiUHjMszy8=
+
+Name: assets/www/lib/ydn.db/config/dev.js
+SHA1-Digest: 6e8aZ/XcbI3JooiRZoJMIUKhIOc=
+
+Name: assets/www/lib/ydn.db/jsc/ydn.db-dev.js
+SHA1-Digest: NLh7LdW0gcbEQseuS6Ro9okNm/Y=
+
+Name: assets/www/lib/ydn.db/test/core/list_test.js
+SHA1-Digest: KhyKlv5EzxVM0E14pySd1HU0SqM=
+
+Name: assets/www/core/components/login/lang/cs.json
+SHA1-Digest: Y5EGBn0z2nrgvk65A9x9Zlm5u9s=
+
+Name: assets/www/addons/mod_chat/lang/en.json
+SHA1-Digest: kSnREvMx9VKuaNYMvdLJEfGFjO8=
+
+Name: assets/www/core/lang/fr.json
+SHA1-Digest: TZTzy8qyHE0vF9tGH3he5ERQob0=
+
+Name: assets/www/addons/mod_label/lang/nl.json
+SHA1-Digest: JiiNmUIqEKKcH+Pqkhq0lEWtH8U=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/req/i_cursor.js
+SHA1-Digest: LvioRkUpnKY+mzQYHwXJX4ZQZ8A=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/utils/shoper.js
+SHA1-Digest: Eof5hHJYCANhxS4puICnlUAFhsY=
+
+Name: assets/www/addons/mod_assign/main.js
+SHA1-Digest: BgWqYmWv3CadNmjZ224GU7w59Vg=
+
+Name: assets/www/addons/notifications/lang/es.json
+SHA1-Digest: Vf9BZl9fjlPYap5+todboOnTmD4=
+
+Name: assets/www/lib/ydn.db/test/qunit/ver_1_crud.js
+SHA1-Digest: 26bd8gMRiar2QvIzrzDBM9jHPnY=
+
+Name: assets/www/addons/notes/lang/eu.json
+SHA1-Digest: VaHRss9K0BjJy0XLTtyBuUCl6d8=
+
+Name: assets/www/lib/ionic/bower.json
+SHA1-Digest: BraezxsbvWdjE3Qi4ec2I4IDLME=
+
+Name: assets/www/core/directives/splitviewlink.js
+SHA1-Digest: lMkwwpoNZhsF46S0ej1VgDwHyLo=
+
+Name: assets/www/addons/notifications/main.js
+SHA1-Digest: BPRJQ3/w51OA5T0tk5ssLEGbNh8=
+
+Name: assets/www/lib/ydn.db/test/storage/tr_thread_websql_test.html
+SHA1-Digest: AKmbIulFIUi+GVVNMNSTqOr8axI=
+
+Name: assets/www/addons/mod_url/lang/ca.json
+SHA1-Digest: 9vaDD6zyMCIjKcoYKtbc3G9osGg=
+
+Name: assets/www/addons/calendar/lang/hu.json
+SHA1-Digest: u/flIkDRa0RbOQIbjVG41e0sqE4=
+
+Name: assets/www/core/components/login/controllers/reconnect.js
+SHA1-Digest: Z8ohg/483JT1TstjHdDQtrug2iA=
+
+Name: assets/www/lib/ionic/scss/ionic.scss
+SHA1-Digest: tez/LcvEzhRhY1bxLewmZXxmV5k=
+
+Name: assets/www/addons/participants/main.js
+SHA1-Digest: bbLrmHrFE3yiht0XjztkmnrXQX0=
+
+Name: assets/www/addons/files/scss/styles.scss
+SHA1-Digest: VwGDlhbz9WqNQvpdLFqUc+cIzo4=
+
+Name: res/drawable-port-hdpi/splash.png
+SHA1-Digest: n+kRCVR5jhZXVWnQzgvHSrd3q4M=
+
+Name: assets/www/addons/grades/img/agg_mean.png
+SHA1-Digest: eimotrWUcOAqWeGwM66fvM1LiI0=
+
+Name: assets/www/lib/angular-ui-router/release/angular-ui-router.js
+SHA1-Digest: 3KP3cwkX12vR4IgfSuTfb3uVhA0=
+
+Name: assets/www/core/components/course/services/courses_nav_handler.j
+ s
+SHA1-Digest: I4PIy2EHn0d4qG40H/Z9wvgaN+o=
+
+Name: assets/www/img/user-avatar.png
+SHA1-Digest: xGWPNyTlOV4ZsvrmROHqqFJi+Fs=
+
+Name: assets/www/core/lib/filepool.js
+SHA1-Digest: K+O+osJjhG/0MSDA/2IpmvOn3Xg=
+
+Name: assets/www/core/components/courses/lang/es.json
+SHA1-Digest: NRpQMWzI9I+kUL62ho9TGz5pkHc=
+
+Name: assets/www/core/components/login/lang/es.json
+SHA1-Digest: h9lOpPAcxaJcqlsUkY5Y1Eh9RfE=
+
+Name: assets/www/addons/mod_folder/lang/zh_cn.json
+SHA1-Digest: GOJqUhCPMAIVwkkX71xvji7l4JI=
+
+Name: assets/www/lib/ydn.db/test/storage/cor_old_test.js
+SHA1-Digest: bTbhroEi/TQkgthekgBs38vIuN0=
+
+Name: assets/www/addons/frontpage/lang/de.json
+SHA1-Digest: ASqwG8N3lDvvAEf3hxyyAEoQmWk=
+
+Name: assets/www/addons/mod_url/main.js
+SHA1-Digest: bo4it2vfKZVxQyoLdlnIEOkX7K4=
+
+Name: assets/www/lib/ydn.db/test/core/iteration_3_idb_test.html
+SHA1-Digest: K9h/hwChzAHKEj5o2fXs3vEG/Js=
+
+Name: assets/www/core/filters/bytestosize.js
+SHA1-Digest: BgUyAf8mVT4aFBe+JoiFjcFn6yc=
+
+Name: assets/www/core/lang/ru.json
+SHA1-Digest: JzyvowXrngLQhdNCZP6vbr8WK5s=
+
+Name: assets/www/addons/mod_folder/services/course_content_handler.js
+SHA1-Digest: WxRqrHSP6FKrHavo/kM+bmxpqxM=
+
+Name: assets/www/core/lib/sitesmanager.js
+SHA1-Digest: ko+RjqQMCnowPlRigYQkpW0vSIA=
+
+Name: assets/www/addons/files/lang/tr.json
+SHA1-Digest: JBtAaWok2Lhvmios3N2eze5hLF4=
+
+Name: assets/www/addons/mod_choice/lang/it.json
+SHA1-Digest: T18UymsiMFLrP4GFK3jA4ZQbPx8=
+
+Name: assets/www/lib/ydn.db/test/crud/event_test.js
+SHA1-Digest: PtQvOUgoO1ZtEUWKmZSeXXRV8/E=
+
+Name: assets/www/core/lang/pt-br.json
+SHA1-Digest: MXXPkfZqAbiWJGq9HLsem/NJW68=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/Metadata.js
+SHA1-Digest: HPgTH1k1JYNKZgMT+lN3TptoccA=
+
+Name: assets/www/addons/calendar/img/groupevent.svg
+SHA1-Digest: esbm1Nx4Zs148EBJuVJ8s2Ey1dw=
+
+Name: assets/www/addons/mod_resource/lang/hu.json
+SHA1-Digest: 0v81HhPqyBwtlSAmrF2Stww5C7w=
+
+Name: assets/www/addons/calendar/main.js
+SHA1-Digest: X123YY3wEB4MV6AiKWWglA4CpEI=
+
+Name: assets/www/addons/mod_book/templates/index.html
+SHA1-Digest: wsHf9OdvfkjsP7XnvoB2wP5lsJ8=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileWriter.js
+SHA1-Digest: F0HDRVmbUQEfLhX4LjQihvaC0lM=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/sql/req/websql/reduce_node.js
+SHA1-Digest: fiMhHoJd90kSbIV7IZx0gypBbTE=
+
+Name: assets/www/addons/mod_assign/lang/ca.json
+SHA1-Digest: 5ZqGkhb48Fk1C+BC+jxLpv3YVMg=
+
+Name: assets/www/addons/mod_url/services/url.js
+SHA1-Digest: epHeEqBG+8VwUAeX1TYa+NR6tNw=
+
+Name: assets/www/img/mod/external-tool.svg
+SHA1-Digest: +O+KTtvPLRMwUPeAGUb0n4IPI6U=
+
+Name: assets/www/lib/ydn.db/test/core/index_test.js
+SHA1-Digest: 9KvqL1tt0efgEGlVxel8qray7h4=
+
+Name: assets/www/addons/frontpage/lang/nl.json
+SHA1-Digest: Kvj2rCUOSu//D4Cw+1h61ZIS8Bw=
+
+Name: assets/www/core/components/courses/lang/fr.json
+SHA1-Digest: ajm8BBptwfXtryq3iXVTbT/OwiE=
+
+Name: assets/www/lib/ydn.db/AUTHORS
+SHA1-Digest: bx+AmaxKB1eHYjvaUjlbLNd9nXA=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/sql/req/iterable_query.js
+SHA1-Digest: 2rC6+94dHDHEyWPzCeX+uUn0xJ4=
+
+Name: assets/www/plugins/ch.ti8m.documenthandler/www/DocumentHandler.j
+ s
+SHA1-Digest: 0U+0voSo+2mhMZDQaat27M+hkMM=
+
+Name: assets/www/addons/mod_chat/lang/zh_tw.json
+SHA1-Digest: ypcEbOPxZyCiI+Nn+8/RvRNayPY=
+
+Name: assets/www/img/files/png-64.png
+SHA1-Digest: HSk+imXKnfiIqVWfGCsxj15hf88=
+
+Name: assets/www/addons/calendar/lang/fr.json
+SHA1-Digest: TxaJu3dcxRslEm0BTwR3tpHlQyU=
+
+Name: assets/www/addons/grades/lang/he.json
+SHA1-Digest: WoY7Hr6PDcXcMkCHngsIHI/b17E=
+
+Name: assets/www/core/components/courses/lang/ja.json
+SHA1-Digest: wcX12xnBbqPWHb/ETH/S4fNIye0=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/query/helper.js
+SHA1-Digest: NcXEh9J2DF6Njq2018i0sw2nPes=
+
+Name: assets/www/core/components/login/lang/es-mx.json
+SHA1-Digest: tP0xyu656CLJ5tM5RXyrFQ9WwoY=
+
+Name: assets/www/lib/ydn.db/test/crud/events_idb_test.html
+SHA1-Digest: KEa3o7LLSXQ3Ay9OkxfARAFMArc=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/fileSystems-roots
+ .js
+SHA1-Digest: UgTYHxglwikhpcaaWeQhhZXvMDw=
+
+Name: res/drawable-mdpi/splash.png
+SHA1-Digest: D8vYF5pzzWVB2VBQ4Jsn5rfdbTQ=
+
+Name: assets/www/addons/grades/lang/zh-tw.json
+SHA1-Digest: 6KLtRrfXsuAWrFKPfjuN23hUROA=
+
+Name: assets/www/core/components/courses/lang/cs.json
+SHA1-Digest: uTV/fqqfXiWO28Ip0+70z95+ZcM=
+
+Name: assets/www/lib/angular-md5/lib/services/md5.js
+SHA1-Digest: Xgm+F52bpoQ8wADOdJyIdDxTGSM=
+
+Name: assets/www/lib/ydn.db/test/qunit/test_ver_1_iterator.html
+SHA1-Digest: jerXegTEyXq/u6I28mw1bhm+r0Y=
+
+Name: assets/www/addons/messages/lang/it.json
+SHA1-Digest: rZoiz5xoFuzfsByQxM69/QN8sdk=
+
+Name: assets/www/addons/coursecompletion/lang/ca.json
+SHA1-Digest: fIBwG58lZdA8hw94MUcUf+PUzgM=
+
+Name: assets/www/lib/ionic/scss/_platform.scss
+SHA1-Digest: uqID4z7V9GC22A0RvtTgfChkWWE=
+
+Name: assets/www/lib/ionic/scss/_progress.scss
+SHA1-Digest: npZTveMYYKigfOOYhCDGPw/PEl8=
+
+Name: assets/www/addons/mod_folder/lang/he.json
+SHA1-Digest: 0P/FBkimZa97lr/d+KqSapc3jhE=
+
+Name: assets/www/lib/ydn.db/example/todo.js
+SHA1-Digest: H+na3unQJ/Vaeg96c43O6JCP3Z4=
+
+Name: assets/www/lib/ydn.db/test/core/iteration_2_test.js
+SHA1-Digest: nwSheD/OHCPXz6SFS7AGfmC4U7k=
+
+Name: assets/www/addons/calendar/lang/ar.json
+SHA1-Digest: UWaq7x1y1EULux+mLTeXoTe9MPA=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/Flags.js
+SHA1-Digest: E4tUfQNwBuZOW4bLoPcgPjwll/Q=
+
+Name: assets/www/lib/angular-md5/bower.json
+SHA1-Digest: erlRZb5XmEhYpifua60OhGl8b64=
+
+Name: assets/www/addons/mod_label/lang/sv.json
+SHA1-Digest: VJfMZsGCGH6JB/4+0rXnQTptXuw=
+
+Name: assets/www/lib/ionic/scss/_button-bar.scss
+SHA1-Digest: iW4/k0YCf2TCPTR/UYZ56HIt3kc=
+
+Name: assets/www/addons/messages/lang/es-mx.json
+SHA1-Digest: stCazIDl+AEUTo7NY97Y38/0oOc=
+
+Name: assets/www/addons/files/lang/fa.json
+SHA1-Digest: S5DZGTF0/2KRK58siqVBmrkICfA=
+
+Name: assets/www/addons/mod_label/lang/pt_br.json
+SHA1-Digest: 3B446vzj2KurWTKBA1bxFa1/fhQ=
+
+Name: assets/www/core/components/sidemenu/lang/it.json
+SHA1-Digest: KyoRtNlAg6rTknd52VZPdAu/G0s=
+
+Name: assets/www/lib/ydn.db/test/issues/issue_83.html
+SHA1-Digest: /o58r+/6egete3naBX6Nrc7615o=
+
+Name: assets/www/core/assets/countries/bg.json
+SHA1-Digest: GiiBMoGJIkt/XFKuoFfEJbn+S9c=
+
+Name: assets/www/core/lib/ws.js
+SHA1-Digest: l9jObVlePZL7MLkFIJMO6EdJCiU=
+
+Name: assets/www/addons/mod_forum/services/course_content_handler.js
+SHA1-Digest: XNfzcXddfKMB+rbx28/SIsup4VI=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: aEbimBaWphwEmBuFr0Qb+E5IYus=
+
+Name: assets/www/addons/mod_chat/templates/chat.html
+SHA1-Digest: MiQnwkRlq6/sBuWw4oUpC/xxHI4=
+
+Name: assets/www/lib/ionic/fonts/ionicons.eot
+SHA1-Digest: DQ9yqCPdIE3LxZi52GEt4kCOrkA=
+
+Name: assets/www/addons/mod_resource/lang/ja.json
+SHA1-Digest: kwMCSPrdUECWjLI+/Vo6amgwuXQ=
+
+Name: assets/www/lib/ydn.db/test/sql/sql_idb_test.html
+SHA1-Digest: BiUUAE8e7hkIS5kvMSu8zDmH5u0=
+
+Name: assets/www/app.js
+SHA1-Digest: 09qad/PG984pzgOjJ7qMG8pPCBo=
+
+Name: assets/www/lib/ydn.db/test/storage/schema_idb_test.html
+SHA1-Digest: ZolpYEyy1FwMEGel3r4HqdjW1ZQ=
+
+Name: assets/www/addons/mod_resource/lang/fr.json
+SHA1-Digest: +atDOS84bZ45F/Jmk09v+cBeM6s=
+
+Name: assets/www/addons/participants/lang/es-mx.json
+SHA1-Digest: auYGXCZBO/bg3f4wJyZQc8SKS8o=
+
+Name: assets/www/addons/mod_assign/lang/pt-br.json
+SHA1-Digest: bHi1u9/tcxdudNg4fhTwOCFcSQA=
+
+Name: assets/www/addons/calendar/lang/zh_tw.json
+SHA1-Digest: lKKiiwGI5860E/V7lGPgfc70xb4=
+
+Name: assets/www/addons/participants/lang/pl.json
+SHA1-Digest: ombz53SAkxufN+RCP25zadxXUPs=
+
+Name: assets/www/core/components/settings/templates/space-usage.html
+SHA1-Digest: JDgpDH3h+y5zSNRPTzu7bO0ubmU=
+
+Name: assets/www/lib/ydn.db/test/query/test_websql_query.html
+SHA1-Digest: waaL10sm0VdTbNM3d9NixHH5YC8=
+
+Name: assets/www/addons/grades/scss/styles.scss
+SHA1-Digest: QReud58FQwQTIbffEooAIAT32YM=
+
+Name: assets/www/lib/angular-ui-router/bower.json
+SHA1-Digest: QkFNHXJNNFfDXlabdHLgy+t2rTI=
+
+Name: assets/www/core/components/user/lang/nl.json
+SHA1-Digest: evmag2n4Avz6TaHx1KNjkcsYPgY=
+
+Name: assets/www/lib/ydn.db/test/qunit/qunit-custom.js
+SHA1-Digest: N9XC9swd65N4T7uG116w6H/NbWg=
+
+Name: assets/www/plugins/nl.x-services.plugins.launchmyapp/www/android
+ /LaunchMyApp.js
+SHA1-Digest: JpYxPpFi+JATIOmrc/oqL8af/Xc=
+
+Name: assets/www/core/components/user/lang/sv.json
+SHA1-Digest: 6MaOustuHKFr5DU4my2a+b4uaeo=
+
+Name: assets/www/addons/mod_url/lang/fa.json
+SHA1-Digest: 6dH2a8+j/FHQGlhs0yxDnmM4UQ8=
+
+Name: assets/www/core/components/user/lang/es_mx.json
+SHA1-Digest: YA5HbneM66sc1616gsk1176gYqI=
+
+Name: assets/www/lib/ydn.db/test/crud/list_2_idb_test.html
+SHA1-Digest: +5qqoQ5+o+mVMUCV0F+hMEVF1h0=
+
+Name: assets/www/addons/mod_chat/scss/styles.scss
+SHA1-Digest: nwGISle0VcBy23yegXbSAI97ffo=
+
+Name: assets/www/img/ionic.png
+SHA1-Digest: zZmk8+xkiaoXp3isKCjryZUhqLA=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/sql/exports.js
+SHA1-Digest: E1iVL/ou/EWht9yRCw6dl/kpDQQ=
+
+Name: assets/www/lib/ionic/scss/_checkbox.scss
+SHA1-Digest: RWPRgrz8AuMH+RB+0mwluPSpric=
+
+Name: assets/www/addons/mod_chat/lang/ar.json
+SHA1-Digest: OQGoWIGBluKExgo3Cb0dXRcmtwQ=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/sql/req/i_request_executor.js
+SHA1-Digest: 2bspsvG1mOuB9ofavXCSBgf1rSs=
+
+Name: assets/www/core/components/courses/lang/zh_tw.json
+SHA1-Digest: ntmrQiHPDJisjMQqT7Dx0k0uj2M=
+
+Name: assets/www/lib/angular-ui-router/src/urlRouter.js
+SHA1-Digest: 16Z5WOPADoW8uuUfV3pHzgpIq3E=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/tr/parallel_tx_executor.js
+SHA1-Digest: GroIFhTcFulDVj6xjftBjt+dwUE=
+
+Name: assets/www/lib/ydn.db/test/core/index_websql_test.html
+SHA1-Digest: 7RTCiuPnMPkocMr9Gdpu/BVHulE=
+
+Name: assets/www/addons/grades/lang/es.json
+SHA1-Digest: jF3IL/stjMtSkFGR2xaI1q80BGY=
+
+Name: assets/www/addons/notifications/lang/sv.json
+SHA1-Digest: apX2+ttRZJRxlA/YBjbtQyZMEXE=
+
+Name: assets/www/addons/mod_chat/lang/eu.json
+SHA1-Digest: xHaF5xxsCFoqlunEkriW6LgOEbU=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/query/conjunction-iterator.js
+SHA1-Digest: ME8sZVc7GnODGLx69sAD6u4tvBU=
+
+Name: assets/www/core/components/settings/lang/zh-tw.json
+SHA1-Digest: 61b++mE++UB7qJIPjPRFN0ui4Ok=
+
+Name: assets/www/img/files/quicktime-64.png
+SHA1-Digest: cOAKtOo13VURBdDWvny44iHsExA=
+
+Name: assets/www/lib/ydn.db/test/query/test_query.html
+SHA1-Digest: P64COxPmrbTUFXVe9zsjjdSzksQ=
+
+Name: assets/www/addons/frontpage/lang/tr.json
+SHA1-Digest: IL00sg1cTxYjv80k0fDaJlL+Mn4=
+
+Name: assets/www/addons/notes/lang/es-mx.json
+SHA1-Digest: LOjdK/zHX1skg0P0opE1ePz12cY=
+
+Name: assets/www/addons/mod_resource/main.js
+SHA1-Digest: 1YwLBczc0ax7wX7zMhC7STAMl8A=
+
+Name: assets/www/addons/notes/lang/fr.json
+SHA1-Digest: MLylvcUqJQRkKC/SAAH3RBE3du8=
+
+Name: assets/www/core/components/sidemenu/lang/pt-br.json
+SHA1-Digest: hMjw5bHYtQM12qKFBAepspVJ8Yg=
+
+Name: assets/www/core/lib/fs.js
+SHA1-Digest: kBy/ayGjq9imesfCVKYQGFns29Y=
+
+Name: assets/www/core/components/login/lang/sv.json
+SHA1-Digest: pHLZd2qvIsG8MTDTTpdFf2vCZTw=
+
+Name: assets/www/addons/mod_page/lang/ca.json
+SHA1-Digest: z3PdLaWaOp/ZUQ9r+5Gt5Vfe/Zg=
+
+Name: assets/www/core/components/sidemenu/lang/bg.json
+SHA1-Digest: 8wN904b6mWUdv1XfnGlllkbWNdo=
+
+Name: assets/www/addons/notifications/services/handlers.js
+SHA1-Digest: yi3pSLgmyleer39PlvUQDVCdvDE=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/inject.js
+SHA1-Digest: Qq4OsgkUpejrUH2vNb5R1jfboww=
+
+Name: assets/www/addons/mod_imscp/lang/pl.json
+SHA1-Digest: Eq/rGm+wtV82JV6PWDEGL70R6bA=
+
+Name: assets/www/core/components/course/lang/fa.json
+SHA1-Digest: XQgyF5NJR2g/Pcoe+nq/saD/kYY=
+
+Name: assets/www/lib/ionic/scss/_scaffolding.scss
+SHA1-Digest: ZaniK4d7wgImvEnXn87S5yJc5Uc=
+
+Name: assets/www/addons/mod_imscp/lang/es-mx.json
+SHA1-Digest: Tt06H8sscSqv3KM5SJcatU1Co5w=
+
+Name: assets/www/core/filters/timeago.js
+SHA1-Digest: wGdsTgo3z2xZWfRVXNxj76GyNoU=
+
+Name: assets/www/addons/mod_url/lang/es-mx.json
+SHA1-Digest: YS6KoT4rG0/fOtOFLfgBQY2bNV0=
+
+Name: assets/www/core/lib/addonmanager.js
+SHA1-Digest: GqWV+5V9bXasxs7HAhP7JHs6g9Q=
+
+Name: assets/www/core/directives/splitview.js
+SHA1-Digest: Vw/rOei+HFbh+dFb1Npv4FTP3+w=
+
+Name: assets/www/addons/notifications/lang/zh_cn.json
+SHA1-Digest: uXAR1ydFh34/pM5DUhkeYjqmSCA=
+
+Name: assets/www/addons/mod_url/controllers/index.js
+SHA1-Digest: oB0OM1K+ol1FNqB6+yd1bzpKj14=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileSystem.js
+SHA1-Digest: 7C6q+rAstBB6EK34bC836K8/x64=
+
+Name: assets/www/core/components/login/lang/zh-tw.json
+SHA1-Digest: YgC7EeAdUQr22F3Y0FMVLgZLy0w=
+
+Name: assets/www/addons/mod_imscp/lang/ar.json
+SHA1-Digest: fxsbk9cmxx5fTS+8pIEiJe6MleU=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/sql/req/nosql/node.js
+SHA1-Digest: 41fY7B/m9RUhGVmOoNorgRp19ck=
+
+Name: assets/www/core/components/settings/lang/de.json
+SHA1-Digest: KA5mByata986G5rAQ/1sLpghOn8=
+
+Name: assets/www/core/components/courses/main.js
+SHA1-Digest: DEGVgu6wcH3QpTpA5NvJ6siAjew=
+
+Name: assets/www/addons/mod_assign/lang/de.json
+SHA1-Digest: Ts3arUt0GU3ou4/fLn72KG061pQ=
+
+Name: assets/www/core/components/login/lang/pl.json
+SHA1-Digest: Mot3SdHtHiPo3MsYmEHVikYjp0k=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/algo/abstract_solver.js
+SHA1-Digest: EktXWCRTTgxvHaYWr5RzJMJL350=
+
+Name: assets/www/addons/mod_forum/lang/pt-br.json
+SHA1-Digest: 7uUPcRyza3HBMS0xJ3gZDZcMCEU=
+
+Name: assets/www/lib/ydn.db/test/qunit/test-custom.html
+SHA1-Digest: hzWBRXkFodtueXgyZxFdgtW/+FE=
+
+Name: assets/www/addons/participants/lang/zh-cn.json
+SHA1-Digest: W33/Dbw5MBXdekrNLbVi4qDlfRM=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/algo/zigzag_merge.js
+SHA1-Digest: TRFhb63P+w/RpkSv18TeILglJGs=
+
+Name: resources.arsc
+SHA1-Digest: heVfvLHi0lUUKMG0VbKgVrt7+hk=
+
+Name: assets/www/lib/ydn.db/src/storage.js
+SHA1-Digest: h5YZ3Z3L+2i/ESexXcaq3VWWErg=
+
+Name: assets/www/core/components/sidemenu/lang/zh-tw.json
+SHA1-Digest: m0QUFH6uHPT4rHRPdXrui1QO8eY=
+
+Name: assets/www/lib/ydn.db/test/perf/crud-index.js
+SHA1-Digest: 4Fuk5elRhvS9orf2Xr12Rkiw7f4=
+
+Name: assets/www/core/assets/mimetypes.json
+SHA1-Digest: zfnfPO7UzSd/kaynXbbI4W/cNqY=
+
+Name: assets/www/lib/ydn.db/test/perf/crud-small.html
+SHA1-Digest: CWJ26LMog+J1sj49qnIeUx8Sd60=
+
+Name: assets/www/addons/files/templates/choosesite.html
+SHA1-Digest: x/wpqx8RabL02jR6/OcNrlfd/UY=
+
+Name: assets/www/addons/notifications/lang/he.json
+SHA1-Digest: X0QBXck/h2jlZegx/uXAkK/m0wM=
+
+Name: assets/www/addons/mod_resource/lang/ca.json
+SHA1-Digest: mkyQqzSDbjPhS/ynf63MYw2NWsc=
+
+Name: assets/www/addons/files/lang/es-mx.json
+SHA1-Digest: WTSNKfais4ExPNyBPRYWu/tPOLg=
+
+Name: assets/www/lib/ydn.db/config/main.js
+SHA1-Digest: yFo8H5znMRLf/FuwnvRwZFMw+wM=
+
+Name: res/drawable-port-xxhdpi/splash.png
+SHA1-Digest: Ve6i9AXQkNrm3mE3VG7VDAh2UPY=
+
+Name: assets/www/addons/mod_imscp/directives/bar.js
+SHA1-Digest: ddzLkakTdR4wB7pRIQ3p4HdD7cg=
+
+Name: assets/www/lib/angular-mocks/ngMock.js
+SHA1-Digest: EaUJ0tlUOZC8x7yxTrzwgsnkoyU=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/tr/events_exports.js
+SHA1-Digest: /hDTfnQLfCOVkFbr9Zs+qCMWczY=
+
+Name: assets/www/addons/mod_label/services/course_content_handler.js
+SHA1-Digest: PnQ/PBB8bjlSXh3lTZGWDxTlX8M=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: 4YcYTjwDgOJzjBZ0O6DD3p8BGSQ=
+
+Name: assets/www/lib/angular-md5/lib/index.js
+SHA1-Digest: jYrpe9te1aRcIqxmO4zYhCGNV0U=
+
+Name: assets/www/addons/mod_imscp/lang/fr.json
+SHA1-Digest: 8Z4dS57e1wwckoGFDHLz4tpKaGg=
+
+Name: assets/www/addons/mod_forum/lang/bg.json
+SHA1-Digest: en4ysIv4X9a7RPrBlLCDTPDrwe0=
+
+Name: assets/www/core/components/login/templates/help-modal.html
+SHA1-Digest: iddWfB3LBYkHZaxByFiwzef/9hU=
+
+Name: res/drawable-land-xxxhdpi/splash.png
+SHA1-Digest: eRi0gBlLqbJ1gJxkHVEJiJpoq6A=
+
+Name: assets/www/core/components/user/lang/zh_cn.json
+SHA1-Digest: S1mShwrPk65SGkz/NF4HWvItyOk=
+
+Name: res/drawable-port-ldpi/splash.png
+SHA1-Digest: cdMGpLUGCEhOKRv3ouaHBIQUwhc=
+
+Name: assets/www/plugins/org.apache.cordova.network-information/www/Co
+ nnection.js
+SHA1-Digest: th9oNaphXkU4o2sO57yf3W3/7JA=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_test.js
+SHA1-Digest: 1bC0CWuJAYs8I9oD1LF+OREzKnc=
+
+Name: assets/www/lib/ydn.db/test/crud/list_2_test.js
+SHA1-Digest: 2ebNQG95PAkXrcNbVOTqyQ5uyO0=
+
+Name: assets/www/lib/ionic/css/ionic.css
+SHA1-Digest: Yg++nBc13lR1cM0ePBeu+mKA15M=
+
+Name: assets/www/addons/mod_page/lang/en.json
+SHA1-Digest: 7rGGCNNYq15Y4sJNEP61TWLzY58=
+
+Name: assets/www/lib/ydn.db/test/query/test_idb_query.html
+SHA1-Digest: bixKm8XB2/glhEaswIuCF0sqJ+A=
+
+Name: assets/www/core/components/login/templates/site.html
+SHA1-Digest: OM9ijKyQ3huT5BD9SNmx0uFAd0w=
+
+Name: assets/www/addons/mod_page/lang/pl.json
+SHA1-Digest: 4g27Ct2kv/gtq5K9MNJGeM+YKhA=
+
+Name: assets/www/addons/notes/services/notes.js
+SHA1-Digest: vA/z3etz0ZbMP2AZlplEPq+Si8c=
+
+Name: assets/www/core/components/courses/lang/ca.json
+SHA1-Digest: pqoQ5D6XtzbHsSChBKdHeGM1KYU=
+
+Name: assets/www/lib/ngCordova/README.md
+SHA1-Digest: UNrCvobovwYStKsNQc5VJV54MA0=
+
+Name: assets/www/addons/mod_chat/services/course_content_handler.js
+SHA1-Digest: scgo8PZgOKulbazoGFmeIU4nKQw=
+
+Name: assets/www/addons/frontpage/lang/sv.json
+SHA1-Digest: kxSWLDttf9W8Ns8nCw7IyDxsxio=
+
+Name: assets/www/addons/mod_chat/lang/es-mx.json
+SHA1-Digest: zL08LwGcethxqlWghPpC9ywJr68=
+
+Name: assets/www/addons/frontpage/lang/eu.json
+SHA1-Digest: fklNiizyXfzm1cBnlIxlCCs73AE=
+
+Name: assets/www/addons/participants/lang/en.json
+SHA1-Digest: hDLr7nJGJI7F2XnUKHFFmU71OP0=
+
+Name: assets/www/addons/frontpage/lang/zh_cn.json
+SHA1-Digest: kKiVZB6oXRnZIeeehKNetNnB+Dk=
+
+Name: assets/www/addons/mod_resource/directives/html_link.js
+SHA1-Digest: 2rtASFvfz56X+GuiK6S4gqAs34w=
+
+Name: assets/www/addons/notes/lang/de.json
+SHA1-Digest: k/B/wxJTNJ58SozERNlMcmNhgCg=
+
+Name: assets/www/lib/ydn.db/test/qunit/ver_1_iteration.js
+SHA1-Digest: DeFc84zBnHnMX8GeoocUVQEi7tw=
+
+Name: assets/www/addons/mod_choice/main.js
+SHA1-Digest: +Ak0McFFviAYLZB/PDpqPuoTt2c=
+
+Name: assets/www/lib/ydn.db/test/perf/crud.html
+SHA1-Digest: LWduQf1ym2OGKWwwrrTd9Rli6Mk=
+
+Name: assets/www/addons/notes/lang/ar.json
+SHA1-Digest: 6UQriOM3nIYGQqAOLD+wjpxYcz0=
+
+Name: assets/www/addons/mod_forum/lang/es-mx.json
+SHA1-Digest: UKEfmjpOEZh5xPpYKAV64HJh9n4=
+
+Name: assets/www/lib/ydn.db/test/issues/file-store.html
+SHA1-Digest: 1z54XZS/fl1v6iP8eRLCEYhcd5Q=
+
+Name: assets/www/core/components/courses/controllers/list.js
+SHA1-Digest: 3TxHIyf8LpYBvX0oMlPyqVMmpXE=
+
+Name: assets/www/core/components/sidemenu/lang/zh_cn.json
+SHA1-Digest: 9HoFS4UVxYqpsvsx9/beCVaZGjo=
+
+Name: assets/www/addons/mod_folder/lang/es.json
+SHA1-Digest: +0RXry9g5qPQgusdSOim4gFOCOY=
+
+Name: assets/www/lib/ydn.db/test/crud/key_2_ls_test.html
+SHA1-Digest: TpUud4p+CC+nsdB1hMcVUrsvt2o=
+
+Name: assets/www/addons/mod_folder/lang/zh_tw.json
+SHA1-Digest: 6jlLd4VsW0fCgL5k676+M7ntLdM=
+
+Name: assets/www/lib/ionic/css/ionic.min.css
+SHA1-Digest: Rk/WNips0cpTGhLDShE9bJnExrQ=
+
+Name: assets/www/lib/ydn.db/test/sql/parse_sql_test.html
+SHA1-Digest: HYleoesUxqKaDk7hELS7WHSxJEo=
+
+Name: assets/www/addons/notes/lang/hu.json
+SHA1-Digest: AA7vAmFguDM/MAdf1+1PFJtxXwQ=
+
+Name: assets/www/lib/ionic/scss/_modal.scss
+SHA1-Digest: DKw5FE9tIlnimiPVL141E7skl2E=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/query/conj-query.js
+SHA1-Digest: NZmXyGJJeGDV64VlUUOd5wtufBw=
+
+Name: assets/www/addons/mod_imscp/lang/ru.json
+SHA1-Digest: rTa9A4ZMhtqI2BodxwS2vHZUquE=
+
+Name: assets/www/core/components/sidemenu/scss/styles.scss
+SHA1-Digest: B39A/ZQUJ2rDA6Xoda6fRCAH0Qo=
+
+Name: assets/www/lib/ionic/scss/ionicons/_ionicons-font.scss
+SHA1-Digest: 8CmZiR6xF9yyIyYpkADXsFbTSNs=
+
+Name: assets/www/addons/files/lang/pt-br.json
+SHA1-Digest: aZuFuDiZWNBufzVl28zJeM0GJS8=
+
+Name: assets/www/img/files/image-64.png
+SHA1-Digest: oXs4I7MTRkUcu2VY8CBFkxLeMts=
+
+Name: assets/www/addons/mod_book/lang/zh_cn.json
+SHA1-Digest: VINPttSz4ZX8cq8LE6eVQvLTpyY=
+
+Name: assets/www/lib/angular/angular.min.js.map
+SHA1-Digest: ZIXC7bGIK12SvAWokGl8hM3Odcc=
+
+Name: assets/www/core/components/login/lang/en.json
+SHA1-Digest: Ce3sSQBAUxqnbVCkLpaYe9dTEp8=
+
+Name: assets/www/lib/ydn.db/test/storage/schema_test.js
+SHA1-Digest: 9g7hoAuvtSsFW8PiVYavhLztV58=
+
+Name: assets/www/lib/ydn.db/test/qunit/transaction.js
+SHA1-Digest: Gw+QgPvgtdbJ+nxZfcG768uvvgM=
+
+Name: assets/www/addons/calendar/lang/eu.json
+SHA1-Digest: 8I/rwcTcjR3NZ3pceCQ9sUClBUI=
+
+Name: assets/www/addons/messages/scss/styles.scss
+SHA1-Digest: 5H3lylK94pkzKkmsNcPLwUK0pVc=
+
+Name: assets/www/addons/grades/lang/ar.json
+SHA1-Digest: pPE/myeZmlvH7Z7dRCcLzepH7Pg=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/fileSystemPaths.j
+ s
+SHA1-Digest: UExUN2sichGCTTk/OdFgcZCdNUs=
+
+Name: assets/www/core/components/course/services/delegate.js
+SHA1-Digest: w2XUhI1hLYlfjjcAoH+SQWjiWkw=
+
+Name: assets/www/addons/mod_book/lang/fa.json
+SHA1-Digest: Aqv2vYcwoQPKtizgNbyY+WXRvBE=
+
+Name: assets/www/core/assets/countries/ja.json
+SHA1-Digest: g41lMsBhtesRXw8U4bvZdEG2Qjw=
+
+Name: assets/www/core/components/user/lang/ca.json
+SHA1-Digest: idWNXyptd84jmRh0cQLRwr9HLU4=
+
+Name: assets/www/lib/ydn.db/jsc/ydn.db-dev.js.map
+SHA1-Digest: oOk5Qz2iVpEu49RtCnPoq92l35s=
+
+Name: assets/www/lib/ydn.db/test/qunit/test_dev_ver_1_algo.html
+SHA1-Digest: 8HXE6uJ6ZeOe0jtbEvERN0HTzgA=
+
+Name: assets/www/addons/mod_assign/lang/bg.json
+SHA1-Digest: Loo9qpoHGRXCKErapBDwTgLVsLA=
+
+Name: assets/www/addons/mod_resource/lang/zh_cn.json
+SHA1-Digest: 0SLVvayu6fiopo9prBQKMjjTAQs=
+
+Name: assets/www/core/components/user/lang/zh-tw.json
+SHA1-Digest: T4DsJ5HV27E6spBfvFwUJ8dStPA=
+
+Name: assets/www/lib/ionic/scss/_bar.scss
+SHA1-Digest: /Z+hKntcLTLc/Dcf2yT+PMvMkbI=
+
+Name: assets/www/lib/ionic/scss/_grid.scss
+SHA1-Digest: HTSCQ2E+uawHe8CY7dlWucZBAV4=
+
+Name: assets/www/core/components/sidemenu/services/delegate.js
+SHA1-Digest: xIBaN2swRmqNbmiIoFd3ADDysog=
+
+Name: assets/www/addons/mod_url/services/course_content_handler.js
+SHA1-Digest: TIaNhTc4BB00y0fEPFRUwG8ceA0=
+
+Name: assets/www/lib/ydn.db/test/qunit/ver_1_algo.js
+SHA1-Digest: x0F0nu6l3vyF30JPYpQbmy6QgG8=
+
+Name: assets/www/lib/angular/angular.min.js
+SHA1-Digest: Ix+MmyP3dcas2rO9fhuHdlieShA=
+
+Name: assets/www/core/components/courses/services/delegate.js
+SHA1-Digest: mf33r5IFGfBcaI5jXf/hfMMwogo=
+
+Name: assets/www/lib/ydn.db/test/algo/scan_test.js
+SHA1-Digest: k4hnvcosONXOc4Q/68PI+jGp9ck=
+
+Name: assets/www/addons/coursecompletion/services/coursecompletion.js
+SHA1-Digest: B+QQtLDZpiFP/N50ehwYJHDRPJY=
+
+Name: assets/www/addons/mod_resource/lang/sv.json
+SHA1-Digest: An3JJo25gi+ybZ8nLva/uLi5bvo=
+
+Name: assets/www/lib/ydn.db/test/qunit/test_dev_ver_1_iteration.html
+SHA1-Digest: D6DiP03CJzihYUi+Rm0HhozpRsc=
+
+Name: assets/www/addons/mod_choice/services/choice.js
+SHA1-Digest: Ulkl9d1hxkxiVPcGHe2DGdriuUo=
+
+Name: assets/www/core/components/settings/controllers/about.js
+SHA1-Digest: kHW+YRnYs2930rn2DQ7uivX7hKc=
+
+Name: assets/www/core/components/settings/templates/synchronization.ht
+ ml
+SHA1-Digest: k8AMJijGbrglwZNpBrVdl+hjwmY=
+
+Name: assets/www/lib/ionic/scss/_slide-box.scss
+SHA1-Digest: 4Dse3bp+iMHRpvnjR32UO9V2QJo=
+
+Name: assets/www/core/filters/date_day_or_time.js
+SHA1-Digest: 6vZn5+J8HYSZcOrmwOitOmz3+5Y=
+
+Name: assets/www/addons/grades/lang/ru.json
+SHA1-Digest: PoknPhwLCypN3hPn1ibGlsORGXI=
+
+Name: assets/www/addons/mod_resource/lang/ar.json
+SHA1-Digest: MEO+586oDrLHUSv8I0O5Mwi7R9Q=
+
+Name: assets/www/lib/angular-translate/bower.json
+SHA1-Digest: SEpgx5CUgJn4gt7CetH+Fik7UZE=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/tr/mutex.js
+SHA1-Digest: y+EdfPTpo7XKqZcCUsEhCVhjHJs=
+
+Name: assets/www/addons/mod_choice/templates/index.html
+SHA1-Digest: BYVenv9ewIFU0WG/G522C0g7Q9U=
+
+Name: assets/www/addons/mod_folder/lang/it.json
+SHA1-Digest: PBIq0mvRSxGND0CATCVPIf6Yh6M=
+
+Name: assets/www/core/lang/nl.json
+SHA1-Digest: 7Y0GGii28xCW2ecIXIzOwwK8Hks=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/schema/database.js
+SHA1-Digest: ZEbIpYzagaQ+p4NUk0O8dUwjSAM=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/crud/req/indexed_db.js
+SHA1-Digest: odYrpmw31/Arr1+CnGY0QbRokr8=
+
+Name: assets/www/addons/mod_label/lang/en.json
+SHA1-Digest: ksgtQYGhU4d4JtYB3rPkHmWzPBw=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/core/iterator.js
+SHA1-Digest: K7nRh4a1uq9GovfOddjWnFdHsCo=
+
+Name: assets/www/lib/angular-translate-loader-partial/angular-translat
+ e-loader-partial.js
+SHA1-Digest: qMcuPLME0fOoodBZp5tdjtvgLUI=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/crud/storage.js
+SHA1-Digest: XZCoul9TBuNd8yU0LTZ+ReclVds=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileUploadOptions
+ .js
+SHA1-Digest: I/6ADRJtFfOnI1XcMlmBBzZhBZk=
+
+Name: assets/www/addons/frontpage/lang/fr.json
+SHA1-Digest: tXILtWJdbTwj6ekLj8SUhzSJwCM=
+
+Name: assets/www/lib/angular-translate-loader-partial/bower.json
+SHA1-Digest: dvez4VaO+LSkG6ub/OgZ7q9cwrI=
+
+Name: res/drawable-land-xxhdpi/splash.png
+SHA1-Digest: 3trlml5JQaNigWgRHOGsEYleSmc=
+
+Name: assets/www/addons/mod_resource/lang/eu.json
+SHA1-Digest: YK54SeEybZJ7cEwmt/8c4jrCWKE=
+
+Name: assets/www/lib/ydn.db/readme.md
+SHA1-Digest: LDFqniWUmplzAyuz7zvb77vtNxk=
+
+Name: res/drawable-hdpi/ic_action_previous_item.png
+SHA1-Digest: GmLf7mQyf44N0I/diFIdBd/yBk0=
+
+Name: assets/www/lib/ydn.db/misc/digita53.jpg
+SHA1-Digest: mkd+6+jwkgYvExJg7r0p4RDVNGc=
+
+Name: assets/www/addons/notifications/services/notifications.js
+SHA1-Digest: rTiIsfWveOEX5Q3MUJPpu9Z0Ksg=
+
+Name: assets/www/lib/ngCordova/dist/ng-cordova.min.js
+SHA1-Digest: UEduISEnvzBLlU0ElHiEyIW/Mag=
+
+Name: assets/www/addons/mod_chat/lang/fa.json
+SHA1-Digest: b3yJVkpAqER/avML97/CCwcAwVM=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileError.js
+SHA1-Digest: e5xMFIZlBrKd+qdd18MBeyWXS6o=
+
+Name: assets/www/lib/angular-ui-router/README.md
+SHA1-Digest: XuDBHf7yWg1LxpBmv5PorIGxga4=
+
+Name: assets/www/lib/ydn.db/test/aat/data/author/jonas@sicking.cc
+SHA1-Digest: /sAygtsmqMBfoZk8Ia2Iap16TC8=
+
+Name: assets/www/core/assets/countries/fa.json
+SHA1-Digest: EnxrTSZM1Pe9056ZDjI/SnUYrQ8=
+
+Name: assets/www/addons/mod_book/lang/ja.json
+SHA1-Digest: lXgV0HI0D2Om+r2wnXjg/hJvr/c=
+
+Name: assets/www/addons/files/templates/list.html
+SHA1-Digest: FALVpAoP5lI/jntMdmZLz/tJNys=
+
+Name: assets/www/lib/ydn.db/test/qunit/crypt.js
+SHA1-Digest: rv/wAh0RhQuH0pyRku1FSTyvNTY=
+
+Name: assets/www/addons/notifications/lang/cs.json
+SHA1-Digest: oawnl0NYxdHybTZlXS+cIIiVo3Q=
+
+Name: assets/www/addons/mod_choice/lang/cs.json
+SHA1-Digest: axKk+4MlVk8Ts6KGkwpaBsuv8Tw=
+
+Name: assets/www/addons/mod_imscp/lang/tr.json
+SHA1-Digest: g/frU1zPw8OcW5wo+sDyEr5vY6g=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/schema/store.js
+SHA1-Digest: XTFzjVT+3abUtMR2BtJEV9ZJIds=
+
+Name: assets/www/lib/ydn.db/bower.json
+SHA1-Digest: XxiNAt+4u2Nq//0cO7f11qZVwvs=
+
+Name: assets/www/img/files/math-64.png
+SHA1-Digest: h9X7JDsUQqTA8jvSwSQNEDzEvbg=
+
+Name: assets/www/lib/ydn.db/test/alltests.js
+SHA1-Digest: AId9nEs0SD9VxGGqaK0xtVsW9rk=
+
+Name: assets/www/core/components/login/controllers/sites.js
+SHA1-Digest: Ok7q0Yo37cqjSrWfTDLpqoM1r+o=
+
+Name: assets/www/img/mod/lesson.svg
+SHA1-Digest: as03YN8UwnKquCVlKMy29FvWNUM=
+
+Name: res/drawable-port-mdpi/splash.png
+SHA1-Digest: DatpwfkxtW7J7SVcF6m8jscdrkI=
+
+Name: assets/www/core/components/courses/lang/eu.json
+SHA1-Digest: itPdvwwH1X4rgyk//j6OQOYGRxA=
+
+Name: assets/www/lib/ydn.db/Home.md
+SHA1-Digest: s9ouBRQNzue4j/4wb/HA+Ck6/+4=
+
+Name: assets/www/addons/grades/lang/ca.json
+SHA1-Digest: vvnlJafzpj94waG9i0jnn7rUcdA=
+
+Name: assets/www/core/components/course/lang/tr.json
+SHA1-Digest: uxk/4KfRpXcoGyajlFw9cIcJC4U=
+
+Name: assets/www/addons/mod_label/lang/es.json
+SHA1-Digest: Vqde+xYYthjGWRmYo7LHe0NkPGE=
+
+Name: assets/www/core/lib/app.js
+SHA1-Digest: ssrPLH2dxhVMrNr+MECVtyoeyXc=
+
+Name: assets/www/img/files/audio-64.png
+SHA1-Digest: XbSEz9dXS8Yq7qZDPps72GwHeBc=
+
+Name: assets/www/addons/participants/services/participants.js
+SHA1-Digest: koyBs0SwhP3HN+kFqjdSSFe/c9Y=
+
+Name: assets/www/core/components/courses/lang/sv.json
+SHA1-Digest: 0AlBvMeNgwBHox76zudnYx9287k=
+
+Name: assets/www/img/files/mp3-64.png
+SHA1-Digest: ooq3Cm8sv9magmoTGX1bx1s2UkM=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/key.js
+SHA1-Digest: 1adSGWPTnfDmkjO/st2vRoSoW9A=
+
+Name: assets/www/addons/files/lang/nl.json
+SHA1-Digest: RJuDbZZn9wXpRg/TIMhFpGC3JSs=
+
+Name: assets/www/lib/ydn.db/test/core/iteration_4_test.js
+SHA1-Digest: 3epuY7ZVKCkn78cFwKo8BkVXCqQ=
+
+Name: assets/www/addons/mod_imscp/lang/zh_cn.json
+SHA1-Digest: 6wc+uuiIyGPTwDr4nfLuEYSdENI=
+
+Name: assets/www/lib/ydn.db/test/qunit/test_ver_1_sql.html
+SHA1-Digest: Uy5P03BfB7gSDxNEZ3dEsOC/aAI=
+
+Name: assets/www/core/components/login/lang/zh_tw.json
+SHA1-Digest: jJoHf1CIyM4IPRqQRpaYuZVZpsQ=
+
+Name: assets/www/img/files/sourcecode-64.png
+SHA1-Digest: CZYjsVHF3P+86qSKNbxvZozrRxI=
+
+Name: assets/www/addons/mod_choice/lang/he.json
+SHA1-Digest: xaRlIC7K1S/vbkdRBjO3eCvjyyI=
+
+Name: assets/www/addons/frontpage/lang/ca.json
+SHA1-Digest: UlBDBRRPR4grphzePuR19I0RUJo=
+
+Name: assets/www/addons/mod_resource/templates/index.html
+SHA1-Digest: 6lUcvCPJ2S5sF7Db/Hey30nISHk=
+
+Name: assets/www/addons/calendar/lang/es.json
+SHA1-Digest: Tl96Mfh564SQ1bw+EcRYoUIzksU=
+
+Name: assets/www/lib/angular-md5/angular-md5.js
+SHA1-Digest: BHvklnIwK1Ypl98f26yRMdl1vVM=
+
+Name: assets/www/addons/messages/controllers/index.js
+SHA1-Digest: 8SBXQh8XjQjudoA3S3eMptd82zA=
+
+Name: assets/www/addons/mod_resource/lang/es.json
+SHA1-Digest: +L35pyv8vtDUmX0cWX9SbMcwvYc=
+
+Name: assets/www/core/components/courses/lang/ar.json
+SHA1-Digest: VCOSvWsNBGtiHJ9JKZ70LqPFqEk=
+
+Name: assets/www/lib/angular/package.json
+SHA1-Digest: joOpw04Wk4ArIzxlpWpMBcEls5o=
+
+Name: assets/www/addons/notes/lang/bg.json
+SHA1-Digest: N3q4VtSnN1K2CY1jnkTZZMNi39E=
+
+Name: assets/www/core/components/login/lang/zh_cn.json
+SHA1-Digest: uo1h6hnvWIvmfVNsNtcrh7gW+8M=
+
+Name: assets/www/lib/ydn.db/test/crud/crud_idb_atomic_serial_test.html
+SHA1-Digest: 73pjCATUkusgphY4ap9q/mZrJag=
+
+Name: res/drawable-xxhdpi/ic_action_next_item.png
+SHA1-Digest: e6x8HM/e3rahX7B8nFR3dtODqc8=
+
+Name: assets/www/addons/frontpage/lang/zh_tw.json
+SHA1-Digest: OhOX84jdrm/5o8bPVG7STnfC5Ok=
+
+Name: assets/www/addons/mod_book/templates/arrows.html
+SHA1-Digest: 02I25pZLDMVJRdYMv59xbMhV450=
+
+Name: assets/www/lib/ydn.db/test/issues/test_multi_storages.js
+SHA1-Digest: Pu4+kYjm+xqjGxOxAl6mfaEvAZw=
+
+Name: assets/www/addons/mod_chat/lang/ja.json
+SHA1-Digest: UttBJyrNimpxQwWNuEFNrk92ws8=
+
+Name: assets/www/addons/participants/lang/cs.json
+SHA1-Digest: wgk9Vhk53ngslydgiVP7aYOd/2M=
+
+Name: assets/www/addons/mod_forum/lang/fa.json
+SHA1-Digest: mJhna50j6YyujVmnkuA8ihRYSJU=
+
+Name: assets/www/img/files/jpeg-64.png
+SHA1-Digest: O39acD8GtvgB3+Ug75CWin7Z+iM=
+
+Name: assets/www/lib/ydn.db/test/crud/list_ls_test.html
+SHA1-Digest: HypQ0n6lJgD9cXaLKdmK7Qlf8lQ=
+
+Name: assets/www/addons/messages/lang/zh_tw.json
+SHA1-Digest: ay5rsJoGo16JseNbFxeTo6UrrD0=
+
+Name: assets/www/img/files/moodle-64.png
+SHA1-Digest: KvLaXbZEdg8f+swEEHW887uEHJk=
+
+Name: assets/www/addons/notes/lang/es.json
+SHA1-Digest: gnqzRdHx79P5eIs07Fro/zqQ88A=
+
+Name: assets/www/addons/grades/img/agg_sum.png
+SHA1-Digest: RbOWLIMRys6OqX6rmFCLbcFnq6U=
+
+Name: assets/www/img/completion/completion-auto-y.svg
+SHA1-Digest: 4WHYcCwFK1Zdzgx6/BGQSFku21Y=
+
+Name: assets/www/addons/coursecompletion/lang/ja.json
+SHA1-Digest: Rzv4qpRtp6x/Sv2fjqV26El+gDw=
+
+Name: assets/www/addons/grades/lang/fr.json
+SHA1-Digest: 8MSgrHbgAqFWEJEtRtkt6eDxRgk=
+
+Name: assets/www/core/components/course/lang/en.json
+SHA1-Digest: MjgMx3LTaXCj7a/lZlop94xAYJM=
+
+Name: assets/www/addons/notifications/lang/de.json
+SHA1-Digest: anrS93VYoHI9OCBXH8Q0unr5H5o=
+
+Name: assets/www/addons/mod_page/lang/zh-cn.json
+SHA1-Digest: 38GOCmXdoJPxvMhYjOpr7rurWUE=
+
+Name: assets/www/lib/ydn.db/test/core/index_3_idb_test.html
+SHA1-Digest: I9U95ya715qhjU9CC0ok+Mbqd0Y=
+
+Name: assets/www/lib/ydn.db/test/qunit/ver_1_workflow.js
+SHA1-Digest: rFmy7Sq4spDdkIofbWR7ZoF6h9w=
+
+Name: assets/www/img/mod/quiz.svg
+SHA1-Digest: Z4z++wCHGDW+SPoZGP3AQustPno=
+
+Name: assets/www/addons/notes/lang/he.json
+SHA1-Digest: qbQCw0IquMLyx4LCfDWeVDXsjdU=
+
+Name: assets/www/addons/mod_chat/lang/pt-br.json
+SHA1-Digest: otqrOfbfJ+H9HHGzxvxumQAI+Lo=
+
+Name: assets/www/addons/mod_url/lang/en.json
+SHA1-Digest: QLRLt9lVgGuxIo+sgz/3NLavNK4=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/request.js
+SHA1-Digest: XaXIn4fXlTY9sTRNLMh3nJNGgaw=
+
+Name: assets/www/addons/notifications/lang/zh-tw.json
+SHA1-Digest: dMmC8gPomDkcI7AlDzrLs2cUSBY=
+
+Name: assets/www/lib/ydn.db/test/crud/CrudJstest.js
+SHA1-Digest: LhHc+SdBS4Vd7wkDlkRpQ42257A=
+
+Name: assets/www/addons/mod_url/lang/es_mx.json
+SHA1-Digest: rMbaIvrpmzw2RCAj2t7w2smbxGQ=
+
+Name: assets/www/lib/ydn.db/test/core/index_2_test.js
+SHA1-Digest: MtFvVfMKRVe0wPisqEQPqtZhl5o=
+
+Name: assets/www/build/mm.bundle.css
+SHA1-Digest: yA/+exRCcUFVsWsm6/Dpay1COVk=
+
+Name: assets/www/lib/ydn.db/test/issues/issue_38.html
+SHA1-Digest: IzbIWAUEV0voL9ljrIspwSzdDCE=
+
+Name: assets/www/lib/ionic/scss/_list.scss
+SHA1-Digest: CPmwqd1ovffh5q2FiqQA5u8zdOk=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/base.js
+SHA1-Digest: a92BZGHcIthBVNFKUKfOpR+k3qw=
+
+Name: assets/www/addons/mod_chat/lang/es_mx.json
+SHA1-Digest: EEeokzHVa/txE5ycqxx6hvbSI10=
+
+Name: assets/www/core/assets/countries/nl.json
+SHA1-Digest: ORpiRqnxpK2UXnJ0AMFgooAOqik=
+
+Name: assets/www/addons/mod_folder/lang/en.json
+SHA1-Digest: qK3lr0LEqeA7WS5u/uwPSYt8xCo=
+
+Name: assets/www/img/files/calc-64.png
+SHA1-Digest: w23enTmeDX0AD2LdJpX/mdFzLGc=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/sql/req/websql.js
+SHA1-Digest: hvxyQb06JmS3iq4xv7fFoO+GLS4=
+
+Name: assets/www/lib/angular-mocks/bower.json
+SHA1-Digest: n3zPj8dgHv0VGvs/D0FP4YqpHqQ=
+
+Name: assets/www/addons/mod_imscp/lang/eu.json
+SHA1-Digest: sDhmKqW24pVIyTkgQOxo+SRI0uo=
+
+Name: assets/www/lib/ydn.db/jsTestDriver.conf
+SHA1-Digest: p0DlPoelSavHPIzvTiNLFXQstBw=
+
+Name: assets/www/core/components/sidemenu/lang/zh-cn.json
+SHA1-Digest: 6/DFdA0cys2vMDaZaV4DLLgSSRI=
+
+Name: assets/www/addons/participants/lang/zh-tw.json
+SHA1-Digest: nAKCBSuYxL16EmkmP/EydUos9/Y=
+
+Name: assets/www/lib/ydn.db/test/query/test_ls_query.html
+SHA1-Digest: 8IoEodcgC3wOrmpY60HhZYnVcvY=
+
+Name: assets/www/core/lib/urldelegate.js
+SHA1-Digest: E95IqhRIYyVpwfSpvmNvn7hZNQA=
+
+Name: assets/www/addons/files/services/files.js
+SHA1-Digest: CUAWTxyyioZIQd1dyshxL54E1kY=
+
+Name: assets/www/core/components/course/lang/nl.json
+SHA1-Digest: eAXMoVAidknuvolrNJgV1SdOLjE=
+
+Name: assets/www/addons/files/lang/es_mx.json
+SHA1-Digest: QH5PDAu3WNrV6WzVwHlNUq/GLsc=
+
+Name: assets/www/addons/mod_book/lang/tr.json
+SHA1-Digest: hqlCCVZO5pAZUhxcG55wquGuLuI=
+
+Name: assets/www/core/components/login/lang/zh-cn.json
+SHA1-Digest: 6RJP+Xo11iA2SwQjUL0RnY00VPI=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileReader.js
+SHA1-Digest: ypYxM0drkJtmlDQb9KdB+tJOMAQ=
+
+Name: assets/www/addons/notes/lang/es_mx.json
+SHA1-Digest: yZh5HSM/8ySruM4U/Wq2JBBkGmI=
+
+Name: assets/www/addons/files/templates/index.html
+SHA1-Digest: c8vxffBjhxNrsswhYE8/tCwl7uI=
+
+Name: assets/www/addons/files/lang/en.json
+SHA1-Digest: yUdOvCYdqVFTbo0CUETR0uN/i+o=
+
+Name: res/xml/config.xml
+SHA1-Digest: ejdpe8TynOKINMkOuWY7RFXNR0Y=
+
+Name: assets/www/addons/mod_book/lang/it.json
+SHA1-Digest: EVtimiwO0QORygHYpnC6nAfqJoM=
+
+Name: assets/www/lib/ngCordova/package.json
+SHA1-Digest: Cm3eDN5Xo7RGB8LqWaCORcv6n+E=
+
+Name: assets/www/addons/mod_forum/lang/zh_tw.json
+SHA1-Digest: caGgq9KLeGXSfw+eJf8TsYeueXg=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/crud/i_operator.js
+SHA1-Digest: pVsiWlUX6PJO7sTothiXt4qux5g=
+
+Name: assets/www/lib/angular-sanitize/README.md
+SHA1-Digest: r1qFAJL636C9aVbUZ2zYbgEP1e8=
+
+Name: assets/www/addons/messages/lang/zh-tw.json
+SHA1-Digest: neoqLeZSjXSGlakcDAcJZdIHQMI=
+
+Name: assets/www/lib/angular/README.md
+SHA1-Digest: 1NlvcZ1ixcwKvOtpxGW8HziYt9E=
+
+Name: assets/www/lib/ydn.db/LICENSE
+SHA1-Digest: TH8p75wLR+hMtm72IZhHi+3cel0=
+
+Name: assets/www/addons/mod_choice/lang/zh-cn.json
+SHA1-Digest: C+lFNS9ZvFWfUTelsagMjF/XW7U=
+
+Name: assets/www/addons/notifications/lang/zh-cn.json
+SHA1-Digest: OCZ0pElPi2jdPg8tYAryw86WZe8=
+
+Name: assets/www/addons/mod_chat/lang/pl.json
+SHA1-Digest: Pv6EumHI+4NLiomLRNXRfWwKuBE=
+
+Name: assets/www/addons/messages/lang/sv.json
+SHA1-Digest: YSnMBG7SSuOXkIsuVfg6rAm94J8=
+
+Name: assets/www/lib/ydn.db/test/perf/crud-small.js
+SHA1-Digest: a6CipHCPBH1+9NNjWjZ7GybbXbA=
+
+Name: assets/www/core/components/sidemenu/lang/es.json
+SHA1-Digest: LXgDMKsRaSACTsaMYUdexuKF1OE=
+
+Name: assets/www/lib/ionic/scss/_radio.scss
+SHA1-Digest: 0cXLRthvimb83Hz2N5D9pp+Mg+Y=
+
+Name: assets/www/addons/files/controllers/list.js
+SHA1-Digest: hHuxvZdImuxBxinlv+KCt4v97IQ=
+
+Name: assets/www/addons/files/lang/pl.json
+SHA1-Digest: HYYYLN+ecqDW0xxDgnUiPqu7Nwc=
+
+Name: assets/www/lib/ydn.db/test/qunit/ver_1_sql.js
+SHA1-Digest: UKeDOvEfl7fctYjjOkrEyD7Z8MU=
+
+Name: assets/www/plugins/de.appplant.cordova.plugin.local-notification
+ /www/local-notification.js
+SHA1-Digest: MIp/U29EwjJKX2rr0jhu2tv9U7E=
+
+Name: assets/www/addons/mod_book/services/book.js
+SHA1-Digest: TDLqRnEQKFBqkrkjm3ITymxWgUA=
+
+Name: assets/www/addons/grades/controllers/table.js
+SHA1-Digest: M1ZfElYKE9bQzY06wBAHqYwPFEQ=
+
+Name: assets/www/addons/mod_url/lang/pt_br.json
+SHA1-Digest: pSlYDw58nHvi+Ta64WlRrkcrbwA=
+
+Name: assets/www/addons/participants/lang/zh_cn.json
+SHA1-Digest: AagLRvM9E/lXqyDgYP0tJdnUTg4=
+
+Name: assets/www/img/files/bmp-64.png
+SHA1-Digest: r4iVKJqj1FMXM+FWZ/YTDb7WAQA=
+
+Name: assets/www/img/mod/feedback.svg
+SHA1-Digest: 0oaG9aE2Di2eyKOOFYplqCmbOzU=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/query/conjunction-cursor.js
+SHA1-Digest: 9v8RV/8ytLguvDyMpWys/NCL+h4=
+
+Name: assets/www/lib/ydn.db/test/issues/issue_107.html
+SHA1-Digest: LQ0DQeY9WOEF1PrWT5dRAJ2/4aQ=
+
+Name: assets/www/lib/ydn.db/externs/entity.js
+SHA1-Digest: 3anb6cj75EYWv5ejQxtsNnzuP14=
+
+Name: assets/www/lib/ydn.db/test/query/test_dev_query.html
+SHA1-Digest: JD62cSJ2ThdA1GIsNXUIquASxLA=
+
+Name: assets/www/addons/mod_folder/main.js
+SHA1-Digest: HBk4aJ+enq5x5bZdCQBN1eRA5kw=
+
+Name: assets/www/addons/mod_book/templates/toc.html
+SHA1-Digest: uinEyPVRtu5jGShezQZdqWA41/w=
+
+Name: assets/www/lib/ydn.db/test/storage/default_store_test_.html
+SHA1-Digest: zNFszlN4JwVP79K+BkHHOuhqspw=
+
+Name: assets/www/core/components/course/lang/it.json
+SHA1-Digest: cBIk0iLWpkxXNpT9Sh0VnCbHls8=
+
+Name: res/drawable-land-xhdpi/splash.png
+SHA1-Digest: bBPVhbEDkEXaWwIw5sRbGe/SCqo=
+
+Name: assets/www/addons/mod_imscp/templates/toc.html
+SHA1-Digest: jUbfCAQVG13VCQXzFZpuCyv6UL8=
+
+Name: assets/www/img/files/text-64.png
+SHA1-Digest: k8fyD421U89TSlFI8+dOWT2yspc=
+
+Name: assets/www/lib/ydn.db/test/perf/crud-multi.html
+SHA1-Digest: HnLYjyjP90jbPZyrrCPE49wD4SQ=
+
+Name: assets/www/addons/grades/lang/hu.json
+SHA1-Digest: lE0tDaXYhZkoC58LrvnrsUuWi0U=
+
+Name: assets/www/core/components/sidemenu/lang/zh_tw.json
+SHA1-Digest: civbMUK/7F3lHYBtFLQyW5cXPjE=
+
+Name: assets/www/addons/mod_assign/lang/cs.json
+SHA1-Digest: ITgY1xFFnkerD3+sLgEQtXnraW0=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/crud/req/i_request_executor.js
+SHA1-Digest: aiAKrBO292cAyGiFFEepSt2CMAQ=
+
+Name: assets/www/core/components/course/lang/pt-br.json
+SHA1-Digest: uW0qXa6Udg287kzhRgPgkjc3u2s=
+
+Name: assets/www/addons/grades/lang/eu.json
+SHA1-Digest: sfI21q0BtiXjUbrD3n0kzV8Cxb8=
+
+Name: assets/www/addons/grades/templates/table.html
+SHA1-Digest: FVhoxhv/AWZQ/AoGCjSN3ClKdRI=
+
+Name: assets/www/lib/ngCordova/LICENSE
+SHA1-Digest: Xkx0NSRiL3cvTRWuFViurVob1qI=
+
+Name: assets/www/lib/ydn.db/build.xml
+SHA1-Digest: L1UD67l6G1qZcgnlScCOyVlMNJw=
+
+Name: assets/www/addons/notes/lang/sv.json
+SHA1-Digest: HCaR3TfWrzMvpeGcObLqe9lez2w=
+
+Name: assets/www/addons/mod_imscp/services/course_content_handler.js
+SHA1-Digest: 5tjo0ftjgutZ8uQtmpLonVgeANY=
+
+Name: assets/www/core/assets/countries/ru.json
+SHA1-Digest: LDiefxXhxLA8SDwmRLhubNr7aW4=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/crud/operator.js
+SHA1-Digest: 9nCGC+rH4QZnEfPWZDMqANVmUOA=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/query/primary-key-conj-cursor.j
+ s
+SHA1-Digest: vaALxON1PpwUP8FRjQt2cEX5amc=
+
+Name: assets/www/lib/ydn.db/test/issues/websql-unique-index.html
+SHA1-Digest: oMQdWrGkGfSdptaRS3JVIkzZqYo=
+
+Name: assets/www/lib/ydn.db/test/storage/cor_old_test.html
+SHA1-Digest: XcxfPUa350BWGUbaB9pO7VS7+ys=
+
+Name: assets/www/plugins/org.apache.cordova.globalization/www/Globaliz
+ ationError.js
+SHA1-Digest: 2WUvlz2/NV6udAXRd2kg7c1JDXQ=
+
+Name: assets/www/addons/mod_choice/lang/de.json
+SHA1-Digest: jtZYDLESopKzgfa81RTy8kW3sKM=
+
+Name: assets/www/lib/ydn.db/test/perf/crud-dev.html
+SHA1-Digest: I/3cXtcxM4W04cwsY/8BaJS96kM=
+
+Name: assets/www/lib/angular-aria/angular-aria.min.js
+SHA1-Digest: zaq9oueuuGrWszyCVKxIOTPn1JU=
+
+Name: assets/www/addons/mod_imscp/lang/fa.json
+SHA1-Digest: cZaBiqoz901WnpD9je5um6pAaV0=
+
+Name: assets/www/core/components/user/lang/fr.json
+SHA1-Digest: 0vYriu3dRxFe8WNudHMTXF+oNzg=
+
+Name: assets/www/core/components/login/templates/credentials.html
+SHA1-Digest: 4cc84UJDk7TpknSDNkOvHLk8cdQ=
+
+Name: assets/www/addons/mod_chat/lang/tr.json
+SHA1-Digest: KfCm5+XZvuTiUnroztLTEe6h7D4=
+
+Name: assets/www/core/components/course/lang/pl.json
+SHA1-Digest: vZU4F8VeTkZovZ9bksfGkhBBEd8=
+
+Name: assets/www/lib/ydn.db/test/algo/zigzag_test.js
+SHA1-Digest: 9I4ac/McE0OGXul7frighLbr+VM=
+
+Name: assets/www/lib/ydn.db/test/crud/events_websql_test.html
+SHA1-Digest: eb1lIBUAm9bVJDxC4t1B9D5bQ10=
+
+Name: assets/www/lib/ydn.db/test/core/iteration_2_idb_test.html
+SHA1-Digest: iWbdsq2cnFDZ0JT5pHvjutsa/cg=
+
+Name: assets/www/addons/mod_folder/lang/es-mx.json
+SHA1-Digest: qGNJVQ9gx0TbGf1qHCVmsMYo+Uw=
+
+Name: assets/www/lib/ionic/fonts/ionicons.svg
+SHA1-Digest: B9v0F3lgwTTIB3cO+w21ldNDl5w=
+
+Name: assets/www/addons/frontpage/lang/hu.json
+SHA1-Digest: Dx23AfaDrVxmKuXmiUj3kWX+9rg=
+
+Name: assets/www/img/moodle.png
+SHA1-Digest: CMcRvmGOzDmaeI9ob/ehPKXR3zk=
+
+Name: assets/www/addons/mod_forum/lang/ar.json
+SHA1-Digest: 2MrUDu+CTJk9MnMvcZNpFG/+MTs=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/conn/exports.js
+SHA1-Digest: H0Xlw6GQ7H2Vin3HAazcKjd0weI=
+
+Name: assets/www/addons/pushnotifications/main.js
+SHA1-Digest: KtSPw78ASZTVNAlGu+FvoSk39SI=
+
+Name: assets/www/core/lib/init.js
+SHA1-Digest: ww7CtSsh/s/uMeRZk698s7YQ4kQ=
+
+Name: assets/www/addons/mod_page/lang/it.json
+SHA1-Digest: JlPPUh8xuziJncVWeyoOLsOu9XY=
+
+Name: assets/www/lib/ionic/scss/_loading.scss
+SHA1-Digest: sZNBUdIOn3aDAjpomQFOI2d3GwA=
+
+Name: assets/www/splash.png
+SHA1-Digest: i05/fXkDyRVyATQLW7r0zxlqpIM=
+
+Name: assets/www/addons/mod_assign/lang/he.json
+SHA1-Digest: DSxExD35TfZLQnyJ4oMo+dlCsm8=
+
+Name: assets/www/addons/frontpage/lang/ar.json
+SHA1-Digest: ut+34JezDe6+ldGK828io3T9AZo=
+
+Name: assets/www/addons/mod_url/lang/pl.json
+SHA1-Digest: Nma33zyHhVgs4UTPJu/6IZ2VPkI=
+
+Name: assets/www/core/lib/updatemanager.js
+SHA1-Digest: 9OGrKPr4e/vYcXXdjmsAcePJZDY=
+
+Name: assets/www/addons/calendar/lang/zh-cn.json
+SHA1-Digest: 5W6ls3xO4M60VQTB6fK0NM7B/kw=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/conn/simple/base.js
+SHA1-Digest: aaQZdS1bE47kmuDKEhMDUTPqWKU=
+
+Name: assets/www/core/lib/sitesfactory.js
+SHA1-Digest: wgmYq+JUNaf2LPZvCe387amvGpM=
+
+Name: assets/www/addons/messages/lang/he.json
+SHA1-Digest: uCNDThEEPzjqIVnwhJ9RDM/Rgq0=
+
+Name: assets/www/addons/mod_folder/controllers/index.js
+SHA1-Digest: bdwtTB91BnmWcUcyos4O0xdSG40=
+
+Name: assets/www/lib/ydn.db/test/qunit/sql.js
+SHA1-Digest: jhQcTTMjfcYp66ZnpOtzZmJbBPY=
+
+Name: assets/www/addons/notifications/lang/en.json
+SHA1-Digest: C+xEH9FRQTqj8xWmHjfY+tHfii8=
+
+Name: assets/www/addons/mod_assign/lang/es.json
+SHA1-Digest: 4NDVba/xzPBCbZRz9HoE9m55cRM=
+
+Name: assets/www/lib/ydn.db/externs/schema.js
+SHA1-Digest: TewJuYbwwdQwjP2SR05qVZwwBMw=
+
+Name: assets/www/addons/mod_book/lang/pl.json
+SHA1-Digest: UVL2ZAjdpEo4mhh4M5KfN/njSNM=
+
+Name: assets/www/core/components/course/templates/section.html
+SHA1-Digest: PUlz4jUWvHLSZnKjEZJQFwWfCIc=
+
+Name: assets/www/img/mod/survey.svg
+SHA1-Digest: oTDZ9XpMa3o3RsMEyfW6Btv9yrQ=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/events.js
+SHA1-Digest: wEyTRSok1MQ61S9sg5hXBrKQCH8=
+
+Name: assets/www/img/mod/scorm.svg
+SHA1-Digest: 6xNLKfEqgyw0/PwaCr/MXf6q+aU=
+
+Name: assets/www/addons/mod_imscp/lang/ca.json
+SHA1-Digest: BzLvnIZKGzYtpEhS3iRLaFinLIM=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/sql/operator.js
+SHA1-Digest: 6A+xGSyGPrYK0resVlZuG1PuwKg=
+
+Name: assets/www/addons/mod_page/controllers/index.js
+SHA1-Digest: 4WTzbz9Jd6TC0OOrsSUJnIJ1dCE=
+
+Name: assets/www/addons/frontpage/lang/es-mx.json
+SHA1-Digest: 0uZpBCfZRlNrDZRsUUL92keQOSw=
+
+Name: assets/www/addons/mod_page/lang/nl.json
+SHA1-Digest: F10HxWrZLeNSy/Lax2TP71f5b1g=
+
+Name: assets/www/img/mod/wiki.svg
+SHA1-Digest: dHR+YVu+h1ij34izFpkDII2bLZ0=
+
+Name: assets/www/addons/calendar/lang/sv.json
+SHA1-Digest: xqjkgSFeeyvLCgbYulfDIStHJAg=
+
+Name: assets/www/addons/notes/lang/pt_br.json
+SHA1-Digest: P5+E6yUhrQxV9JEUMDZ8ppDnaqs=
+
+Name: assets/www/addons/mod_imscp/lang/hu.json
+SHA1-Digest: YigDD1Wzofzax0zyANv1lE4zN6k=
+
+Name: assets/www/lib/ydn.db/test/algo/scan_websql_test.html
+SHA1-Digest: q+HkuZvHI9COtPZ5ZJI9JWxQYU4=
+
+Name: assets/www/addons/messages/lang/es.json
+SHA1-Digest: EQcUwr8FiIIGXh0o2t9Uoo6KSLg=
+
+Name: assets/www/addons/grades/lang/bg.json
+SHA1-Digest: KfwIfm4RmBOEVhFQgYFcqEswh4g=
+
+Name: assets/www/core/components/sidemenu/lang/he.json
+SHA1-Digest: XkIsiAAsNvyPBFw/K/drkx+DVA4=
+
+Name: assets/www/core/components/user/controllers/profile.js
+SHA1-Digest: rWIyl4BnMnmiU7HomJnWE/1b0aM=
+
+Name: assets/www/lib/angular-sanitize/bower.json
+SHA1-Digest: 8jfv2wOzCXDgGYxJ/XTExtq8s44=
+
+Name: assets/www/lib/ydn.db/test/qunit/cursor.js
+SHA1-Digest: rx15KMAdH0Uwk3WHxE/j4hqV62s=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/query/exports.js
+SHA1-Digest: 3fdZMCNOHxg0iFkep2PrnMJq1eE=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/base/schema/fulltext/entry.js
+SHA1-Digest: 83OmMYbY8EcMKRJYKcBB3CfjOJg=
+
+Name: assets/www/core/lang/it.json
+SHA1-Digest: ahA2mLsRs8n22qMPOVbzDYo7Y4Q=
+
+Name: assets/www/img/mod/lti.svg
+SHA1-Digest: kfh4nPYMRmbfrL+jLYukESGoh2A=
+
+Name: assets/www/core/lib/site.js
+SHA1-Digest: cUdcBojjohW8Xb9Sro7WZA7z/QI=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/utils/test_utils.js
+SHA1-Digest: O16QT/IcNCP92yGI6hrsU1W5l+U=
+
+Name: assets/www/addons/mod_imscp/templates/index.html
+SHA1-Digest: ZJ3LydduP0IN+wwbn93lVxfypXM=
+
+Name: assets/www/img/mod/glossary.svg
+SHA1-Digest: 4eVjpajjgCndUPFH1BQ9G9pspus=
+
+Name: assets/www/lib/ydn.db/src/ydn/db/conn/i_storage.js
+SHA1-Digest: dU0rtMd8sv/qET2tQMJAfAkgsg4=
+
+Name: assets/www/lib/ydn.db/test/issues/issue-111.html
+SHA1-Digest: baiDyADRYRBr9b0Cx/t2mre7NUA=
+
+Name: assets/www/addons/mod_chat/lang/pt_br.json
+SHA1-Digest: kxNzsVNu7PWxF8syYuIDIyjkkfc=
+
+Name: assets/www/core/components/settings/lang/he.json
+SHA1-Digest: hdqvgOUm+jj3VPShKaA/74lGqFs=
+
+Name: assets/www/addons/messages/lang/de.json
+SHA1-Digest: tebzmyLmYQ91uCM1YRF1Ldiai7A=
+
+Name: assets/www/build/mm.bundle.js
+SHA1-Digest: aF2xHZI/LUzSMd0O+d80tbCl/nI=
+
+Name: assets/www/lib/ydn.db/test/storage/tr_test.html
+SHA1-Digest: fwuziD1soCsUj8H2J3wyZeW9Wbw=
+
+Name: assets/www/addons/coursecompletion/lang/pl.json
+SHA1-Digest: hOTvWgCRashVLA3Bq+mmOGMYc5k=
+
+Name: assets/www/lib/ydn.db/test/crud/key_2_websql_test.html
+SHA1-Digest: IkWOLZIF0XfaRWTI0E++huziDiY=
+
+Name: assets/www/core/components/user/lang/eu.json
+SHA1-Digest: ISjnZQaLN2PIgr8sXPjEcnzaoWE=
+
+Name: assets/www/addons/notes/main.js
+SHA1-Digest: CXMYyRLDV6iJzQ0BpD4PZdbnNoA=
+
+Name: assets/www/core/components/settings/controllers/general.js
+SHA1-Digest: rThKQHjEZOFWyKho4MzgF8vo2uw=
+
+Name: assets/www/core/components/user/lang/hu.json
+SHA1-Digest: /aIEGef//s81tnTjayjrJVwVo1U=
+
+Name: assets/www/addons/files/lang/pt_br.json
+SHA1-Digest: xhx+KGuPEpGx9BvDzHZ5/QU2/io=
+
+Name: assets/www/lib/ydn.db/test/qunit/crud.js
+SHA1-Digest: HNYYiL/OB6AWU521EzXDADHSe5M=
+
+Name: assets/www/lib/ydn.db/test/qunit/debug.js
+SHA1-Digest: PIVMdUbtbMbpGTtOrQpV2aPFJs4=
+
+Name: assets/www/addons/mod_chat/lang/nl.json
+SHA1-Digest: NNKXbUgyA6bVU6K8k3764+RHY88=
+
+Name: assets/www/addons/mod_forum/main.js
+SHA1-Digest: YBjxqdON+w7oqMVbNLwcNHY5U6g=
+
+Name: assets/www/plugins/org.apache.cordova.media-capture/www/CaptureV
+ ideoOptions.js
+SHA1-Digest: yu9JX0ReyWS4ZRG+dVRb7DHpKoo=
+
+Name: assets/www/lib/angular-md5/angular-md5.min.js.map
+SHA1-Digest: RTqdhkCCyNvsRjDRPy0aqEAWGT4=
+
+Name: assets/www/core/components/user/lang/ar.json
+SHA1-Digest: +PBKqTNQCf93xzwWGdEGHp2OLjI=
+
+Name: assets/www/addons/mod_forum/controllers/discussion.js
+SHA1-Digest: YveGhSWdpvqnpm4qeCQt6X0EWQw=
+
+Name: assets/www/core/components/sidemenu/lang/de.json
+SHA1-Digest: rnZeh+h1eaSmnyYqnVtOitDwU/k=
+
+Name: assets/www/core/components/settings/lang/cs.json
+SHA1-Digest: LJFlikuEgFw7hqEpy5iqAiekEx0=
+
+Name: assets/www/core/components/course/services/content_handler.js
+SHA1-Digest: TfzfWzGMFmCrLJp3Mb4rEz5NrKU=
+
+Name: assets/www/core/components/login/templates/init.html
+SHA1-Digest: iEn82k34XTHcrUPxhWEKmPPEKeQ=
+
+Name: assets/www/addons/mod_assign/lang/sv.json
+SHA1-Digest: PfwEDvibXzQK0uuMuM7euGIJi3U=
+
+Name: assets/www/core/components/sidemenu/lang/cs.json
+SHA1-Digest: 18hM4iRaJdlz37uNxoFHGIqMaJk=
+
+Name: assets/www/core/components/settings/lang/es.json
+SHA1-Digest: u6Q4WsH4A7WP3n/AUV5/f5gYxeU=
+
+Name: assets/www/addons/mod_page/services/page.js
+SHA1-Digest: 01sCGYZV9/A3cssslftEEATxQ4A=
+
+Name: assets/www/lib/angular-ui-router/src/view.js
+SHA1-Digest: KaV3p4aYcmDGfknHHdzFh3BaLoo=
+
+Name: assets/www/addons/mod_book/lang/nl.json
+SHA1-Digest: MtW/PbIyKUssf+2zyFHUk3XMrKM=
+
+Name: assets/www/build/lang/en.json
+SHA1-Digest: 0ErfCTXii5OlC+Aha52KTqaEKd8=
+
+Name: assets/www/lib/angular-sanitize/package.json
+SHA1-Digest: BBdjOXnliWuVmTZA6iSyA2yH3GA=
+
+Name: assets/www/lib/ydn.db/test/issues/jquery-promise.html
+SHA1-Digest: sn/7gWOSZ5RQ1AQBIdLlU4ro9mo=
+
+Name: assets/www/addons/coursecompletion/lang/nl.json
+SHA1-Digest: ZX/Y3Sy0PO/sXhDI4jMFtWpdIUU=
+
+Name: assets/www/core/assets/countries/tr.json
+SHA1-Digest: IRS7KGToPSQ1xzDwRG2IYokiYd4=
+
+Name: assets/www/addons/mod_choice/services/course_content_handler.js
+SHA1-Digest: Q2VKHbUlhNTKmbDLDTDxNjm4aNM=
+
+Name: assets/www/img/completion/completion-auto-fail.svg
+SHA1-Digest: NQziMkAeurBlRM/GAFCMwdh4ipk=
+
+Name: assets/www/addons/files/lang/it.json
+SHA1-Digest: ih/OqMelgNZiBwBgC6VhEP2DU0w=
+
+Name: assets/www/addons/mod_folder/lang/pt-br.json
+SHA1-Digest: xJ36qa4rFh4w0vF8uZwlZoFuJ6I=
+
+Name: assets/www/core/components/user/lang/zh_tw.json
+SHA1-Digest: dvyL2G7oF08kYNH2OFAgaczNbJI=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/ProgressEvent.js
+SHA1-Digest: SHz2zufUm+KPPcJMKn25SgSDH9c=
+
+Name: assets/www/core/components/user/services/delegate.js
+SHA1-Digest: hQE58riqPlRqqWZCuI7NH8Qnx2A=
+

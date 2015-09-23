@@ -1,0 +1,6 @@
+{
+    "errorgetforum": "Erro ao buscar dados de fórum.",
+    "forumnodiscussionsyet": "Não existem tópicos neste fórum ainda",
+    "numdiscussions": "{{numdiscussions}} discussões",
+    "numreplies": "{{numreplies}} respostas"
+}
